@@ -1,0 +1,44 @@
+{
+  "Biotechnology and Biomedical Engineering": {
+    "avg_h_index": 491.8,
+    "avg_sjr": 25.608,
+    "avg_impact_factor": 33.46,
+    "num_journals": 25
+  },
+  "Electrochemical Engineering": {
+    "avg_h_index": 198.0,
+    "avg_sjr": 4.65,
+    "avg_impact_factor": 16.51,
+    "num_journals": 25
+  },
+  "Nanotechnology for Advanced Materials": {
+    "avg_h_index": 256.1,
+    "avg_sjr": 9.117,
+    "avg_impact_factor": 25.18,
+    "num_journals": 25
+  },
+  "Process Systems Engineering": {
+    "avg_h_index": 282.2,
+    "avg_sjr": 7.349,
+    "avg_impact_factor": 16.04,
+    "num_journals": 25
+  },
+  "Soft Matter & Polymer Engineering": {
+    "avg_h_index": 223.7,
+    "avg_sjr": 2.4,
+    "avg_impact_factor": 11.63,
+    "num_journals": 25
+  },
+  "Sustainable Reaction Engineering": {
+    "avg_h_index": 239.8,
+    "avg_sjr": 9.862,
+    "avg_impact_factor": 24.57,
+    "num_journals": 25
+  },
+  "Multidisciplinary & Core Engineering": {
+    "avg_h_index": 318.8,
+    "avg_sjr": 15.617,
+    "avg_impact_factor": 18.14,
+    "num_journals": 25
+  }
+}

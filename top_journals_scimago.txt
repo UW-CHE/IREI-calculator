@@ -1,0 +1,6341 @@
+TOP JOURNALS BY RESEARCH CATEGORY (SCImago Rankings)
+================================================================================
+Data source: SCImago Journal & Country Rank
+Ranked by combined SJR score and h-index
+================================================================================
+
+
+BIOTECHNOLOGY AND BIOMEDICAL ENGINEERING
+--------------------------------------------------------------------------------
+
+ 1. Ca-A Cancer Journal for Clinicians
+    ISSN: 15424863, 00079235
+    Publisher: John Wiley and Sons Inc
+    Country: United States
+    Impact Factor (2yr): 168.71
+    SJR Score: 145.004
+    h-index: 223
+    Total Documents: 43
+
+ 2. MMWR Recommendations and Reports
+    ISSN: 10575987, 15458601
+    Publisher: Centers for Disease Control and Prevention (CDC)
+    Country: United States
+    Impact Factor (2yr): 75.11
+    SJR Score: 41.754
+    h-index: 155
+    Total Documents: 6
+
+ 3. Nature Reviews Molecular Cell Biology
+    ISSN: 14710072, 14710080
+    Publisher: Nature Research
+    Country: United Kingdom
+    Impact Factor (2yr): 40.61
+    SJR Score: 37.353
+    h-index: 531
+    Total Documents: 125
+
+ 4. Nature Reviews Drug Discovery
+    ISSN: 14741784, 14741776
+    Publisher: Nature Research
+    Country: United Kingdom
+    Impact Factor (2yr): 16.64
+    SJR Score: 30.506
+    h-index: 412
+    Total Documents: 247
+
+ 5. Nature Reviews Clinical Oncology
+    ISSN: 17594782, 17594774
+    Publisher: Nature Publishing Group
+    Country: United Kingdom
+    Impact Factor (2yr): 33.23
+    SJR Score: 28.675
+    h-index: 238
+    Total Documents: 130
+
+ 6. Cell
+    ISSN: 00928674, 10974172
+    Publisher: Elsevier B.V.
+    Country: United States
+    Impact Factor (2yr): 30.22
+    SJR Score: 22.612
+    h-index: 925
+    Total Documents: 537
+
+ 7. Nature Reviews Cancer
+    ISSN: 1474175X, 14741768
+    Publisher: Nature Publishing Group
+    Country: United Kingdom
+    Impact Factor (2yr): 28.49
+    SJR Score: 24.378
+    h-index: 527
+    Total Documents: 125
+
+ 8. New England Journal of Medicine
+    ISSN: 00284793, 15334406
+    Publisher: Massachussetts Medical Society
+    Country: United States
+    Impact Factor (2yr): 18.37
+    SJR Score: 19.076
+    h-index: 1231
+    Total Documents: 1,282
+
+ 9. Nature Biotechnology
+    ISSN: 15461696, 10870156
+    Publisher: Nature Research
+    Country: United Kingdom
+    Impact Factor (2yr): 14.83
+    SJR Score: 19.006
+    h-index: 531
+    Total Documents: 527
+
+10. Nature Medicine
+    ISSN: 1546170X, 10788956
+    Publisher: Nature Research
+    Country: United Kingdom
+    Impact Factor (2yr): 22.55
+    SJR Score: 18.333
+    h-index: 653
+    Total Documents: 680
+
+11. Cancer Cell
+    ISSN: 15356108, 18783686
+    Publisher: Cell Press
+    Country: United States
+    Impact Factor (2yr): 24.69
+    SJR Score: 19.027
+    h-index: 416
+    Total Documents: 190
+
+12. Chemical Reviews
+    ISSN: 15206890, 00092665
+    Publisher: American Chemical Society
+    Country: United States
+    Impact Factor (2yr): 53.84
+    SJR Score: 16.455
+    h-index: 873
+    Total Documents: 227
+
+13. Annals of Oncology
+    ISSN: 15698041, 09237534
+    Publisher: Elsevier Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 22.61
+    SJR Score: 19.072
+    h-index: 311
+    Total Documents: 167
+
+14. Nature Reviews Materials
+    ISSN: 20588437
+    Publisher: Nature Publishing Group
+    Country: United Kingdom
+    Impact Factor (2yr): 34.96
+    SJR Score: 19.43
+    h-index: 215
+    Total Documents: 123
+
+15. Reviews of Modern Physics
+    ISSN: 00346861, 15390756
+    Publisher: American Physical Society
+    Country: United States
+    Impact Factor (2yr): 38.49
+    SJR Score: 18.08
+    h-index: 399
+    Total Documents: 35
+
+16. Nature Reviews Immunology
+    ISSN: 14741741, 14741733
+    Publisher: Nature Research
+    Country: United Kingdom
+    Impact Factor (2yr): 23.43
+    SJR Score: 17.458
+    h-index: 486
+    Total Documents: 141
+
+17. Nature Genetics
+    ISSN: 10614036, 15461718
+    Publisher: Nature Research
+    Country: United Kingdom
+    Impact Factor (2yr): 16.08
+    SJR Score: 16.586
+    h-index: 660
+    Total Documents: 393
+
+18. Nature Methods
+    ISSN: 15487091, 15487105
+    Publisher: Nature Research
+    Country: United Kingdom
+    Impact Factor (2yr): 13.51
+    SJR Score: 17.251
+    h-index: 408
+    Total Documents: 415
+
+19. World Psychiatry
+    ISSN: 17238617
+    Publisher: Wiley-Blackwell
+    Country: United States
+    Impact Factor (2yr): 13.01
+    SJR Score: 18.419
+    h-index: 153
+    Total Documents: 113
+
+20. Nature Reviews Disease Primers
+    ISSN: 2056676X
+    Publisher: Nature Publishing Group
+    Country: United Kingdom
+    Impact Factor (2yr): 33.84
+    SJR Score: 17.995
+    h-index: 210
+    Total Documents: 63
+
+21. Nature Reviews Genetics
+    ISSN: 14710056, 14710064
+    Publisher: Nature Research
+    Country: United Kingdom
+    Impact Factor (2yr): 23.6
+    SJR Score: 16.364
+    h-index: 439
+    Total Documents: 124
+
+22. Annual Review of Immunology
+    ISSN: 15453278, 07320582
+    Publisher: Annual Reviews Inc.
+    Country: United States
+    Impact Factor (2yr): 30.94
+    SJR Score: 16.428
+    h-index: 337
+    Total Documents: 19
+
+23. Nature Materials
+    ISSN: 14764660, 14761122
+    Publisher: Nature Publishing Group
+    Country: United Kingdom
+    Impact Factor (2yr): 21.92
+    SJR Score: 14.204
+    h-index: 583
+    Total Documents: 322
+
+24. Nature Nanotechnology
+    ISSN: 17483387, 17483395
+    Publisher: Nature Publishing Group
+    Country: United Kingdom
+    Impact Factor (2yr): 24.62
+    SJR Score: 14.612
+    h-index: 444
+    Total Documents: 272
+
+25. The Lancet
+    ISSN: 01406736, 1474547X
+    Publisher: Elsevier B.V.
+    Country: United Kingdom
+    Impact Factor (2yr): 12.12
+    SJR Score: 12.113
+    h-index: 936
+    Total Documents: 1,518
+
+26. Academy of Management Review
+    ISSN: 03637425
+    Publisher: Academy of Management
+    Country: United States
+    Impact Factor (2yr): 10.61
+    SJR Score: 14.402
+    h-index: 320
+    Total Documents: 51
+
+27. MMWR Surveillance Summaries
+    ISSN: 15458636, 15460738
+    Publisher: Centers for Disease Control and Prevention (CDC)
+    Country: United States
+    Impact Factor (2yr): 57.05
+    SJR Score: 15.326
+    h-index: 119
+    Total Documents: 9
+
+28. Nature Reviews Microbiology
+    ISSN: 17401534, 17401526
+    Publisher: Nature Research
+    Country: United Kingdom
+    Impact Factor (2yr): 29.68
+    SJR Score: 13.861
+    h-index: 393
+    Total Documents: 131
+
+29. Nature Reviews Methods Primers
+    ISSN: 26628449
+    Publisher: Springer Nature
+    Country: United Kingdom
+    Impact Factor (2yr): 34.64
+    SJR Score: 15.026
+    h-index: 67
+    Total Documents: 49
+
+30. Annual Review of Psychology
+    ISSN: 00664308, 15452085
+    Publisher: Annual Reviews Inc.
+    Country: United States
+    Impact Factor (2yr): 32.57
+    SJR Score: 13.786
+    h-index: 298
+    Total Documents: 25
+
+31. Living Reviews in Relativity
+    ISSN: 14338351, 23673613
+    Publisher: Springer International Publishing AG
+    Country: Switzerland
+    Impact Factor (2yr): 55.55
+    SJR Score: 14.562
+    h-index: 101
+    Total Documents: 6
+
+32. Nature Catalysis
+    ISSN: 25201158
+    Publisher: Nature Publishing Group
+    Country: United States
+    Impact Factor (2yr): 25.3
+    SJR Score: 14.132
+    h-index: 162
+    Total Documents: 185
+
+33. Chemical Society Reviews
+    ISSN: 03060012, 14604744
+    Publisher: Royal Society of Chemistry
+    Country: United Kingdom
+    Impact Factor (2yr): 37.17
+    SJR Score: 11.467
+    h-index: 673
+    Total Documents: 310
+
+34. Immunity
+    ISSN: 10974180, 10747613
+    Publisher: Cell Press
+    Country: United States
+    Impact Factor (2yr): 17.48
+    SJR Score: 12.163
+    h-index: 475
+    Total Documents: 233
+
+35. Journal of Clinical Oncology
+    ISSN: 15277755, 0732183X
+    Publisher: Lippincott Williams and Wilkins
+    Country: United States
+    Impact Factor (2yr): 13.85
+    SJR Score: 11.205
+    h-index: 646
+    Total Documents: 622
+
+36. Physiological Reviews
+    ISSN: 15221210, 00319333
+    Publisher: American Physiological Society
+    Country: United States
+    Impact Factor (2yr): 26.37
+    SJR Score: 12.167
+    h-index: 401
+    Total Documents: 39
+
+37. Nature Reviews Chemistry
+    ISSN: 23973358
+    Publisher: Nature Publishing Group
+    Country: United Kingdom
+    Impact Factor (2yr): 22.05
+    SJR Score: 13.441
+    h-index: 131
+    Total Documents: 106
+
+38. American Economic Journal: Macroeconomics
+    ISSN: 19457707, 19457715
+    Publisher: American Economic Association
+    Country: United States
+    Impact Factor (2yr): 5.87
+    SJR Score: 13.528
+    h-index: 88
+    Total Documents: 24
+
+39. Cell Metabolism
+    ISSN: 15504131, 19327420
+    Publisher: Cell Press
+    Country: United States
+    Impact Factor (2yr): 21.71
+    SJR Score: 11.989
+    h-index: 368
+    Total Documents: 185
+
+40. Nature Neuroscience
+    ISSN: 10976256, 15461726
+    Publisher: Nature Research
+    Country: United Kingdom
+    Impact Factor (2yr): 12.23
+    SJR Score: 11.197
+    h-index: 496
+    Total Documents: 291
+
+41. The Lancet Neurology
+    ISSN: 14744465, 14744422
+    Publisher: Elsevier Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 10.2
+    SJR Score: 11.729
+    h-index: 379
+    Total Documents: 326
+
+42. The Lancet Oncology
+    ISSN: 14702045, 14745488
+    Publisher: Elsevier Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 9.61
+    SJR Score: 11.319
+    h-index: 432
+    Total Documents: 475
+
+43. The Lancet Diabetes and Endocrinology
+    ISSN: 22138595, 22138587
+    Publisher: Elsevier Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 10.82
+    SJR Score: 12.19
+    h-index: 189
+    Total Documents: 193
+
+44. Annual Review of Pathology: Mechanisms of Disease
+    ISSN: 15534006, 15534014
+    Publisher: Annual Reviews Inc.
+    Country: United States
+    Impact Factor (2yr): 33.18
+    SJR Score: 12.185
+    h-index: 156
+    Total Documents: 22
+
+45. Signal Transduction and Targeted Therapy
+    ISSN: 20593635, 20959907
+    Publisher: Springer Nature
+    Country: United Kingdom
+    Impact Factor (2yr): 29.1
+    SJR Score: 12.135
+    h-index: 161
+    Total Documents: 365
+
+46. Nature Immunology
+    ISSN: 15292908, 15292916
+    Publisher: Nature Research
+    Country: United Kingdom
+    Impact Factor (2yr): 12.14
+    SJR Score: 10.39
+    h-index: 452
+    Total Documents: 320
+
+47. Academy of Management Journal
+    ISSN: 00014273
+    Publisher: Academy of Management
+    Country: United States
+    Impact Factor (2yr): 10.55
+    SJR Score: 10.528
+    h-index: 396
+    Total Documents: 59
+
+48. Nature Cancer
+    ISSN: 26621347
+    Publisher: Nature Research
+    Country: United States
+    Impact Factor (2yr): 14.28
+    SJR Score: 11.941
+    h-index: 81
+    Total Documents: 189
+
+49. Advanced Materials
+    ISSN: 09359648, 15214095
+    Publisher: Wiley-Blackwell
+    Country: United States
+    Impact Factor (2yr): 27.78
+    SJR Score: 8.851
+    h-index: 675
+    Total Documents: 3,634
+
+50. Journal of Hepatology
+    ISSN: 16000641, 01688278
+    Publisher: Elsevier B.V.
+    Country: Netherlands
+    Impact Factor (2yr): 15.48
+    SJR Score: 10.575
+    h-index: 319
+    Total Documents: 444
+
+51. Circulation
+    ISSN: 00097322, 15244539
+    Publisher: Lippincott Williams and Wilkins
+    Country: United States
+    Impact Factor (2yr): 13.55
+    SJR Score: 8.668
+    h-index: 691
+    Total Documents: 617
+
+52. The Lancet Gastroenterology and Hepatology
+    ISSN: 24681253
+    Publisher: Elsevier Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 13.01
+    SJR Score: 11.398
+    h-index: 123
+    Total Documents: 242
+
+53. Joule
+    ISSN: 25424351
+    Publisher: Cell Press
+    Country: United States
+    Impact Factor (2yr): 23.73
+    SJR Score: 10.868
+    h-index: 221
+    Total Documents: 232
+
+54. MMWR supplements
+    ISSN: 23808942, 23808950
+    Publisher: Epidemiology Program Office
+    Country: United States
+    Impact Factor (2yr): 35.06
+    SJR Score: 11.672
+    h-index: 30
+    Total Documents: 22
+
+55. Nature Reviews Neuroscience
+    ISSN: 14710048, 1471003X
+    Publisher: Springer Nature
+    Country: United Kingdom
+    Impact Factor (2yr): 11.6
+    SJR Score: 9.331
+    h-index: 493
+    Total Documents: 112
+
+56. Nature Reviews Cardiology
+    ISSN: 17595010, 17595002
+    Publisher: Nature Research
+    Country: United Kingdom
+    Impact Factor (2yr): 15.78
+    SJR Score: 10.662
+    h-index: 201
+    Total Documents: 148
+
+57. Journal of the American College of Cardiology
+    ISSN: 15583597, 07351097
+    Publisher: Elsevier Inc.
+    Country: United States
+    Impact Factor (2yr): 9.29
+    SJR Score: 9.015
+    h-index: 512
+    Total Documents: 682
+
+58. Administrative Science Quarterly
+    ISSN: 00018392, 19303815
+    Publisher: Johnson School at Cornell University
+    Country: United States
+    Impact Factor (2yr): 7.37
+    SJR Score: 10.393
+    h-index: 218
+    Total Documents: 29
+
+59. Molecular Cell
+    ISSN: 10974164, 10972765
+    Publisher: Cell Press
+    Country: United States
+    Impact Factor (2yr): 12.04
+    SJR Score: 9.051
+    h-index: 459
+    Total Documents: 401
+
+60. Annual Review of Biochemistry
+    ISSN: 15454509, 00664154
+    Publisher: Annual Reviews Inc.
+    Country: United States
+    Impact Factor (2yr): 20.09
+    SJR Score: 9.52
+    h-index: 332
+    Total Documents: 22
+
+61. Nucleic Acids Research
+    ISSN: 03051048, 13624962
+    Publisher: Oxford University Press
+    Country: United Kingdom
+    Impact Factor (2yr): 16.9
+    SJR Score: 7.776
+    h-index: 675
+    Total Documents: 1,282
+
+62. Kidney International Supplements
+    ISSN: 21571716, 21571724
+    Publisher: Elsevier B.V.
+    Country: United States
+    Impact Factor (2yr): 81.56
+    SJR Score: 10.788
+    h-index: 54
+    Total Documents: 12
+
+63. Journal of Hematology and Oncology
+    ISSN: 17568722
+    Publisher: BioMed Central Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 26.08
+    SJR Score: 10.192
+    h-index: 171
+    Total Documents: 125
+
+64. Nature Reviews Gastroenterology and Hepatology
+    ISSN: 17595045, 17595053
+    Publisher: Nature Research
+    Country: United Kingdom
+    Impact Factor (2yr): 15.77
+    SJR Score: 9.911
+    h-index: 211
+    Total Documents: 143
+
+65. Morbidity and Mortality Weekly Report
+    ISSN: 01492195, 1545861X
+    Publisher: Department of Health and Human Services
+    Country: United States
+    Impact Factor (2yr): 13.0
+    SJR Score: 9.559
+    h-index: 274
+    Total Documents: 235
+
+66. Organizational Research Methods
+    ISSN: 15527425, 10944281
+    Publisher: SAGE Publications Inc.
+    Country: United States
+    Impact Factor (2yr): 30.02
+    SJR Score: 10.181
+    h-index: 148
+    Total Documents: 43
+
+67. Cell Stem Cell
+    ISSN: 19345909, 18759777
+    Publisher: Cell Press
+    Country: United States
+    Impact Factor (2yr): 12.67
+    SJR Score: 9.313
+    h-index: 316
+    Total Documents: 158
+
+68. Nature Biomedical Engineering
+    ISSN: 2157846X
+    Publisher: Nature Research
+    Country: United Kingdom
+    Impact Factor (2yr): 21.44
+    SJR Score: 10.105
+    h-index: 140
+    Total Documents: 204
+
+69. Endocrine Reviews
+    ISSN: 19457189, 0163769X
+    Publisher: The Endocrine Society
+    Country: United States
+    Impact Factor (2yr): 25.91
+    SJR Score: 9.175
+    h-index: 317
+    Total Documents: 35
+
+70. Gut
+    ISSN: 14683288, 00175749
+    Publisher: BMJ Publishing Group
+    Country: United Kingdom
+    Impact Factor (2yr): 14.49
+    SJR Score: 8.874
+    h-index: 364
+    Total Documents: 312
+
+71. Psychological Bulletin
+    ISSN: 00332909, 19391455
+    Publisher: American Psychological Association
+    Country: United States
+    Impact Factor (2yr): 19.12
+    SJR Score: 8.696
+    h-index: 379
+    Total Documents: 45
+
+72. Molecular Cancer
+    ISSN: 14764598
+    Publisher: BioMed Central Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 30.3
+    SJR Score: 9.263
+    h-index: 222
+    Total Documents: 276
+
+73. Annual Review of Condensed Matter Physics
+    ISSN: 19475454, 19475462
+    Publisher: Annual Reviews Inc.
+    Country: United States
+    Impact Factor (2yr): 31.41
+    SJR Score: 9.795
+    h-index: 96
+    Total Documents: 15
+
+74. Nature Reviews Physics
+    ISSN: 25225820
+    Publisher: Springer International Publishing
+    Country: United Kingdom
+    Impact Factor (2yr): 13.51
+    SJR Score: 9.803
+    h-index: 87
+    Total Documents: 112
+
+75. Advanced Energy Materials
+    ISSN: 16146832, 16146840
+    Publisher: John Wiley and Sons Inc
+    Country: Germany
+    Impact Factor (2yr): 25.86
+    SJR Score: 8.378
+    h-index: 355
+    Total Documents: 1,188
+
+76. Cell Research
+    ISSN: 17487838, 10010602
+    Publisher: Springer Nature
+    Country: United Kingdom
+    Impact Factor (2yr): 9.06
+    SJR Score: 8.74
+    h-index: 232
+    Total Documents: 155
+
+77. European Urology
+    ISSN: 18737560, 03022838
+    Publisher: Elsevier B.V.
+    Country: Netherlands
+    Impact Factor (2yr): 6.96
+    SJR Score: 8.529
+    h-index: 274
+    Total Documents: 394
+
+78. Progress in Materials Science
+    ISSN: 18732208, 00796425
+    Publisher: Elsevier Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 40.1
+    SJR Score: 8.566
+    h-index: 255
+    Total Documents: 84
+
+79. Nature Cell Biology
+    ISSN: 14764679, 14657392
+    Publisher: Nature Research
+    Country: United Kingdom
+    Impact Factor (2yr): 10.39
+    SJR Score: 7.711
+    h-index: 420
+    Total Documents: 261
+
+80. Annual Review of Plant Biology
+    ISSN: 15452123, 15435008
+    Publisher: Annual Reviews Inc.
+    Country: United States
+    Impact Factor (2yr): 28.16
+    SJR Score: 8.258
+    h-index: 307
+    Total Documents: 28
+
+81. Journal of Consumer Research
+    ISSN: 00935301, 15375277
+    Publisher: Oxford University Press
+    Country: United Kingdom
+    Impact Factor (2yr): 8.97
+    SJR Score: 8.562
+    h-index: 234
+    Total Documents: 78
+
+82. Gastroenterology
+    ISSN: 15280012, 00165085
+    Publisher: W.B. Saunders
+    Country: United States
+    Impact Factor (2yr): 7.19
+    SJR Score: 7.195
+    h-index: 482
+    Total Documents: 480
+
+83. Nature Climate Change
+    ISSN: 17586798, 1758678X
+    Publisher: Nature Research
+    Country: United Kingdom
+    Impact Factor (2yr): 11.98
+    SJR Score: 8.046
+    h-index: 296
+    Total Documents: 299
+
+84. Neuron
+    ISSN: 10974199, 08966273
+    Publisher: Cell Press
+    Country: United States
+    Impact Factor (2yr): 9.96
+    SJR Score: 6.755
+    h-index: 548
+    Total Documents: 336
+
+85. Acta Mathematica
+    ISSN: 00015962
+    Publisher: Springer Netherlands
+    Country: Netherlands
+    Impact Factor (2yr): 7.39
+    SJR Score: 9.069
+    h-index: 80
+    Total Documents: 8
+
+86. Annals of Mathematics
+    ISSN: 0003486X
+    Publisher: Department of Mathematics at Princeton University
+    Country: United States
+    Impact Factor (2yr): 5.34
+    SJR Score: 8.627
+    h-index: 145
+    Total Documents: 41
+
+87. JAMA Oncology
+    ISSN: 23742445, 23742437
+    Publisher: American Medical Association
+    Country: United States
+    Impact Factor (2yr): 8.32
+    SJR Score: 8.377
+    h-index: 193
+    Total Documents: 371
+
+88. JAMA
+    ISSN: 15383598, 00987484
+    Publisher: American Medical Association
+    Country: United States
+    Impact Factor (2yr): 6.96
+    SJR Score: 5.352
+    h-index: 794
+    Total Documents: 1,559
+
+89. Annals of Mathematics Studies
+    ISSN: 00662313
+    Publisher: Princeton University
+    Country: United States
+    Impact Factor (2yr): 13.0
+    SJR Score: 9.135
+    h-index: 26
+    Total Documents: 0
+
+90. Progress in Energy and Combustion Science
+    ISSN: 03601285
+    Publisher: Elsevier B.V.
+    Country: United Kingdom
+    Impact Factor (2yr): 44.9
+    SJR Score: 8.031
+    h-index: 243
+    Total Documents: 25
+
+91. Annual Review of Public Health
+    ISSN: 01637525, 15452093
+    Publisher: Annual Reviews Inc.
+    Country: United States
+    Impact Factor (2yr): 22.77
+    SJR Score: 8.291
+    h-index: 189
+    Total Documents: 27
+
+92. Journal of the American Chemical Society
+    ISSN: 15205126, 00027863
+    Publisher: American Chemical Society
+    Country: United States
+    Impact Factor (2yr): 15.01
+    SJR Score: 5.554
+    h-index: 734
+    Total Documents: 3,696
+
+93. American Economic Journal: Applied Economics
+    ISSN: 19457790, 19457782
+    Publisher: American Economic Association
+    Country: United States
+    Impact Factor (2yr): 6.12
+    SJR Score: 8.597
+    h-index: 117
+    Total Documents: 32
+
+94. Annual Review of Physiology
+    ISSN: 00664278, 15451585
+    Publisher: Annual Reviews Inc.
+    Country: United States
+    Impact Factor (2yr): 19.75
+    SJR Score: 7.82
+    h-index: 246
+    Total Documents: 21
+
+95. Nature Reviews Endocrinology
+    ISSN: 17595037, 17595029
+    Publisher: Nature Publishing Group
+    Country: United Kingdom
+    Impact Factor (2yr): 11.82
+    SJR Score: 7.884
+    h-index: 224
+    Total Documents: 130
+
+96. The Lancet Public Health
+    ISSN: 24682667
+    Publisher: Elsevier Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 12.97
+    SJR Score: 8.408
+    h-index: 106
+    Total Documents: 156
+
+97. Journal of Thoracic Oncology
+    ISSN: 15561380, 15560864
+    Publisher: Elsevier Inc.
+    Country: United States
+    Impact Factor (2yr): 7.97
+    SJR Score: 7.948
+    h-index: 190
+    Total Documents: 253
+
+98. Angewandte Chemie - International Edition
+    ISSN: 14337851, 15213773
+    Publisher: John Wiley and Sons Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 16.71
+    SJR Score: 5.55
+    h-index: 667
+    Total Documents: 3,947
+
+99. Nature Physics
+    ISSN: 17452473
+    Publisher: Nature Publishing Group
+    Country: United Kingdom
+    Impact Factor (2yr): 9.67
+    SJR Score: 7.125
+    h-index: 349
+    Total Documents: 411
+
+100. Science Immunology
+    ISSN: 24709468
+    Publisher: American Association for the Advancement of Science
+    Country: United States
+    Impact Factor (2yr): 13.14
+    SJR Score: 8.22
+    h-index: 123
+    Total Documents: 162
+
+
+
+ELECTROCHEMICAL ENGINEERING
+--------------------------------------------------------------------------------
+
+ 1. Nature Energy
+    ISSN: 20587546
+    Publisher: Springer Nature
+    Country: United States
+    Impact Factor (2yr): 27.54
+    SJR Score: 17.599
+    h-index: 259
+    Total Documents: 243
+
+ 2. Advanced Energy Materials
+    ISSN: 16146832, 16146840
+    Publisher: John Wiley and Sons Inc
+    Country: Germany
+    Impact Factor (2yr): 25.86
+    SJR Score: 8.378
+    h-index: 355
+    Total Documents: 1,188
+
+ 3. eScience
+    ISSN: 20972431, 26671417
+    Publisher: KeAi Communications Co.
+    Country: China
+    Impact Factor (2yr): 33.23
+    SJR Score: 9.726
+    h-index: 63
+    Total Documents: 64
+
+ 4. Progress in Energy and Combustion Science
+    ISSN: 03601285
+    Publisher: Elsevier B.V.
+    Country: United Kingdom
+    Impact Factor (2yr): 44.9
+    SJR Score: 8.031
+    h-index: 243
+    Total Documents: 25
+
+ 5. Electrochemical Energy Reviews
+    ISSN: 25208136, 25208489
+    Publisher: Springer Science and Business Media B.V.
+    Country: Germany
+    Impact Factor (2yr): 30.08
+    SJR Score: 7.79
+    h-index: 76
+    Total Documents: 35
+
+ 6. ACS Energy Letters
+    ISSN: 23808195
+    Publisher: American Chemical Society
+    Country: United States
+    Impact Factor (2yr): 17.51
+    SJR Score: 6.799
+    h-index: 223
+    Total Documents: 661
+
+ 7. Advanced Functional Materials
+    ISSN: 1616301X
+    Publisher: Wiley-VCH Verlag
+    Country: Germany
+    Impact Factor (2yr): 19.96
+    SJR Score: 5.439
+    h-index: 428
+    Total Documents: 5,183
+
+ 8. Energy Storage Materials
+    ISSN: 24058297
+    Publisher: Elsevier B.V.
+    Country: Netherlands
+    Impact Factor (2yr): 21.11
+    SJR Score: 5.791
+    h-index: 185
+    Total Documents: 791
+
+ 9. IEEE Transactions on Power Systems
+    ISSN: 08858950
+    Publisher: Institute of Electrical and Electronics Engineers Inc.
+    Country: United States
+    Impact Factor (2yr): 8.58
+    SJR Score: 3.629
+    h-index: 322
+    Total Documents: 699
+
+10. Redox Biology
+    ISSN: 22132317
+    Publisher: Elsevier B.V.
+    Country: Netherlands
+    Impact Factor (2yr): 11.39
+    SJR Score: 3.374
+    h-index: 158
+    Total Documents: 449
+
+11. Journal of Energy Chemistry
+    ISSN: 20954956
+    Publisher: Elsevier B.V.
+    Country: Netherlands
+    Impact Factor (2yr): 14.89
+    SJR Score: 3.394
+    h-index: 133
+    Total Documents: 684
+
+12. Energy Conversion and Management
+    ISSN: 01968904
+    Publisher: Elsevier Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 12.42
+    SJR Score: 2.659
+    h-index: 274
+    Total Documents: 1,212
+
+13. Advances in Applied Energy
+    ISSN: 26667924
+    Publisher: Elsevier Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 15.97
+    SJR Score: 3.721
+    h-index: 42
+    Total Documents: 41
+
+14. Protection and Control of Modern Power Systems
+    ISSN: 23670983, 23672617
+    Publisher: Institute of Electrical and Electronics Engineers Inc.
+    Country: Singapore
+    Impact Factor (2yr): 14.39
+    SJR Score: 3.398
+    h-index: 57
+    Total Documents: 38
+
+15. Journal of Power Sources
+    ISSN: 03787753
+    Publisher: Elsevier B.V.
+    Country: Netherlands
+    Impact Factor (2yr): 8.66
+    SJR Score: 1.784
+    h-index: 378
+    Total Documents: 1,599
+
+16. Energy
+    ISSN: 18736785, 03605442
+    Publisher: Elsevier Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 10.95
+    SJR Score: 2.211
+    h-index: 274
+    Total Documents: 4,536
+
+17. Energy Material Advances
+    ISSN: 26927640
+    Publisher: American Association for the Advancement of Science
+    Country: United States
+    Impact Factor (2yr): 13.76
+    SJR Score: 3.415
+    h-index: 29
+    Total Documents: 46
+
+18. International Journal of Mining Science and Technology
+    ISSN: 20952686
+    Publisher: China University of Mining and Technology
+    Country: China
+    Impact Factor (2yr): 14.49
+    SJR Score: 3.137
+    h-index: 82
+    Total Documents: 114
+
+19. Corrosion Science
+    ISSN: 0010938X
+    Publisher: Elsevier Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 8.93
+    SJR Score: 2.189
+    h-index: 262
+    Total Documents: 795
+
+20. eTransportation
+    ISSN: 25901168
+    Publisher: Elsevier B.V.
+    Country: Netherlands
+    Impact Factor (2yr): 18.17
+    SJR Score: 3.03
+    h-index: 52
+    Total Documents: 79
+
+21. IEEE Transactions on Energy Conversion
+    ISSN: 08858969, 15580059
+    Publisher: Institute of Electrical and Electronics Engineers Inc.
+    Country: United States
+    Impact Factor (2yr): 6.78
+    SJR Score: 2.247
+    h-index: 207
+    Total Documents: 330
+
+22. Biosensors and Bioelectronics
+    ISSN: 18734235, 09565663
+    Publisher: Elsevier Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 10.76
+    SJR Score: 2.007
+    h-index: 254
+    Total Documents: 783
+
+23. Energy Research and Social Science
+    ISSN: 22146326, 22146296
+    Publisher: Elsevier Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 8.54
+    SJR Score: 2.53
+    h-index: 129
+    Total Documents: 470
+
+24. Antioxidants and Redox Signaling
+    ISSN: 15230864, 15577716
+    Publisher: Mary Ann Liebert Inc.
+    Country: United States
+    Impact Factor (2yr): 6.68
+    SJR Score: 1.951
+    h-index: 242
+    Total Documents: 135
+
+25. Combustion and Flame
+    ISSN: 00102180, 15562921
+    Publisher: Elsevier Inc.
+    Country: United States
+    Impact Factor (2yr): 7.13
+    SJR Score: 2.015
+    h-index: 222
+    Total Documents: 558
+
+26. International Journal of Hydrogen Energy
+    ISSN: 03603199
+    Publisher: Elsevier Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 10.19
+    SJR Score: 1.685
+    h-index: 285
+    Total Documents: 7,090
+
+27. IEEE Transactions on Transportation Electrification
+    ISSN: 23327782
+    Publisher: Institute of Electrical and Electronics Engineers Inc.
+    Country: United States
+    Impact Factor (2yr): 9.78
+    SJR Score: 2.622
+    h-index: 96
+    Total Documents: 986
+
+28. Fuel
+    ISSN: 00162361, 18737153
+    Publisher: Elsevier B.V.
+    Country: Netherlands
+    Impact Factor (2yr): 8.78
+    SJR Score: 1.614
+    h-index: 273
+    Total Documents: 3,303
+
+29. IEEE Journal of Emerging and Selected Topics in Power Electronics
+    ISSN: 21686785, 21686777
+    Publisher: Institute of Electrical and Electronics Engineers Inc.
+    Country: United States
+    Impact Factor (2yr): 6.26
+    SJR Score: 2.31
+    h-index: 123
+    Total Documents: 616
+
+30. Materials Reports: Energy
+    ISSN: 26669358
+    Publisher: KeAi Communications Co.
+    Country: China
+    Impact Factor (2yr): 12.67
+    SJR Score: 2.756
+    h-index: 28
+    Total Documents: 34
+
+31. IEEE Transactions on Power Delivery
+    ISSN: 19374208, 08858977
+    Publisher: Institute of Electrical and Electronics Engineers Inc.
+    Country: United States
+    Impact Factor (2yr): 4.79
+    SJR Score: 1.661
+    h-index: 223
+    Total Documents: 308
+
+32. Sensors and Actuators B: Chemical
+    ISSN: 09254005, 19448201
+    Publisher: Elsevier B.V.
+    Country: Netherlands
+    Impact Factor (2yr): 8.44
+    SJR Score: 1.509
+    h-index: 248
+    Total Documents: 1,633
+
+33. Applied Thermal Engineering
+    ISSN: 13594311
+    Publisher: Elsevier Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 7.86
+    SJR Score: 1.579
+    h-index: 224
+    Total Documents: 2,783
+
+34. Langmuir
+    ISSN: 15205827, 07437463
+    Publisher: American Chemical Society
+    Country: United States
+    Impact Factor (2yr): 3.95
+    SJR Score: 0.763
+    h-index: 383
+    Total Documents: 2,455
+
+35. Battery Energy
+    ISSN: 27681696
+    Publisher: John Wiley and Sons Inc
+    Country: United States
+    Impact Factor (2yr): 10.49
+    SJR Score: 2.516
+    h-index: 22
+    Total Documents: 49
+
+36. International Journal of Coal Geology
+    ISSN: 01665162
+    Publisher: Elsevier B.V.
+    Country: Netherlands
+    Impact Factor (2yr): 6.54
+    SJR Score: 1.696
+    h-index: 182
+    Total Documents: 125
+
+37. International Journal of Electrical Power and Energy Systems
+    ISSN: 01420615
+    Publisher: Elsevier Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 6.91
+    SJR Score: 1.714
+    h-index: 175
+    Total Documents: 841
+
+38. Electrochimica Acta
+    ISSN: 00134686
+    Publisher: Elsevier Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 5.77
+    SJR Score: 1.106
+    h-index: 289
+    Total Documents: 1,401
+
+39. Materials Today Energy
+    ISSN: 24686069
+    Publisher: Elsevier Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 9.17
+    SJR Score: 2.116
+    h-index: 83
+    Total Documents: 256
+
+40. Fuel Processing Technology
+    ISSN: 03783820
+    Publisher: Elsevier B.V.
+    Country: Netherlands
+    Impact Factor (2yr): 8.48
+    SJR Score: 1.602
+    h-index: 185
+    Total Documents: 101
+
+41. Journal of Modern Power Systems and Clean Energy
+    ISSN: 21965420, 21965625
+    Publisher: State Grid Electric Power Research Institute Nanjing Branch
+    Country: China
+    Impact Factor (2yr): 7.23
+    SJR Score: 2.127
+    h-index: 77
+    Total Documents: 177
+
+42. Biofuel Research Journal
+    ISSN: 22928782
+    Publisher: 
+    Country: Malaysia
+    Impact Factor (2yr): 16.0
+    SJR Score: 2.251
+    h-index: 51
+    Total Documents: 16
+
+43. Solar Energy
+    ISSN: 0038092X
+    Publisher: Elsevier Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 7.21
+    SJR Score: 1.314
+    h-index: 238
+    Total Documents: 756
+
+44. Journal of Energy Storage
+    ISSN: 2352152X
+    Publisher: Elsevier B.V.
+    Country: Netherlands
+    Impact Factor (2yr): 10.9
+    SJR Score: 1.76
+    h-index: 135
+    Total Documents: 4,647
+
+45. Solar Energy Materials and Solar Cells
+    ISSN: 09270248
+    Publisher: Elsevier B.V.
+    Country: Netherlands
+    Impact Factor (2yr): 6.88
+    SJR Score: 1.284
+    h-index: 227
+    Total Documents: 503
+
+46. Cyborg and Bionic Systems
+    ISSN: 20971087, 26927632
+    Publisher: American Association for the Advancement of Science
+    Country: United States
+    Impact Factor (2yr): 17.31
+    SJR Score: 2.263
+    h-index: 28
+    Total Documents: 63
+
+47. Journal of the Electrochemical Society
+    ISSN: 00134651, 19457111
+    Publisher: Institute of Physics
+    Country: United States
+    Impact Factor (2yr): 3.03
+    SJR Score: 0.774
+    h-index: 321
+    Total Documents: 1,186
+
+48. EES Catalysis
+    ISSN: 2753801X
+    Publisher: Royal Society of Chemistry
+    Country: United Kingdom
+    Impact Factor (2yr): 7.37
+    SJR Score: 2.261
+    h-index: 14
+    Total Documents: 100
+
+49. Engineering
+    ISSN: 20958099
+    Publisher: Elsevier Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 9.59
+    SJR Score: 1.767
+    h-index: 108
+    Total Documents: 267
+
+50. Energy and Fuels
+    ISSN: 08870624, 15205029
+    Publisher: American Chemical Society
+    Country: United States
+    Impact Factor (2yr): 5.53
+    SJR Score: 1.124
+    h-index: 233
+    Total Documents: 1,735
+
+51. Current Opinion in Electrochemistry
+    ISSN: 24519103, 24519111
+    Publisher: Elsevier B.V.
+    Country: Netherlands
+    Impact Factor (2yr): 6.88
+    SJR Score: 1.786
+    h-index: 81
+    Total Documents: 140
+
+52. Journal of Analytical and Applied Pyrolysis
+    ISSN: 01652370
+    Publisher: Elsevier B.V.
+    Country: Netherlands
+    Impact Factor (2yr): 6.63
+    SJR Score: 1.277
+    h-index: 174
+    Total Documents: 527
+
+53. Electrochemistry Communications
+    ISSN: 13882481
+    Publisher: Elsevier Inc.
+    Country: United States
+    Impact Factor (2yr): 4.27
+    SJR Score: 1.025
+    h-index: 219
+    Total Documents: 132
+
+54. Petroleum Exploration and Development
+    ISSN: 20964803, 18763804
+    Publisher: KeAi Communications Co.
+    Country: China
+    Impact Factor (2yr): 7.71
+    SJR Score: 1.661
+    h-index: 88
+    Total Documents: 118
+
+55. Sustainable Energy Technologies and Assessments
+    ISSN: 22131388
+    Publisher: Elsevier Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 8.67
+    SJR Score: 1.606
+    h-index: 98
+    Total Documents: 425
+
+56. Shiyou Xuebao/Acta Petrolei Sinica
+    ISSN: 02532697
+    Publisher: Science Press
+    Country: China
+    Impact Factor (2yr): 5.06
+    SJR Score: 1.618
+    h-index: 87
+    Total Documents: 110
+
+57. Solar RRL
+    ISSN: 2367198X
+    Publisher: Wiley-VCH Verlag
+    Country: Germany
+    Impact Factor (2yr): 5.08
+    SJR Score: 1.544
+    h-index: 86
+    Total Documents: 451
+
+58. Dianli Xitong Zidonghua/Automation of Electric Power Systems
+    ISSN: 10001026
+    Publisher: Automation of Electric Power Systems Press
+    Country: China
+    Impact Factor (2yr): 5.4
+    SJR Score: 1.398
+    h-index: 115
+    Total Documents: 434
+
+59. Geoenergy Science and Engineering
+    ISSN: 29498910
+    Publisher: Elsevier B.V.
+    Country: Netherlands
+    Impact Factor (2yr): 5.5
+    SJR Score: 1.167
+    h-index: 159
+    Total Documents: 849
+
+60. Energy Conversion and Management: X
+    ISSN: 25901745
+    Publisher: Elsevier Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 8.78
+    SJR Score: 1.722
+    h-index: 46
+    Total Documents: 315
+
+61. Corrosion Communications
+    ISSN: 26672669
+    Publisher: Elsevier B.V.
+    Country: Netherlands
+    Impact Factor (2yr): 8.99
+    SJR Score: 1.81
+    h-index: 26
+    Total Documents: 31
+
+62. Advanced Energy and Sustainability Research
+    ISSN: 26999412
+    Publisher: Wiley-VCH Verlag
+    Country: United States
+    Impact Factor (2yr): 6.26
+    SJR Score: 1.719
+    h-index: 38
+    Total Documents: 181
+
+63. Electric Power Systems Research
+    ISSN: 03787796
+    Publisher: Elsevier B.V.
+    Country: Netherlands
+    Impact Factor (2yr): 5.36
+    SJR Score: 1.137
+    h-index: 153
+    Total Documents: 1,032
+
+64. ACS Applied Energy Materials
+    ISSN: 25740962
+    Publisher: American Chemical Society
+    Country: United States
+    Impact Factor (2yr): 5.68
+    SJR Score: 1.378
+    h-index: 103
+    Total Documents: 1,163
+
+65. Advances in Geo-Energy Research
+    ISSN: 22079963, 2208598X
+    Publisher: Yandy Scientific Press
+    Country: Hong Kong
+    Impact Factor (2yr): 7.5
+    SJR Score: 1.65
+    h-index: 43
+    Total Documents: 88
+
+66. Wind Energy Science
+    ISSN: 23667451, 23667443
+    Publisher: Copernicus Publications
+    Country: Germany
+    Impact Factor (2yr): 4.88
+    SJR Score: 1.635
+    h-index: 44
+    Total Documents: 110
+
+67. Gas Science and Engineering
+    ISSN: 29499097, 29499089
+    Publisher: Elsevier B.V.
+    Country: Netherlands
+    Impact Factor (2yr): 6.56
+    SJR Score: 1.246
+    h-index: 118
+    Total Documents: 239
+
+68. Redox Report
+    ISSN: 17432928, 13510002
+    Publisher: Taylor and Francis Ltd.
+    Country: United Kingdom
+    Impact Factor (2yr): 7.94
+    SJR Score: 1.41
+    h-index: 80
+    Total Documents: 46
+
+69. Superconductivity
+    ISSN: 27728307
+    Publisher: Elsevier B.V.
+    Country: Netherlands
+    Impact Factor (2yr): 5.84
+    SJR Score: 1.724
+    h-index: 14
+    Total Documents: 35
+
+70. Solid State Ionics
+    ISSN: 01672738
+    Publisher: Elsevier B.V.
+    Country: Netherlands
+    Impact Factor (2yr): 3.25
+    SJR Score: 0.672
+    h-index: 221
+    Total Documents: 217
+
+71. AAPG Bulletin
+    ISSN: 01491423
+    Publisher: American Association of Petroleum Geologists
+    Country: United States
+    Impact Factor (2yr): 2.84
+    SJR Score: 0.936
+    h-index: 166
+    Total Documents: 62
+
+72. Journal of Pharmaceutical Analysis
+    ISSN: 20951779
+    Publisher: Xi'an Jiaotong University
+    Country: China
+    Impact Factor (2yr): 8.76
+    SJR Score: 1.452
+    h-index: 60
+    Total Documents: 159
+
+73. Chemistry-Methods
+    ISSN: 26289725
+    Publisher: Wiley-VCH Verlag
+    Country: United States
+    Impact Factor (2yr): 2.91
+    SJR Score: 1.658
+    h-index: 16
+    Total Documents: 28
+
+74. Sustainability (Switzerland)
+    ISSN: 20711050
+    Publisher: Multidisciplinary Digital Publishing Institute (MDPI)
+    Country: Switzerland
+    Impact Factor (2yr): 4.32
+    SJR Score: 0.688
+    h-index: 207
+    Total Documents: 11,273
+
+75. Natural Gas Industry
+    ISSN: 10000976
+    Publisher: Natural Gas Industry Journal Agency
+    Country: China
+    Impact Factor (2yr): 4.28
+    SJR Score: 1.397
+    h-index: 64
+    Total Documents: 207
+
+76. International Journal of Coal Science and Technology
+    ISSN: 21987823, 20958293
+    Publisher: Springer International Publishing AG
+    Country: Switzerland
+    Impact Factor (2yr): 8.94
+    SJR Score: 1.461
+    h-index: 51
+    Total Documents: 87
+
+77. China Petroleum Exploration
+    ISSN: 16727703
+    Publisher: Petroleum Industry Press
+    Country: China
+    Impact Factor (2yr): 3.72
+    SJR Score: 1.502
+    h-index: 42
+    Total Documents: 77
+
+78. Shiyou Kantan Yu Kaifa/Petroleum Exploration and Development
+    ISSN: 10000747
+    Publisher: Science Press
+    Country: China
+    Impact Factor (2yr): 3.94
+    SJR Score: 1.311
+    h-index: 79
+    Total Documents: 0
+
+79. Smart Energy
+    ISSN: 26669552
+    Publisher: Elsevier Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 5.71
+    SJR Score: 1.6
+    h-index: 21
+    Total Documents: 37
+
+80. Meitan Xuebao/Journal of the China Coal Society
+    ISSN: 02539993
+    Publisher: China Coal Society
+    Country: China
+    Impact Factor (2yr): 4.12
+    SJR Score: 1.226
+    h-index: 91
+    Total Documents: 393
+
+81. Dianwang Jishu/Power System Technology
+    ISSN: 10003673
+    Publisher: 
+    Country: China
+    Impact Factor (2yr): 5.04
+    SJR Score: 1.176
+    h-index: 98
+    Total Documents: 486
+
+82. Sustainable Energy, Grids and Networks
+    ISSN: 23524677
+    Publisher: Elsevier Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 6.66
+    SJR Score: 1.378
+    h-index: 56
+    Total Documents: 338
+
+83. Journal of Electroanalytical Chemistry
+    ISSN: 15726657
+    Publisher: Elsevier B.V.
+    Country: Netherlands
+    Impact Factor (2yr): 4.28
+    SJR Score: 0.76
+    h-index: 175
+    Total Documents: 667
+
+84. Sensors International
+    ISSN: 26663511
+    Publisher: KeAi Communications Co.
+    Country: China
+    Impact Factor (2yr): 8.75
+    SJR Score: 1.398
+    h-index: 41
+    Total Documents: 30
+
+85. Journal of the Energy Institute
+    ISSN: 17460220, 17439671
+    Publisher: Elsevier B.V.
+    Country: United Kingdom
+    Impact Factor (2yr): 7.11
+    SJR Score: 1.208
+    h-index: 76
+    Total Documents: 367
+
+86. Energies
+    ISSN: 19961073
+    Publisher: Multidisciplinary Digital Publishing Institute (MDPI)
+    Country: Switzerland
+    Impact Factor (2yr): 4.0
+    SJR Score: 0.713
+    h-index: 175
+    Total Documents: 6,479
+
+87. Applications in Energy and Combustion Science
+    ISSN: 2666352X
+    Publisher: Elsevier Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 5.96
+    SJR Score: 1.46
+    h-index: 22
+    Total Documents: 68
+
+88. High Voltage
+    ISSN: 23977264
+    Publisher: John Wiley &amp; Sons Inc.
+    Country: United Kingdom
+    Impact Factor (2yr): 6.35
+    SJR Score: 1.328
+    h-index: 46
+    Total Documents: 138
+
+89. Resources Chemicals and Materials
+    ISSN: 27724433
+    Publisher: KeAi Communications Co.
+    Country: China
+    Impact Factor (2yr): 8.98
+    SJR Score: 1.471
+    h-index: 16
+    Total Documents: 33
+
+90. Analyst
+    ISSN: 00032654, 13645528
+    Publisher: Royal Society of Chemistry
+    Country: United Kingdom
+    Impact Factor (2yr): 3.28
+    SJR Score: 0.617
+    h-index: 186
+    Total Documents: 517
+
+91. Carbon Resources Conversion
+    ISSN: 25889133
+    Publisher: KeAi Publishing Communications Ltd.
+    Country: China
+    Impact Factor (2yr): 8.57
+    SJR Score: 1.386
+    h-index: 32
+    Total Documents: 61
+
+92. International Journal of Energy Research
+    ISSN: 1099114X, 0363907X
+    Publisher: John Wiley and Sons Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 4.94
+    SJR Score: 0.873
+    h-index: 133
+    Total Documents: 266
+
+93. SPE Journal
+    ISSN: 1086055X
+    Publisher: Society of Petroleum Engineers (SPE)
+    Country: United States
+    Impact Factor (2yr): 2.93
+    SJR Score: 0.717
+    h-index: 162
+    Total Documents: 431
+
+94. IEEE Power and Energy Magazine
+    ISSN: 15407977
+    Publisher: Institute of Electrical and Electronics Engineers Inc.
+    Country: United States
+    Impact Factor (2yr): 1.96
+    SJR Score: 1.031
+    h-index: 99
+    Total Documents: 92
+
+95. Petroleum Science
+    ISSN: 16725107, 19958226
+    Publisher: KeAi Communications Co.
+    Country: China
+    Impact Factor (2yr): 6.64
+    SJR Score: 1.219
+    h-index: 61
+    Total Documents: 306
+
+96. Batteries and Supercaps
+    ISSN: 25666223
+    Publisher: Wiley-VCH Verlag
+    Country: Germany
+    Impact Factor (2yr): 4.38
+    SJR Score: 1.247
+    h-index: 45
+    Total Documents: 356
+
+97. Sustainable Energy and Fuels
+    ISSN: 23984902
+    Publisher: Royal Society of Chemistry
+    Country: United Kingdom
+    Impact Factor (2yr): 4.4
+    SJR Score: 1.019
+    h-index: 89
+    Total Documents: 456
+
+98. Chemical Engineering and Processing - Process Intensification
+    ISSN: 02552701
+    Publisher: Elsevier B.V.
+    Country: Netherlands
+    Impact Factor (2yr): 4.41
+    SJR Score: 0.794
+    h-index: 132
+    Total Documents: 357
+
+99. Journal of Propulsion and Power
+    ISSN: 15333876, 07484658
+    Publisher: American Institute of Aeronautics and Astronautics Inc. (AIAA)
+    Country: United States
+    Impact Factor (2yr): 2.87
+    SJR Score: 0.846
+    h-index: 121
+    Total Documents: 74
+
+100. Energy, Sustainability and Society
+    ISSN: 21920567
+    Publisher: Springer Science + Business Media
+    Country: United States
+    Impact Factor (2yr): 5.39
+    SJR Score: 1.21
+    h-index: 47
+    Total Documents: 66
+
+
+
+NANOTECHNOLOGY FOR ADVANCED MATERIALS
+--------------------------------------------------------------------------------
+
+ 1. Nature Reviews Materials
+    ISSN: 20588437
+    Publisher: Nature Publishing Group
+    Country: United Kingdom
+    Impact Factor (2yr): 34.96
+    SJR Score: 19.43
+    h-index: 215
+    Total Documents: 123
+
+ 2. Nature Energy
+    ISSN: 20587546
+    Publisher: Springer Nature
+    Country: United States
+    Impact Factor (2yr): 27.54
+    SJR Score: 17.599
+    h-index: 259
+    Total Documents: 243
+
+ 3. Nature Materials
+    ISSN: 14764660, 14761122
+    Publisher: Nature Publishing Group
+    Country: United Kingdom
+    Impact Factor (2yr): 21.92
+    SJR Score: 14.204
+    h-index: 583
+    Total Documents: 322
+
+ 4. Nature Nanotechnology
+    ISSN: 17483387, 17483395
+    Publisher: Nature Publishing Group
+    Country: United Kingdom
+    Impact Factor (2yr): 24.62
+    SJR Score: 14.612
+    h-index: 444
+    Total Documents: 272
+
+ 5. Nature Photonics
+    ISSN: 17494885
+    Publisher: Nature Publishing Group
+    Country: United Kingdom
+    Impact Factor (2yr): 20.23
+    SJR Score: 11.546
+    h-index: 404
+    Total Documents: 229
+
+ 6. Advanced Materials
+    ISSN: 09359648, 15214095
+    Publisher: Wiley-Blackwell
+    Country: United States
+    Impact Factor (2yr): 27.78
+    SJR Score: 8.851
+    h-index: 675
+    Total Documents: 3,634
+
+ 7. Nature Electronics
+    ISSN: 25201131
+    Publisher: Nature Publishing Group
+    Country: United Kingdom
+    Impact Factor (2yr): 16.47
+    SJR Score: 11.082
+    h-index: 131
+    Total Documents: 204
+
+ 8. eLight
+    ISSN: 26628643, 20971710
+    Publisher: Springer
+    Country: Singapore
+    Impact Factor (2yr): 31.89
+    SJR Score: 11.392
+    h-index: 32
+    Total Documents: 22
+
+ 9. Annual Review of Condensed Matter Physics
+    ISSN: 19475454, 19475462
+    Publisher: Annual Reviews Inc.
+    Country: United States
+    Impact Factor (2yr): 31.41
+    SJR Score: 9.795
+    h-index: 96
+    Total Documents: 15
+
+10. Advanced Energy Materials
+    ISSN: 16146832, 16146840
+    Publisher: John Wiley and Sons Inc
+    Country: Germany
+    Impact Factor (2yr): 25.86
+    SJR Score: 8.378
+    h-index: 355
+    Total Documents: 1,188
+
+11. eScience
+    ISSN: 20972431, 26671417
+    Publisher: KeAi Communications Co.
+    Country: China
+    Impact Factor (2yr): 33.23
+    SJR Score: 9.726
+    h-index: 63
+    Total Documents: 64
+
+12. Progress in Materials Science
+    ISSN: 18732208, 00796425
+    Publisher: Elsevier Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 40.1
+    SJR Score: 8.566
+    h-index: 255
+    Total Documents: 84
+
+13. Nano-Micro Letters
+    ISSN: 23116706, 21505551
+    Publisher: Open Access Science Online
+    Country: Netherlands
+    Impact Factor (2yr): 35.41
+    SJR Score: 8.188
+    h-index: 146
+    Total Documents: 270
+
+14. Electrochemical Energy Reviews
+    ISSN: 25208136, 25208489
+    Publisher: Springer Science and Business Media B.V.
+    Country: Germany
+    Impact Factor (2yr): 30.08
+    SJR Score: 7.79
+    h-index: 76
+    Total Documents: 35
+
+15. Materials Science and Engineering R: Reports
+    ISSN: 0927796X
+    Publisher: Elsevier B.V.
+    Country: Netherlands
+    Impact Factor (2yr): 28.1
+    SJR Score: 7.056
+    h-index: 182
+    Total Documents: 77
+
+16. ACS Energy Letters
+    ISSN: 23808195
+    Publisher: American Chemical Society
+    Country: United States
+    Impact Factor (2yr): 17.51
+    SJR Score: 6.799
+    h-index: 223
+    Total Documents: 661
+
+17. Progress in Polymer Science
+    ISSN: 00796700
+    Publisher: Elsevier Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 26.63
+    SJR Score: 6.089
+    h-index: 346
+    Total Documents: 47
+
+18. Advanced Functional Materials
+    ISSN: 1616301X
+    Publisher: Wiley-VCH Verlag
+    Country: Germany
+    Impact Factor (2yr): 19.96
+    SJR Score: 5.439
+    h-index: 428
+    Total Documents: 5,183
+
+19. Interdisciplinary Materials
+    ISSN: 2767441X, 27674401
+    Publisher: John Wiley and Sons Inc
+    Country: United States
+    Impact Factor (2yr): 28.06
+    SJR Score: 7.351
+    h-index: 34
+    Total Documents: 34
+
+20. Cement and Concrete Research
+    ISSN: 00088846
+    Publisher: Elsevier Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 13.9
+    SJR Score: 5.815
+    h-index: 315
+    Total Documents: 263
+
+21. ACS Nano
+    ISSN: 1936086X, 19360851
+    Publisher: American Chemical Society
+    Country: United States
+    Impact Factor (2yr): 15.9
+    SJR Score: 4.497
+    h-index: 504
+    Total Documents: 2,661
+
+22. Materials Today
+    ISSN: 13697021, 18734103
+    Publisher: Elsevier B.V.
+    Country: Netherlands
+    Impact Factor (2yr): 20.54
+    SJR Score: 5.755
+    h-index: 244
+    Total Documents: 185
+
+23. Chem
+    ISSN: 24519308, 24519294
+    Publisher: Elsevier Inc.
+    Country: United States
+    Impact Factor (2yr): 12.97
+    SJR Score: 6.01
+    h-index: 167
+    Total Documents: 305
+
+24. Energy Storage Materials
+    ISSN: 24058297
+    Publisher: Elsevier B.V.
+    Country: Netherlands
+    Impact Factor (2yr): 21.11
+    SJR Score: 5.791
+    h-index: 185
+    Total Documents: 791
+
+25. Nano Research Energy
+    ISSN: 27910091, 27908119
+    Publisher: Tsinghua University Press
+    Country: China
+    Impact Factor (2yr): 23.31
+    SJR Score: 6.16
+    h-index: 40
+    Total Documents: 46
+
+26. Coordination Chemistry Reviews
+    ISSN: 00108545
+    Publisher: Elsevier B.V.
+    Country: Netherlands
+    Impact Factor (2yr): 24.85
+    SJR Score: 4.638
+    h-index: 329
+    Total Documents: 547
+
+27. InfoMat
+    ISSN: 25673165
+    Publisher: John Wiley and Sons Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 22.77
+    SJR Score: 5.683
+    h-index: 86
+    Total Documents: 105
+
+28. Carbon Energy
+    ISSN: 26379368
+    Publisher: John Wiley &amp; Sons Inc.
+    Country: United States
+    Impact Factor (2yr): 25.28
+    SJR Score: 5.701
+    h-index: 73
+    Total Documents: 196
+
+29. Nano Energy
+    ISSN: 22112855
+    Publisher: Elsevier B.V.
+    Country: Netherlands
+    Impact Factor (2yr): 17.56
+    SJR Score: 4.566
+    h-index: 277
+    Total Documents: 1,225
+
+30. Light: Science and Applications
+    ISSN: 20477538
+    Publisher: Nature Publishing Group
+    Country: United Kingdom
+    Impact Factor (2yr): 16.24
+    SJR Score: 5.018
+    h-index: 174
+    Total Documents: 314
+
+31. Nano Letters
+    ISSN: 15306992, 15306984
+    Publisher: American Chemical Society
+    Country: United States
+    Impact Factor (2yr): 9.09
+    SJR Score: 2.967
+    h-index: 569
+    Total Documents: 2,034
+
+32. PRX Quantum
+    ISSN: 26913399
+    Publisher: American Physical Society
+    Country: United States
+    Impact Factor (2yr): 11.12
+    SJR Score: 5.341
+    h-index: 62
+    Total Documents: 242
+
+33. Cement and Concrete Composites
+    ISSN: 09589465
+    Publisher: Elsevier Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 14.43
+    SJR Score: 4.446
+    h-index: 233
+    Total Documents: 415
+
+34. Nature Synthesis
+    ISSN: 27310582
+    Publisher: Nature Publishing Group
+    Country: United Kingdom
+    Impact Factor (2yr): 9.54
+    SJR Score: 5.403
+    h-index: 41
+    Total Documents: 250
+
+35. EnergyChem
+    ISSN: 25897780
+    Publisher: Elsevier B.V.
+    Country: Netherlands
+    Impact Factor (2yr): 24.9
+    SJR Score: 5.185
+    h-index: 50
+    Total Documents: 21
+
+36. Matter
+    ISSN: 25902393, 25902385
+    Publisher: Cell Press
+    Country: United States
+    Impact Factor (2yr): 10.42
+    SJR Score: 4.804
+    h-index: 111
+    Total Documents: 361
+
+37. Advanced Powder Materials
+    ISSN: 2772834X
+    Publisher: KeAi Communications Co.
+    Country: China
+    Impact Factor (2yr): 24.79
+    SJR Score: 5.1
+    h-index: 40
+    Total Documents: 56
+
+38. Biomaterials
+    ISSN: 01429612, 18785905
+    Publisher: Elsevier Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 13.17
+    SJR Score: 2.998
+    h-index: 451
+    Total Documents: 249
+
+39. Wiley Interdisciplinary Reviews: Computational Molecular Science
+    ISSN: 17590876, 17590884
+    Publisher: John Wiley &amp; Sons Inc.
+    Country: United States
+    Impact Factor (2yr): 22.59
+    SJR Score: 4.501
+    h-index: 116
+    Total Documents: 43
+
+40. Advanced Photonics
+    ISSN: 25775421
+    Publisher: SPIE
+    Country: United States
+    Impact Factor (2yr): 13.9
+    SJR Score: 4.777
+    h-index: 55
+    Total Documents: 65
+
+41. Acta Materialia
+    ISSN: 13596454
+    Publisher: Acta Materialia Inc
+    Country: United Kingdom
+    Impact Factor (2yr): 9.48
+    SJR Score: 2.972
+    h-index: 381
+    Total Documents: 852
+
+42. Advanced Science
+    ISSN: 21983844
+    Publisher: John Wiley and Sons Inc
+    Country: Germany
+    Impact Factor (2yr): 14.85
+    SJR Score: 3.775
+    h-index: 220
+    Total Documents: 3,211
+
+43. Small
+    ISSN: 16136829, 16136810
+    Publisher: Wiley-VCH Verlag
+    Country: Germany
+    Impact Factor (2yr): 13.59
+    SJR Score: 3.301
+    h-index: 313
+    Total Documents: 4,823
+
+44. Bioactive Materials
+    ISSN: 2452199X
+    Publisher: KeAi Communications Co.
+    Country: Netherlands
+    Impact Factor (2yr): 20.82
+    SJR Score: 4.075
+    h-index: 119
+    Total Documents: 431
+
+45. Accounts of Materials Research
+    ISSN: 26436728
+    Publisher: American Chemical Society
+    Country: United States
+    Impact Factor (2yr): 12.71
+    SJR Score: 4.358
+    h-index: 51
+    Total Documents: 137
+
+46. Digest of Technical Papers - IEEE International Solid-State Circuits Conference
+    ISSN: 01936530
+    Publisher: Institute of Electrical and Electronics Engineers Inc.
+    Country: United States
+    Impact Factor (2yr): 7.1
+    SJR Score: 3.998
+    h-index: 119
+    Total Documents: 248
+
+47. International Journal of Plasticity
+    ISSN: 07496419
+    Publisher: Elsevier Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 12.13
+    SJR Score: 3.531
+    h-index: 178
+    Total Documents: 249
+
+48. Annual Review of Materials Research
+    ISSN: 15317331, 15454118
+    Publisher: Annual Reviews Inc.
+    Country: United States
+    Impact Factor (2yr): 10.36
+    SJR Score: 3.376
+    h-index: 185
+    Total Documents: 11
+
+49. International Materials Reviews
+    ISSN: 09506608, 17432804
+    Publisher: SAGE Publications Inc.
+    Country: United Kingdom
+    Impact Factor (2yr): 21.0
+    SJR Score: 3.574
+    h-index: 140
+    Total Documents: 6
+
+50. Chemistry of Materials
+    ISSN: 15205002, 08974756
+    Publisher: American Chemical Society
+    Country: United States
+    Impact Factor (2yr): 6.97
+    SJR Score: 2.065
+    h-index: 435
+    Total Documents: 1,065
+
+51. Advanced Fiber Materials
+    ISSN: 25247921, 2524793X
+    Publisher: Springer Nature
+    Country: United States
+    Impact Factor (2yr): 19.7
+    SJR Score: 3.919
+    h-index: 58
+    Total Documents: 144
+
+52. Composites Part B: Engineering
+    ISSN: 13598368
+    Publisher: Elsevier Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 14.61
+    SJR Score: 2.961
+    h-index: 227
+    Total Documents: 634
+
+53. Journal of Materials Chemistry A
+    ISSN: 20507496, 20507488
+    Publisher: Royal Society of Chemistry
+    Country: United Kingdom
+    Impact Factor (2yr): 9.3
+    SJR Score: 2.462
+    h-index: 318
+    Total Documents: 2,780
+
+54. Carbon
+    ISSN: 00086223
+    Publisher: Elsevier Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 12.27
+    SJR Score: 2.32
+    h-index: 346
+    Total Documents: 908
+
+55. npj Flexible Electronics
+    ISSN: 23974621
+    Publisher: Nature Publishing Group
+    Country: United Kingdom
+    Impact Factor (2yr): 15.7
+    SJR Score: 3.774
+    h-index: 55
+    Total Documents: 84
+
+56. Aggregate
+    ISSN: 27668541, 26924560
+    Publisher: John Wiley and Sons Inc
+    Country: United States
+    Impact Factor (2yr): 12.55
+    SJR Score: 3.76
+    h-index: 48
+    Total Documents: 242
+
+57. Journal of Advanced Ceramics
+    ISSN: 22278508, 22264108
+    Publisher: Tsinghua University Press
+    Country: China
+    Impact Factor (2yr): 16.75
+    SJR Score: 3.591
+    h-index: 79
+    Total Documents: 158
+
+58. SmartMat
+    ISSN: 27668525, 2688819X
+    Publisher: John Wiley and Sons Inc
+    Country: China
+    Impact Factor (2yr): 14.23
+    SJR Score: 3.725
+    h-index: 43
+    Total Documents: 84
+
+59. Energy and Environmental Materials
+    ISSN: 25750348, 25750356
+    Publisher: John Wiley &amp; Sons Inc.
+    Country: United States
+    Impact Factor (2yr): 15.15
+    SJR Score: 3.615
+    h-index: 65
+    Total Documents: 249
+
+60. Nano Today
+    ISSN: 1878044X, 17480132
+    Publisher: Elsevier B.V.
+    Country: Netherlands
+    Impact Factor (2yr): 11.52
+    SJR Score: 2.962
+    h-index: 190
+    Total Documents: 444
+
+61. Physical Review B
+    ISSN: 24699950, 24699969
+    Publisher: American Physical Society
+    Country: United States
+    Impact Factor (2yr): 3.5
+    SJR Score: 1.303
+    h-index: 517
+    Total Documents: 5,274
+
+62. Optica
+    ISSN: 23342536
+    Publisher: Optica Publishing Group (formerly OSA)
+    Country: United States
+    Impact Factor (2yr): 9.42
+    SJR Score: 3.08
+    h-index: 159
+    Total Documents: 221
+
+63. Opto-Electronic Advances
+    ISSN: 20964579
+    Publisher: Chinese Academy of Sciences
+    Country: China
+    Impact Factor (2yr): 19.08
+    SJR Score: 3.557
+    h-index: 52
+    Total Documents: 63
+
+64. Additive Manufacturing
+    ISSN: 22148604
+    Publisher: Elsevier B.V.
+    Country: Netherlands
+    Impact Factor (2yr): 11.83
+    SJR Score: 2.877
+    h-index: 168
+    Total Documents: 660
+
+65. Journal of Magnesium and Alloys
+    ISSN: 22139567
+    Publisher: KeAi Communications Co.
+    Country: China
+    Impact Factor (2yr): 13.99
+    SJR Score: 3.282
+    h-index: 86
+    Total Documents: 414
+
+66. Advanced Composites and Hybrid Materials
+    ISSN: 25220128, 25220136
+    Publisher: Springer Science and Business Media B.V.
+    Country: Germany
+    Impact Factor (2yr): 20.21
+    SJR Score: 3.214
+    h-index: 88
+    Total Documents: 253
+
+67. Materials Horizons
+    ISSN: 20516347, 20516355
+    Publisher: Royal Society of Chemistry
+    Country: United Kingdom
+    Impact Factor (2yr): 9.84
+    SJR Score: 2.885
+    h-index: 147
+    Total Documents: 571
+
+68. ACS Applied Materials and Interfaces
+    ISSN: 19448252, 19448244
+    Publisher: American Chemical Society
+    Country: United States
+    Impact Factor (2yr): 8.26
+    SJR Score: 1.921
+    h-index: 334
+    Total Documents: 6,268
+
+69. Journal of Materials Science and Technology
+    ISSN: 10050302
+    Publisher: Chinese Society of Metals
+    Country: China
+    Impact Factor (2yr): 14.48
+    SJR Score: 2.865
+    h-index: 143
+    Total Documents: 787
+
+70. Energy Material Advances
+    ISSN: 26927640
+    Publisher: American Association for the Advancement of Science
+    Country: United States
+    Impact Factor (2yr): 13.76
+    SJR Score: 3.415
+    h-index: 29
+    Total Documents: 46
+
+71. Construction and Building Materials
+    ISSN: 09500618
+    Publisher: Elsevier Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 8.97
+    SJR Score: 2.094
+    h-index: 293
+    Total Documents: 5,119
+
+72. Corrosion Science
+    ISSN: 0010938X
+    Publisher: Elsevier Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 8.93
+    SJR Score: 2.189
+    h-index: 262
+    Total Documents: 795
+
+73. Carbohydrate Polymers
+    ISSN: 18791344, 01448617
+    Publisher: Elsevier Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 13.58
+    SJR Score: 2.004
+    h-index: 294
+    Total Documents: 1,095
+
+74. Journal of Membrane Science
+    ISSN: 18733123, 03767388
+    Publisher: Elsevier B.V.
+    Country: Netherlands
+    Impact Factor (2yr): 8.95
+    SJR Score: 1.935
+    h-index: 306
+    Total Documents: 868
+
+75. Laser and Photonics Reviews
+    ISSN: 18638880, 18638899
+    Publisher: Wiley-VCH Verlag
+    Country: Germany
+    Impact Factor (2yr): 10.72
+    SJR Score: 2.679
+    h-index: 157
+    Total Documents: 602
+
+76. Materials Science and Engineering: A
+    ISSN: 09215093
+    Publisher: Elsevier Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 7.53
+    SJR Score: 1.955
+    h-index: 292
+    Total Documents: 1,410
+
+77. Small Structures
+    ISSN: 26884062
+    Publisher: Wiley-VCH Verlag
+    Country: United States
+    Impact Factor (2yr): 12.22
+    SJR Score: 3.09
+    h-index: 59
+    Total Documents: 286
+
+78. npj Computational Materials
+    ISSN: 20573960
+    Publisher: Nature Publishing Group
+    Country: United Kingdom
+    Impact Factor (2yr): 11.24
+    SJR Score: 2.835
+    h-index: 97
+    Total Documents: 294
+
+79. Light: Advanced Manufacturing
+    ISSN: 26899620, 28314093
+    Publisher: Light Publishing Group
+    Country: China
+    Impact Factor (2yr): 10.19
+    SJR Score: 3.177
+    h-index: 28
+    Total Documents: 55
+
+80. Journal of Colloid and Interface Science
+    ISSN: 10957103, 00219797
+    Publisher: Academic Press Inc.
+    Country: United States
+    Impact Factor (2yr): 10.39
+    SJR Score: 1.885
+    h-index: 286
+    Total Documents: 2,246
+
+81. Acta Biomaterialia
+    ISSN: 17427061, 18787568
+    Publisher: Acta Materialia Inc
+    Country: United States
+    Impact Factor (2yr): 9.94
+    SJR Score: 2.007
+    h-index: 261
+    Total Documents: 594
+
+82. Biosensors and Bioelectronics
+    ISSN: 18734235, 09565663
+    Publisher: Elsevier Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 10.76
+    SJR Score: 2.007
+    h-index: 254
+    Total Documents: 783
+
+83. Nano Materials Science
+    ISSN: 20966482, 25899651
+    Publisher: KeAi Communications Co.
+    Country: China
+    Impact Factor (2yr): 16.3
+    SJR Score: 3.03
+    h-index: 44
+    Total Documents: 163
+
+84. Small Methods
+    ISSN: 23669608
+    Publisher: John Wiley and Sons Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 10.24
+    SJR Score: 2.638
+    h-index: 121
+    Total Documents: 853
+
+85. Nano Research
+    ISSN: 19980124, 19980000
+    Publisher: Tsinghua University Press
+    Country: China
+    Impact Factor (2yr): 9.95
+    SJR Score: 2.367
+    h-index: 175
+    Total Documents: 1,025
+
+86. EcoMat
+    ISSN: 25673173
+    Publisher: John Wiley and Sons Inc
+    Country: United States
+    Impact Factor (2yr): 12.75
+    SJR Score: 2.988
+    h-index: 49
+    Total Documents: 62
+
+87. Current Opinion in Solid State and Materials Science
+    ISSN: 13590286
+    Publisher: Elsevier Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 14.16
+    SJR Score: 2.511
+    h-index: 138
+    Total Documents: 34
+
+88. Composites Science and Technology
+    ISSN: 02663538
+    Publisher: Elsevier B.V.
+    Country: United Kingdom
+    Impact Factor (2yr): 10.0
+    SJR Score: 1.894
+    h-index: 259
+    Total Documents: 485
+
+89. Polymer Reviews
+    ISSN: 15583724, 15583716
+    Publisher: Taylor and Francis Ltd.
+    Country: United States
+    Impact Factor (2yr): 16.55
+    SJR Score: 2.585
+    h-index: 117
+    Total Documents: 38
+
+90. npj Quantum Information
+    ISSN: 20566387
+    Publisher: Nature Partner Journals
+    Country: United Kingdom
+    Impact Factor (2yr): 7.92
+    SJR Score: 2.73
+    h-index: 82
+    Total Documents: 132
+
+91. Advanced Healthcare Materials
+    ISSN: 21922640, 21922659
+    Publisher: John Wiley and Sons Inc
+    Country: United States
+    Impact Factor (2yr): 10.36
+    SJR Score: 2.328
+    h-index: 159
+    Total Documents: 1,209
+
+92. Biochar
+    ISSN: 25247867
+    Publisher: Springer Science and Business Media B.V.
+    Country: Germany
+    Impact Factor (2yr): 15.65
+    SJR Score: 2.862
+    h-index: 47
+    Total Documents: 99
+
+93. Macromolecules
+    ISSN: 00249297, 15205835
+    Publisher: American Chemical Society
+    Country: United States
+    Impact Factor (2yr): 5.22
+    SJR Score: 1.352
+    h-index: 348
+    Total Documents: 1,064
+
+94. Journal of Materials Processing Technology
+    ISSN: 09240136, 18734774
+    Publisher: Elsevier B.V.
+    Country: Netherlands
+    Impact Factor (2yr): 8.13
+    SJR Score: 1.885
+    h-index: 239
+    Total Documents: 323
+
+95. ACS Materials Letters
+    ISSN: 26394979
+    Publisher: American Chemical Society
+    Country: United States
+    Impact Factor (2yr): 9.15
+    SJR Score: 2.655
+    h-index: 77
+    Total Documents: 558
+
+96. Scripta Materialia
+    ISSN: 13596462
+    Publisher: Acta Materialia Inc
+    Country: United Kingdom
+    Impact Factor (2yr): 5.97
+    SJR Score: 1.829
+    h-index: 240
+    Total Documents: 436
+
+97. Nano Convergence
+    ISSN: 21965404
+    Publisher: SpringerOpen
+    Country: United Kingdom
+    Impact Factor (2yr): 10.61
+    SJR Score: 2.728
+    h-index: 58
+    Total Documents: 54
+
+98. Materials and Design
+    ISSN: 02641275, 18734197
+    Publisher: Elsevier B.V.
+    Country: Netherlands
+    Impact Factor (2yr): 8.29
+    SJR Score: 1.727
+    h-index: 256
+    Total Documents: 967
+
+99. Chemical Communications
+    ISSN: 1364548X, 13597345
+    Publisher: Royal Society of Chemistry
+    Country: United Kingdom
+    Impact Factor (2yr): 4.18
+    SJR Score: 1.037
+    h-index: 387
+    Total Documents: 2,626
+
+100. International Journal of Mechanical Sciences
+    ISSN: 00207403
+    Publisher: Elsevier Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 10.36
+    SJR Score: 2.188
+    h-index: 152
+    Total Documents: 893
+
+
+
+PROCESS SYSTEMS ENGINEERING
+--------------------------------------------------------------------------------
+
+ 1. Nature Biotechnology
+    ISSN: 15461696, 10870156
+    Publisher: Nature Research
+    Country: United Kingdom
+    Impact Factor (2yr): 14.83
+    SJR Score: 19.006
+    h-index: 531
+    Total Documents: 527
+
+ 2. Nature Nanotechnology
+    ISSN: 17483387, 17483395
+    Publisher: Nature Publishing Group
+    Country: United Kingdom
+    Impact Factor (2yr): 24.62
+    SJR Score: 14.612
+    h-index: 444
+    Total Documents: 272
+
+ 3. Nature Catalysis
+    ISSN: 25201158
+    Publisher: Nature Publishing Group
+    Country: United States
+    Impact Factor (2yr): 25.3
+    SJR Score: 14.132
+    h-index: 162
+    Total Documents: 185
+
+ 4. Nature Reviews Chemistry
+    ISSN: 23973358
+    Publisher: Nature Publishing Group
+    Country: United Kingdom
+    Impact Factor (2yr): 22.05
+    SJR Score: 13.441
+    h-index: 131
+    Total Documents: 106
+
+ 5. Nature Biomedical Engineering
+    ISSN: 2157846X
+    Publisher: Nature Research
+    Country: United Kingdom
+    Impact Factor (2yr): 21.44
+    SJR Score: 10.105
+    h-index: 140
+    Total Documents: 204
+
+ 6. Handbook of Industrial Organization
+    ISSN: 1573448X
+    Publisher: Elsevier B.V.
+    Country: Netherlands
+    Impact Factor (2yr): 0.0
+    SJR Score: 10.234
+    h-index: 13
+    Total Documents: 0
+
+ 7. Progress in Energy and Combustion Science
+    ISSN: 03601285
+    Publisher: Elsevier B.V.
+    Country: United Kingdom
+    Impact Factor (2yr): 44.9
+    SJR Score: 8.031
+    h-index: 243
+    Total Documents: 25
+
+ 8. Journal of the American Chemical Society
+    ISSN: 15205126, 00027863
+    Publisher: American Chemical Society
+    Country: United States
+    Impact Factor (2yr): 15.01
+    SJR Score: 5.554
+    h-index: 734
+    Total Documents: 3,696
+
+ 9. Angewandte Chemie - International Edition
+    ISSN: 14337851, 15213773
+    Publisher: John Wiley and Sons Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 16.71
+    SJR Score: 5.55
+    h-index: 667
+    Total Documents: 3,947
+
+10. Nature Chemistry
+    ISSN: 17554330, 17554349
+    Publisher: Nature Publishing Group
+    Country: United Kingdom
+    Impact Factor (2yr): 13.17
+    SJR Score: 6.71
+    h-index: 308
+    Total Documents: 309
+
+11. Electrochemical Energy Reviews
+    ISSN: 25208136, 25208489
+    Publisher: Springer Science and Business Media B.V.
+    Country: Germany
+    Impact Factor (2yr): 30.08
+    SJR Score: 7.79
+    h-index: 76
+    Total Documents: 35
+
+12. Management Science
+    ISSN: 00251909, 15265501
+    Publisher: INFORMS Institute for Operations Research and the Management Sciences
+    Country: United States
+    Impact Factor (2yr): 6.83
+    SJR Score: 5.72
+    h-index: 303
+    Total Documents: 446
+
+13. Journal of Labor Economics
+    ISSN: 0734306X, 15375307
+    Publisher: University of Chicago Press
+    Country: United States
+    Impact Factor (2yr): 5.37
+    SJR Score: 6.404
+    h-index: 136
+    Total Documents: 45
+
+14. Applied Catalysis B: Environmental
+    ISSN: 18733883, 09263373
+    Publisher: Elsevier B.V.
+    Country: Netherlands
+    Impact Factor (2yr): 22.03
+    SJR Score: 5.18
+    h-index: 353
+    Total Documents: 1,172
+
+15. Chem
+    ISSN: 24519308, 24519294
+    Publisher: Elsevier Inc.
+    Country: United States
+    Impact Factor (2yr): 12.97
+    SJR Score: 6.01
+    h-index: 167
+    Total Documents: 305
+
+16. International Journal of Machine Tools and Manufacture
+    ISSN: 08906955
+    Publisher: Elsevier Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 19.2
+    SJR Score: 5.577
+    h-index: 203
+    Total Documents: 55
+
+17. Science Robotics
+    ISSN: 24709476
+    Publisher: American Association for the Advancement of Science
+    Country: United States
+    Impact Factor (2yr): 19.26
+    SJR Score: 5.94
+    h-index: 122
+    Total Documents: 134
+
+18. Annual Review of Biophysics
+    ISSN: 19361238, 1936122X
+    Publisher: Annual Reviews Inc.
+    Country: United States
+    Impact Factor (2yr): 13.84
+    SJR Score: 5.152
+    h-index: 178
+    Total Documents: 21
+
+19. Water Research
+    ISSN: 00431354, 18792448
+    Publisher: Elsevier Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 13.64
+    SJR Score: 3.843
+    h-index: 396
+    Total Documents: 1,537
+
+20. Nano Letters
+    ISSN: 15306992, 15306984
+    Publisher: American Chemical Society
+    Country: United States
+    Impact Factor (2yr): 9.09
+    SJR Score: 2.967
+    h-index: 569
+    Total Documents: 2,034
+
+21. Journal of Operations Management
+    ISSN: 18731317, 02726963
+    Publisher: John Wiley &amp; Sons Inc.
+    Country: Netherlands
+    Impact Factor (2yr): 11.05
+    SJR Score: 4.52
+    h-index: 228
+    Total Documents: 61
+
+22. Strategic Organization
+    ISSN: 1741315X, 14761270
+    Publisher: SAGE Publications Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 5.64
+    SJR Score: 5.21
+    h-index: 80
+    Total Documents: 56
+
+23. IEEE Transactions on Automatic Control
+    ISSN: 00189286, 15582523
+    Publisher: Institute of Electrical and Electronics Engineers Inc.
+    Country: United States
+    Impact Factor (2yr): 7.44
+    SJR Score: 3.804
+    h-index: 344
+    Total Documents: 998
+
+24. IEEE Transactions on Cybernetics
+    ISSN: 21682275, 21682267
+    Publisher: IEEE Advancing Technology for Humanity
+    Country: United States
+    Impact Factor (2yr): 13.67
+    SJR Score: 4.45
+    h-index: 208
+    Total Documents: 699
+
+25. ACS Catalysis
+    ISSN: 21555435
+    Publisher: American Chemical Society
+    Country: United States
+    Impact Factor (2yr): 12.8
+    SJR Score: 3.782
+    h-index: 320
+    Total Documents: 1,636
+
+26. Advanced Powder Materials
+    ISSN: 2772834X
+    Publisher: KeAi Communications Co.
+    Country: China
+    Impact Factor (2yr): 24.79
+    SJR Score: 5.1
+    h-index: 40
+    Total Documents: 56
+
+27. Biomaterials
+    ISSN: 01429612, 18785905
+    Publisher: Elsevier Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 13.17
+    SJR Score: 2.998
+    h-index: 451
+    Total Documents: 249
+
+28. Journal of Supply Chain Management
+    ISSN: 15232409, 1745493X
+    Publisher: Wiley-Blackwell
+    Country: United States
+    Impact Factor (2yr): 9.76
+    SJR Score: 4.562
+    h-index: 119
+    Total Documents: 19
+
+29. Manufacturing and Service Operations Management
+    ISSN: 15265498, 15234614
+    Publisher: INFORMS Institute for Operations Research and the Management Sciences
+    Country: United States
+    Impact Factor (2yr): 5.69
+    SJR Score: 4.486
+    h-index: 116
+    Total Documents: 107
+
+30. Research Policy
+    ISSN: 00487333
+    Publisher: Elsevier B.V.
+    Country: Netherlands
+    Impact Factor (2yr): 10.01
+    SJR Score: 3.443
+    h-index: 301
+    Total Documents: 138
+
+31. Advanced Science
+    ISSN: 21983844
+    Publisher: John Wiley and Sons Inc
+    Country: Germany
+    Impact Factor (2yr): 14.85
+    SJR Score: 3.775
+    h-index: 220
+    Total Documents: 3,211
+
+32. IEEE Transactions on Industrial Electronics
+    ISSN: 02780046
+    Publisher: IEEE Industrial Electronics Society
+    Country: United States
+    Impact Factor (2yr): 9.67
+    SJR Score: 3.006
+    h-index: 361
+    Total Documents: 2,035
+
+33. IEEE Transactions on Fuzzy Systems
+    ISSN: 10636706
+    Publisher: Institute of Electrical and Electronics Engineers Inc.
+    Country: United States
+    Impact Factor (2yr): 12.76
+    SJR Score: 3.614
+    h-index: 228
+    Total Documents: 646
+
+34. Automatica
+    ISSN: 00051098
+    Publisher: Elsevier Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 6.66
+    SJR Score: 3.054
+    h-index: 331
+    Total Documents: 481
+
+35. Accounts of Materials Research
+    ISSN: 26436728
+    Publisher: American Chemical Society
+    Country: United States
+    Impact Factor (2yr): 12.71
+    SJR Score: 4.358
+    h-index: 51
+    Total Documents: 137
+
+36. Journal of Management Information Systems
+    ISSN: 1557928X, 07421222
+    Publisher: M.E. Sharpe Inc.
+    Country: United States
+    Impact Factor (2yr): 6.5
+    SJR Score: 3.652
+    h-index: 177
+    Total Documents: 46
+
+37. IEEE Transactions on Industrial Informatics
+    ISSN: 15513203
+    Publisher: IEEE Computer Society
+    Country: United States
+    Impact Factor (2yr): 13.3
+    SJR Score: 3.416
+    h-index: 214
+    Total Documents: 1,410
+
+38. Chemical Engineering Journal
+    ISSN: 13858947
+    Publisher: Elsevier B.V.
+    Country: Netherlands
+    Impact Factor (2yr): 13.85
+    SJR Score: 2.696
+    h-index: 337
+    Total Documents: 10,624
+
+39. IEEE/CAA Journal of Automatica Sinica
+    ISSN: 23299266, 23299274
+    Publisher: IEEE Advancing Technology for Humanity
+    Country: United States
+    Impact Factor (2yr): 14.69
+    SJR Score: 3.863
+    h-index: 99
+    Total Documents: 288
+
+40. Bioresource Technology
+    ISSN: 09608524, 18732976
+    Publisher: Elsevier Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 11.46
+    SJR Score: 2.395
+    h-index: 383
+    Total Documents: 1,507
+
+41. Advances in Colloid and Interface Science
+    ISSN: 00018686
+    Publisher: Elsevier B.V.
+    Country: Netherlands
+    Impact Factor (2yr): 20.43
+    SJR Score: 3.09
+    h-index: 238
+    Total Documents: 186
+
+42. Chemistry of Materials
+    ISSN: 15205002, 08974756
+    Publisher: American Chemical Society
+    Country: United States
+    Impact Factor (2yr): 6.97
+    SJR Score: 2.065
+    h-index: 435
+    Total Documents: 1,065
+
+43. Journal of Manufacturing Systems
+    ISSN: 02786125
+    Publisher: Elsevier B.V.
+    Country: Netherlands
+    Impact Factor (2yr): 17.62
+    SJR Score: 3.633
+    h-index: 120
+    Total Documents: 246
+
+44. IEEE Transactions on Systems, Man, and Cybernetics: Systems
+    ISSN: 21682216, 21682232
+    Publisher: IEEE Advancing Technology for Humanity
+    Country: United States
+    Impact Factor (2yr): 10.82
+    SJR Score: 3.254
+    h-index: 184
+    Total Documents: 672
+
+45. Production and Operations Management
+    ISSN: 10591478, 19375956
+    Publisher: SAGE Publications Inc.
+    Country: United States
+    Impact Factor (2yr): 6.36
+    SJR Score: 3.364
+    h-index: 150
+    Total Documents: 223
+
+46. Foundations and Trends in Systems and Control
+    ISSN: 23256826, 23256818
+    Publisher: Now Publishers Inc
+    Country: United States
+    Impact Factor (2yr): 1.5
+    SJR Score: 4.006
+    h-index: 21
+    Total Documents: 3
+
+47. Composites Part B: Engineering
+    ISSN: 13598368
+    Publisher: Elsevier Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 14.61
+    SJR Score: 2.961
+    h-index: 227
+    Total Documents: 634
+
+48. International Journal of Production Economics
+    ISSN: 09255273
+    Publisher: Elsevier B.V.
+    Country: Netherlands
+    Impact Factor (2yr): 12.32
+    SJR Score: 2.833
+    h-index: 248
+    Total Documents: 280
+
+49. ACS Central Science
+    ISSN: 23747951, 23747943
+    Publisher: American Chemical Society
+    Country: United States
+    Impact Factor (2yr): 7.66
+    SJR Score: 3.286
+    h-index: 151
+    Total Documents: 216
+
+50. Food Hydrocolloids
+    ISSN: 0268005X
+    Publisher: Elsevier B.V.
+    Country: Netherlands
+    Impact Factor (2yr): 14.03
+    SJR Score: 2.837
+    h-index: 235
+    Total Documents: 1,146
+
+51. Structural Equation Modeling
+    ISSN: 15328007, 10705511
+    Publisher: Psychology Press Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 3.46
+    SJR Score: 3.321
+    h-index: 132
+    Total Documents: 95
+
+52. IEEE Transactions on Robotics
+    ISSN: 15523098
+    Publisher: Institute of Electrical and Electronics Engineers Inc.
+    Country: United States
+    Impact Factor (2yr): 12.19
+    SJR Score: 2.965
+    h-index: 201
+    Total Documents: 308
+
+53. Biotechnology Advances
+    ISSN: 18731899, 07349750
+    Publisher: Elsevier Inc.
+    Country: United States
+    Impact Factor (2yr): 13.9
+    SJR Score: 2.662
+    h-index: 260
+    Total Documents: 136
+
+54. Chinese Journal of Catalysis
+    ISSN: 18722067
+    Publisher: Science Press
+    Country: China
+    Impact Factor (2yr): 16.97
+    SJR Score: 3.373
+    h-index: 117
+    Total Documents: 238
+
+55. Strategy Science
+    ISSN: 23332077, 23332050
+    Publisher: INFORMS Institute for Operations Research and the Management Sciences
+    Country: United States
+    Impact Factor (2yr): 3.14
+    SJR Score: 3.806
+    h-index: 30
+    Total Documents: 28
+
+56. Journal of Cleaner Production
+    ISSN: 09596526, 18791786
+    Publisher: Elsevier Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 11.55
+    SJR Score: 2.174
+    h-index: 354
+    Total Documents: 4,538
+
+57. Annual Review of Control, Robotics, and Autonomous Systems
+    ISSN: 25735144
+    Publisher: Annual Reviews Inc.
+    Country: United States
+    Impact Factor (2yr): 17.07
+    SJR Score: 3.69
+    h-index: 46
+    Total Documents: 17
+
+58. Nano Today
+    ISSN: 1878044X, 17480132
+    Publisher: Elsevier B.V.
+    Country: Netherlands
+    Impact Factor (2yr): 11.52
+    SJR Score: 2.962
+    h-index: 190
+    Total Documents: 444
+
+59. Automation in Construction
+    ISSN: 09265805
+    Publisher: Elsevier B.V.
+    Country: Netherlands
+    Impact Factor (2yr): 14.4
+    SJR Score: 2.89
+    h-index: 200
+    Total Documents: 623
+
+60. Methods in Ecology and Evolution
+    ISSN: 2041210X
+    Publisher: British Ecological Society
+    Country: United Kingdom
+    Impact Factor (2yr): 6.64
+    SJR Score: 2.945
+    h-index: 179
+    Total Documents: 196
+
+61. European Journal of Operational Research
+    ISSN: 03772217
+    Publisher: Elsevier B.V.
+    Country: Netherlands
+    Impact Factor (2yr): 7.4
+    SJR Score: 2.239
+    h-index: 319
+    Total Documents: 612
+
+62. Mechanical Systems and Signal Processing
+    ISSN: 08883270, 10961216
+    Publisher: Academic Press
+    Country: United States
+    Impact Factor (2yr): 10.07
+    SJR Score: 2.636
+    h-index: 226
+    Total Documents: 815
+
+63. Additive Manufacturing
+    ISSN: 22148604
+    Publisher: Elsevier B.V.
+    Country: Netherlands
+    Impact Factor (2yr): 11.83
+    SJR Score: 2.877
+    h-index: 168
+    Total Documents: 660
+
+64. Transportation Research Part C: Emerging Technologies
+    ISSN: 0968090X
+    Publisher: Elsevier Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 9.22
+    SJR Score: 2.734
+    h-index: 196
+    Total Documents: 378
+
+65. Trends in Biotechnology
+    ISSN: 01677799, 18793096
+    Publisher: Elsevier Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 9.89
+    SJR Score: 2.359
+    h-index: 265
+    Total Documents: 184
+
+66. International Journal of Extreme Manufacturing
+    ISSN: 26317990, 26318644
+    Publisher: IOP Publishing Ltd.
+    Country: United Kingdom
+    Impact Factor (2yr): 20.2
+    SJR Score: 3.38
+    h-index: 52
+    Total Documents: 109
+
+67. Reliability Engineering and System Safety
+    ISSN: 18790836, 09518320
+    Publisher: Elsevier Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 12.98
+    SJR Score: 2.647
+    h-index: 196
+    Total Documents: 764
+
+68. Materials Horizons
+    ISSN: 20516347, 20516355
+    Publisher: Royal Society of Chemistry
+    Country: United Kingdom
+    Impact Factor (2yr): 9.84
+    SJR Score: 2.885
+    h-index: 147
+    Total Documents: 571
+
+69. Energy
+    ISSN: 18736785, 03605442
+    Publisher: Elsevier Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 10.95
+    SJR Score: 2.211
+    h-index: 274
+    Total Documents: 4,536
+
+70. Robotics and Computer-Integrated Manufacturing
+    ISSN: 07365845
+    Publisher: Elsevier Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 15.44
+    SJR Score: 2.892
+    h-index: 133
+    Total Documents: 162
+
+71. Industrial Marketing Management
+    ISSN: 00198501
+    Publisher: Elsevier Inc.
+    Country: United States
+    Impact Factor (2yr): 9.03
+    SJR Score: 2.621
+    h-index: 187
+    Total Documents: 164
+
+72. Transportation Research Part B: Methodological
+    ISSN: 01912615
+    Publisher: Elsevier Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 6.6
+    SJR Score: 2.589
+    h-index: 183
+    Total Documents: 145
+
+73. Corrosion Science
+    ISSN: 0010938X
+    Publisher: Elsevier Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 8.93
+    SJR Score: 2.189
+    h-index: 262
+    Total Documents: 795
+
+74. Journal of Membrane Science
+    ISSN: 18733123, 03767388
+    Publisher: Elsevier B.V.
+    Country: Netherlands
+    Impact Factor (2yr): 8.95
+    SJR Score: 1.935
+    h-index: 306
+    Total Documents: 868
+
+75. Annual Review of Chemical and Biomolecular Engineering
+    ISSN: 19475438, 19475446
+    Publisher: Annual Reviews Inc.
+    Country: United States
+    Impact Factor (2yr): 12.74
+    SJR Score: 3.037
+    h-index: 85
+    Total Documents: 18
+
+76. Journal of Machine Learning Research
+    ISSN: 15337928, 15324435
+    Publisher: Microtome Publishing
+    Country: United States
+    Impact Factor (2yr): 6.74
+    SJR Score: 2.019
+    h-index: 280
+    Total Documents: 5
+
+77. Critical Reviews in Food Science and Nutrition
+    ISSN: 15497852, 10408398
+    Publisher: Taylor and Francis Ltd.
+    Country: United Kingdom
+    Impact Factor (2yr): 13.25
+    SJR Score: 2.2
+    h-index: 238
+    Total Documents: 907
+
+78. Operations Research
+    ISSN: 0030364X, 15265463
+    Publisher: INFORMS Institute for Operations Research and the Management Sciences
+    Country: United States
+    Impact Factor (2yr): 3.19
+    SJR Score: 2.557
+    h-index: 166
+    Total Documents: 153
+
+79. Academy of Management Discoveries
+    ISSN: 21681007
+    Publisher: Academy of Management
+    Country: United States
+    Impact Factor (2yr): 5.03
+    SJR Score: 3.207
+    h-index: 30
+    Total Documents: 31
+
+80. International Journal of Robotics Research
+    ISSN: 02783649, 17413176
+    Publisher: SAGE Publications Inc.
+    Country: United States
+    Impact Factor (2yr): 7.5
+    SJR Score: 2.333
+    h-index: 202
+    Total Documents: 150
+
+81. npj Computational Materials
+    ISSN: 20573960
+    Publisher: Nature Publishing Group
+    Country: United Kingdom
+    Impact Factor (2yr): 11.24
+    SJR Score: 2.835
+    h-index: 97
+    Total Documents: 294
+
+82. Light: Advanced Manufacturing
+    ISSN: 26899620, 28314093
+    Publisher: Light Publishing Group
+    Country: China
+    Impact Factor (2yr): 10.19
+    SJR Score: 3.177
+    h-index: 28
+    Total Documents: 55
+
+83. Journal of Colloid and Interface Science
+    ISSN: 10957103, 00219797
+    Publisher: Academic Press Inc.
+    Country: United States
+    Impact Factor (2yr): 10.39
+    SJR Score: 1.885
+    h-index: 286
+    Total Documents: 2,246
+
+84. npj Urban Sustainability
+    ISSN: 26618001
+    Publisher: Springer Nature
+    Country: United Kingdom
+    Impact Factor (2yr): 8.97
+    SJR Score: 3.185
+    h-index: 25
+    Total Documents: 49
+
+85. Transportation Research Part E: Logistics and Transportation Review
+    ISSN: 13665545
+    Publisher: Elsevier Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 10.06
+    SJR Score: 2.513
+    h-index: 156
+    Total Documents: 350
+
+86. Journal of Business Logistics
+    ISSN: 21581592, 07353766
+    Publisher: John Wiley &amp; Sons Inc.
+    Country: United States
+    Impact Factor (2yr): 10.26
+    SJR Score: 2.768
+    h-index: 102
+    Total Documents: 40
+
+87. Nano Materials Science
+    ISSN: 20966482, 25899651
+    Publisher: KeAi Communications Co.
+    Country: China
+    Impact Factor (2yr): 16.3
+    SJR Score: 3.03
+    h-index: 44
+    Total Documents: 163
+
+88. International Journal of Production Research
+    ISSN: 00207543, 1366588X
+    Publisher: Taylor and Francis Ltd.
+    Country: United Kingdom
+    Impact Factor (2yr): 10.94
+    SJR Score: 2.242
+    h-index: 201
+    Total Documents: 610
+
+89. Journal of Photochemistry and Photobiology C: Photochemistry Reviews
+    ISSN: 13895567
+    Publisher: Elsevier B.V.
+    Country: Netherlands
+    Impact Factor (2yr): 13.31
+    SJR Score: 2.651
+    h-index: 113
+    Total Documents: 13
+
+90. Journal of Computational Physics
+    ISSN: 10902716, 00219991
+    Publisher: Academic Press Inc.
+    Country: United States
+    Impact Factor (2yr): 4.32
+    SJR Score: 1.685
+    h-index: 306
+    Total Documents: 708
+
+91. IEEE Transactions on Intelligent Vehicles
+    ISSN: 23798858
+    Publisher: Institute of Electrical and Electronics Engineers Inc.
+    Country: United States
+    Impact Factor (2yr): 14.07
+    SJR Score: 2.821
+    h-index: 74
+    Total Documents: 795
+
+92. Omega (United Kingdom)
+    ISSN: 03050483
+    Publisher: Elsevier B.V.
+    Country: United Kingdom
+    Impact Factor (2yr): 8.55
+    SJR Score: 2.308
+    h-index: 175
+    Total Documents: 159
+
+93. Combustion and Flame
+    ISSN: 00102180, 15562921
+    Publisher: Elsevier Inc.
+    Country: United States
+    Impact Factor (2yr): 7.13
+    SJR Score: 2.015
+    h-index: 222
+    Total Documents: 558
+
+94. Computers, Environment and Urban Systems
+    ISSN: 01989715
+    Publisher: Elsevier Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 9.64
+    SJR Score: 2.523
+    h-index: 118
+    Total Documents: 99
+
+95. Catalysis Reviews - Science and Engineering
+    ISSN: 15205703, 01614940
+    Publisher: Taylor &amp; Francis Group LLC
+    Country: United States
+    Impact Factor (2yr): 12.36
+    SJR Score: 2.51
+    h-index: 118
+    Total Documents: 55
+
+96. Current Opinion in Biotechnology
+    ISSN: 18790429, 09581669
+    Publisher: Elsevier Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 7.81
+    SJR Score: 1.864
+    h-index: 247
+    Total Documents: 156
+
+97. IEEE/ASME Transactions on Mechatronics
+    ISSN: 10834435
+    Publisher: Institute of Electrical and Electronics Engineers Inc.
+    Country: United States
+    Impact Factor (2yr): 8.96
+    SJR Score: 2.243
+    h-index: 170
+    Total Documents: 645
+
+98. Journal of Materials Processing Technology
+    ISSN: 09240136, 18734774
+    Publisher: Elsevier B.V.
+    Country: Netherlands
+    Impact Factor (2yr): 8.13
+    SJR Score: 1.885
+    h-index: 239
+    Total Documents: 323
+
+99. Sustainable Production and Consumption
+    ISSN: 23525509
+    Publisher: Elsevier B.V.
+    Country: Netherlands
+    Impact Factor (2yr): 12.0
+    SJR Score: 2.588
+    h-index: 96
+    Total Documents: 372
+
+100. ACS Materials Letters
+    ISSN: 26394979
+    Publisher: American Chemical Society
+    Country: United States
+    Impact Factor (2yr): 9.15
+    SJR Score: 2.655
+    h-index: 77
+    Total Documents: 558
+
+
+
+SOFT MATTER & POLYMER ENGINEERING
+--------------------------------------------------------------------------------
+
+ 1. Journal of the American Chemical Society
+    ISSN: 15205126, 00027863
+    Publisher: American Chemical Society
+    Country: United States
+    Impact Factor (2yr): 15.01
+    SJR Score: 5.554
+    h-index: 734
+    Total Documents: 3,696
+
+ 2. Progress in Polymer Science
+    ISSN: 00796700
+    Publisher: Elsevier Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 26.63
+    SJR Score: 6.089
+    h-index: 346
+    Total Documents: 47
+
+ 3. Acta Materialia
+    ISSN: 13596454
+    Publisher: Acta Materialia Inc
+    Country: United Kingdom
+    Impact Factor (2yr): 9.48
+    SJR Score: 2.972
+    h-index: 381
+    Total Documents: 852
+
+ 4. Accounts of Materials Research
+    ISSN: 26436728
+    Publisher: American Chemical Society
+    Country: United States
+    Impact Factor (2yr): 12.71
+    SJR Score: 4.358
+    h-index: 51
+    Total Documents: 137
+
+ 5. International Journal of Plasticity
+    ISSN: 07496419
+    Publisher: Elsevier Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 12.13
+    SJR Score: 3.531
+    h-index: 178
+    Total Documents: 249
+
+ 6. Advances in Colloid and Interface Science
+    ISSN: 00018686
+    Publisher: Elsevier B.V.
+    Country: Netherlands
+    Impact Factor (2yr): 20.43
+    SJR Score: 3.09
+    h-index: 238
+    Total Documents: 186
+
+ 7. Advanced Fiber Materials
+    ISSN: 25247921, 2524793X
+    Publisher: Springer Nature
+    Country: United States
+    Impact Factor (2yr): 19.7
+    SJR Score: 3.919
+    h-index: 58
+    Total Documents: 144
+
+ 8. Food Hydrocolloids
+    ISSN: 0268005X
+    Publisher: Elsevier B.V.
+    Country: Netherlands
+    Impact Factor (2yr): 14.03
+    SJR Score: 2.837
+    h-index: 235
+    Total Documents: 1,146
+
+ 9. Advanced Composites and Hybrid Materials
+    ISSN: 25220128, 25220136
+    Publisher: Springer Science and Business Media B.V.
+    Country: Germany
+    Impact Factor (2yr): 20.21
+    SJR Score: 3.214
+    h-index: 88
+    Total Documents: 253
+
+10. Journal of Materials Science and Technology
+    ISSN: 10050302
+    Publisher: Chinese Society of Metals
+    Country: China
+    Impact Factor (2yr): 14.48
+    SJR Score: 2.865
+    h-index: 143
+    Total Documents: 787
+
+11. Carbohydrate Polymers
+    ISSN: 18791344, 01448617
+    Publisher: Elsevier Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 13.58
+    SJR Score: 2.004
+    h-index: 294
+    Total Documents: 1,095
+
+12. Journal of Colloid and Interface Science
+    ISSN: 10957103, 00219797
+    Publisher: Academic Press Inc.
+    Country: United States
+    Impact Factor (2yr): 10.39
+    SJR Score: 1.885
+    h-index: 286
+    Total Documents: 2,246
+
+13. Polymer Reviews
+    ISSN: 15583724, 15583716
+    Publisher: Taylor and Francis Ltd.
+    Country: United States
+    Impact Factor (2yr): 16.55
+    SJR Score: 2.585
+    h-index: 117
+    Total Documents: 38
+
+14. Macromolecules
+    ISSN: 00249297, 15205835
+    Publisher: American Chemical Society
+    Country: United States
+    Impact Factor (2yr): 5.22
+    SJR Score: 1.352
+    h-index: 348
+    Total Documents: 1,064
+
+15. Biomacromolecules
+    ISSN: 15264602, 15257797
+    Publisher: American Chemical Society
+    Country: United States
+    Impact Factor (2yr): 5.56
+    SJR Score: 1.142
+    h-index: 265
+    Total Documents: 637
+
+16. International Journal of Biological Macromolecules
+    ISSN: 01418130, 18790003
+    Publisher: Elsevier B.V.
+    Country: Netherlands
+    Impact Factor (2yr): 9.29
+    SJR Score: 1.285
+    h-index: 219
+    Total Documents: 9,518
+
+17. Polymer
+    ISSN: 00323861
+    Publisher: Elsevier B.V.
+    Country: Netherlands
+    Impact Factor (2yr): 4.65
+    SJR Score: 0.843
+    h-index: 297
+    Total Documents: 1,094
+
+18. Plastic and Reconstructive Surgery
+    ISSN: 15294242, 00321052
+    Publisher: Lippincott Williams and Wilkins
+    Country: United States
+    Impact Factor (2yr): 2.39
+    SJR Score: 1.222
+    h-index: 220
+    Total Documents: 783
+
+19. Current Opinion in Colloid and Interface Science
+    ISSN: 18790399, 13590294
+    Publisher: Elsevier Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 6.87
+    SJR Score: 1.381
+    h-index: 176
+    Total Documents: 58
+
+20. Polymer Degradation and Stability
+    ISSN: 01413910
+    Publisher: Elsevier Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 7.87
+    SJR Score: 1.237
+    h-index: 200
+    Total Documents: 374
+
+21. Advanced Industrial and Engineering Polymer Research
+    ISSN: 25425048
+    Publisher: KeAi Communications Co.
+    Country: China
+    Impact Factor (2yr): 13.34
+    SJR Score: 2.033
+    h-index: 38
+    Total Documents: 34
+
+22. Food Packaging and Shelf Life
+    ISSN: 22142894
+    Publisher: Elsevier B.V.
+    Country: Netherlands
+    Impact Factor (2yr): 11.59
+    SJR Score: 1.603
+    h-index: 89
+    Total Documents: 185
+
+23. Colloids and Surfaces B: Biointerfaces
+    ISSN: 09277765, 18734367
+    Publisher: Elsevier B.V.
+    Country: Netherlands
+    Impact Factor (2yr): 6.01
+    SJR Score: 0.978
+    h-index: 207
+    Total Documents: 463
+
+24. European Polymer Journal
+    ISSN: 00143057
+    Publisher: Elsevier Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 6.62
+    SJR Score: 1.076
+    h-index: 179
+    Total Documents: 784
+
+25. Colloids and Surfaces A: Physicochemical and Engineering Aspects
+    ISSN: 18734359, 09277757
+    Publisher: Elsevier B.V.
+    Country: Netherlands
+    Impact Factor (2yr): 5.93
+    SJR Score: 0.944
+    h-index: 205
+    Total Documents: 2,573
+
+26. Macromolecular Rapid Communications
+    ISSN: 10221336, 15213927
+    Publisher: Wiley-VCH Verlag
+    Country: Germany
+    Impact Factor (2yr): 4.52
+    SJR Score: 1.078
+    h-index: 178
+    Total Documents: 441
+
+27. Journal of Materials Science
+    ISSN: 15734803, 00222461
+    Publisher: Springer
+    Country: United States
+    Impact Factor (2yr): 3.99
+    SJR Score: 0.802
+    h-index: 226
+    Total Documents: 1,286
+
+28. ACS Macro Letters
+    ISSN: 21611653
+    Publisher: American Chemical Society
+    Country: United States
+    Impact Factor (2yr): 5.08
+    SJR Score: 1.287
+    h-index: 127
+    Total Documents: 250
+
+29. Cleaner Materials
+    ISSN: 27723976
+    Publisher: Elsevier Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 11.22
+    SJR Score: 1.656
+    h-index: 35
+    Total Documents: 67
+
+30. Cellulose
+    ISSN: 09690239
+    Publisher: Springer Netherlands
+    Country: Netherlands
+    Impact Factor (2yr): 5.35
+    SJR Score: 0.964
+    h-index: 167
+    Total Documents: 649
+
+31. Journal of Polymer Science
+    ISSN: 26424150, 26424169
+    Publisher: John Wiley &amp; Sons Inc.
+    Country: United States
+    Impact Factor (2yr): 4.16
+    SJR Score: 0.95
+    h-index: 168
+    Total Documents: 449
+
+32. Composites Communications
+    ISSN: 24522139
+    Publisher: Elsevier Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 7.73
+    SJR Score: 1.416
+    h-index: 73
+    Total Documents: 365
+
+33. Polymers
+    ISSN: 20734360
+    Publisher: Multidisciplinary Digital Publishing Institute (MDPI)
+    Country: Switzerland
+    Impact Factor (2yr): 5.44
+    SJR Score: 0.918
+    h-index: 167
+    Total Documents: 3,608
+
+34. Soft Matter
+    ISSN: 17446848, 1744683X
+    Publisher: Royal Society of Chemistry
+    Country: United Kingdom
+    Impact Factor (2yr): 2.71
+    SJR Score: 0.684
+    h-index: 211
+    Total Documents: 802
+
+35. ACS Materials Au
+    ISSN: 26942461
+    Publisher: American Chemical Society
+    Country: United States
+    Impact Factor (2yr): 7.13
+    SJR Score: 1.597
+    h-index: 22
+    Total Documents: 68
+
+36. Polymer Testing
+    ISSN: 01429418
+    Publisher: Elsevier Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 6.38
+    SJR Score: 1.046
+    h-index: 131
+    Total Documents: 274
+
+37. Materials Today Chemistry
+    ISSN: 24685194
+    Publisher: Elsevier Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 7.34
+    SJR Score: 1.28
+    h-index: 73
+    Total Documents: 609
+
+38. Polymer Chemistry
+    ISSN: 17599954, 17599962
+    Publisher: Royal Society of Chemistry
+    Country: United Kingdom
+    Impact Factor (2yr): 3.9
+    SJR Score: 0.842
+    h-index: 154
+    Total Documents: 468
+
+39. ACS Polymers Au
+    ISSN: 26942453
+    Publisher: American Chemical Society
+    Country: United States
+    Impact Factor (2yr): 7.63
+    SJR Score: 1.515
+    h-index: 12
+    Total Documents: 44
+
+40. Journal of Applied Polymer Science
+    ISSN: 00218995, 10974628
+    Publisher: John Wiley &amp; Sons Inc.
+    Country: United States
+    Impact Factor (2yr): 3.2
+    SJR Score: 0.572
+    h-index: 200
+    Total Documents: 1,501
+
+41. Neural Plasticity
+    ISSN: 16875443, 20905904
+    Publisher: John Wiley and Sons Ltd
+    Country: United States
+    Impact Factor (2yr): 3.8
+    SJR Score: 1.101
+    h-index: 94
+    Total Documents: 12
+
+42. Macromolecular Bioscience
+    ISSN: 16165195, 16165187
+    Publisher: Wiley-VCH Verlag
+    Country: Germany
+    Impact Factor (2yr): 4.54
+    SJR Score: 0.893
+    h-index: 125
+    Total Documents: 231
+
+43. Facta Universitatis, Series: Mechanical Engineering
+    ISSN: 23350164, 03542025
+    Publisher: University of Nis
+    Country: Serbia
+    Impact Factor (2yr): 13.39
+    SJR Score: 1.301
+    h-index: 41
+    Total Documents: 47
+
+44. Reactive and Functional Polymers
+    ISSN: 13815148
+    Publisher: Elsevier B.V.
+    Country: Netherlands
+    Impact Factor (2yr): 5.43
+    SJR Score: 0.876
+    h-index: 120
+    Total Documents: 243
+
+45. Macromolecular Materials and Engineering
+    ISSN: 14387492, 14392054
+    Publisher: Wiley-VCH Verlag
+    Country: Germany
+    Impact Factor (2yr): 4.78
+    SJR Score: 0.885
+    h-index: 118
+    Total Documents: 206
+
+46. Journal of Rheology
+    ISSN: 01486055
+    Publisher: Society of Rheology
+    Country: Japan
+    Impact Factor (2yr): 2.89
+    SJR Score: 0.793
+    h-index: 123
+    Total Documents: 67
+
+47. Journal of Polymers and the Environment
+    ISSN: 15662543, 15728919
+    Publisher: Springer
+    Country: United States
+    Impact Factor (2yr): 6.09
+    SJR Score: 0.865
+    h-index: 108
+    Total Documents: 436
+
+48. Journal of Plastic, Reconstructive and Aesthetic Surgery
+    ISSN: 18780539, 17486815
+    Publisher: Churchill Livingstone
+    Country: United Kingdom
+    Impact Factor (2yr): 1.81
+    SJR Score: 0.789
+    h-index: 118
+    Total Documents: 637
+
+49. Aesthetic Plastic Surgery
+    ISSN: 0364216X, 14325241
+    Publisher: Springer New York
+    Country: United States
+    Impact Factor (2yr): 1.8
+    SJR Score: 0.945
+    h-index: 85
+    Total Documents: 1,023
+
+50. Giant
+    ISSN: 26665425
+    Publisher: Elsevier B.V.
+    Country: Netherlands
+    Impact Factor (2yr): 4.77
+    SJR Score: 1.221
+    h-index: 28
+    Total Documents: 135
+
+51. Polymer Composites
+    ISSN: 02728397, 15480569
+    Publisher: John Wiley &amp; Sons Inc.
+    Country: United States
+    Impact Factor (2yr): 6.1
+    SJR Score: 0.8
+    h-index: 106
+    Total Documents: 1,471
+
+52. ACS Applied Polymer Materials
+    ISSN: 26376105
+    Publisher: American Chemical Society
+    Country: United States
+    Impact Factor (2yr): 4.93
+    SJR Score: 0.981
+    h-index: 63
+    Total Documents: 1,426
+
+53. Microplastics
+    ISSN: 26738929
+    Publisher: Multidisciplinary Digital Publishing Institute (MDPI)
+    Country: Switzerland
+    Impact Factor (2yr): 6.19
+    SJR Score: 1.22
+    h-index: 15
+    Total Documents: 48
+
+54. Biopolymers
+    ISSN: 00063525, 10970282
+    Publisher: John Wiley &amp; Sons Inc.
+    Country: United States
+    Impact Factor (2yr): 3.1
+    SJR Score: 0.554
+    h-index: 147
+    Total Documents: 52
+
+55. Rangeland Ecology and Management
+    ISSN: 15507424
+    Publisher: Elsevier Inc.
+    Country: United States
+    Impact Factor (2yr): 2.22
+    SJR Score: 0.854
+    h-index: 85
+    Total Documents: 107
+
+56. Polymer International
+    ISSN: 10970126, 09598103
+    Publisher: John Wiley and Sons Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 3.62
+    SJR Score: 0.636
+    h-index: 127
+    Total Documents: 130
+
+57. Advances in Manufacturing
+    ISSN: 20953127, 21953597
+    Publisher: Springer Science + Business Media
+    Country: United States
+    Impact Factor (2yr): 5.02
+    SJR Score: 1.039
+    h-index: 46
+    Total Documents: 73
+
+58. International Journal of Adhesion and Adhesives
+    ISSN: 01437496
+    Publisher: Elsevier Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 4.18
+    SJR Score: 0.679
+    h-index: 117
+    Total Documents: 253
+
+59. Seminars in Plastic Surgery
+    ISSN: 15360067, 15352188
+    Publisher: Thieme Medical Publishers, Inc.
+    Country: United States
+    Impact Factor (2yr): 1.06
+    SJR Score: 1.025
+    h-index: 45
+    Total Documents: 59
+
+60. Polymer Engineering and Science
+    ISSN: 15482634, 00323888
+    Publisher: John Wiley and Sons Inc
+    Country: United States
+    Impact Factor (2yr): 3.89
+    SJR Score: 0.606
+    h-index: 128
+    Total Documents: 463
+
+61. Macromolecular Chemistry and Physics
+    ISSN: 10221352, 15213935
+    Publisher: Wiley-VCH Verlag
+    Country: Germany
+    Impact Factor (2yr): 2.77
+    SJR Score: 0.569
+    h-index: 132
+    Total Documents: 187
+
+62. Clinics in Plastic Surgery
+    ISSN: 00941298, 15580504
+    Publisher: W.B. Saunders
+    Country: United States
+    Impact Factor (2yr): 2.28
+    SJR Score: 0.818
+    h-index: 80
+    Total Documents: 60
+
+63. Carbohydrate Polymer Technologies and Applications
+    ISSN: 26668939
+    Publisher: Elsevier Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 6.91
+    SJR Score: 1.026
+    h-index: 38
+    Total Documents: 214
+
+64. Rangelands
+    ISSN: 01900528, 1551501X
+    Publisher: Society for Range Management
+    Country: United States
+    Impact Factor (2yr): 3.09
+    SJR Score: 1.012
+    h-index: 38
+    Total Documents: 17
+
+65. Polymers for Advanced Technologies
+    ISSN: 10427147, 10991581
+    Publisher: John Wiley and Sons Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 3.69
+    SJR Score: 0.638
+    h-index: 110
+    Total Documents: 478
+
+66. Journal of Biomaterials Science, Polymer Edition
+    ISSN: 15685624, 09205063
+    Publisher: Taylor and Francis Ltd.
+    Country: United Kingdom
+    Impact Factor (2yr): 4.08
+    SJR Score: 0.62
+    h-index: 110
+    Total Documents: 165
+
+67. Annals of Plastic Surgery
+    ISSN: 01487043, 15363708
+    Publisher: Lippincott Williams and Wilkins
+    Country: United States
+    Impact Factor (2yr): 1.45
+    SJR Score: 0.598
+    h-index: 112
+    Total Documents: 432
+
+68. Gels
+    ISSN: 23102861
+    Publisher: Multidisciplinary Digital Publishing Institute (MDPI)
+    Country: Switzerland
+    Impact Factor (2yr): 5.5
+    SJR Score: 0.847
+    h-index: 60
+    Total Documents: 844
+
+69. International Journal of Cosmetic Science
+    ISSN: 01425463, 14682494
+    Publisher: Wiley-Blackwell Publishing Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 2.92
+    SJR Score: 0.694
+    h-index: 83
+    Total Documents: 104
+
+70. Facial Plastic Surgery and Aesthetic Medicine
+    ISSN: 26893622, 26893614
+    Publisher: Mary Ann Liebert Inc.
+    Country: United States
+    Impact Factor (2yr): 1.48
+    SJR Score: 0.715
+    h-index: 78
+    Total Documents: 218
+
+71. Colloids and Interface Science Communications
+    ISSN: 22150382
+    Publisher: Elsevier B.V.
+    Country: Netherlands
+    Impact Factor (2yr): 5.34
+    SJR Score: 0.842
+    h-index: 49
+    Total Documents: 48
+
+72. Chinese Journal of Polymer Science (English Edition)
+    ISSN: 02567679, 14396203
+    Publisher: Springer Verlag
+    Country: Germany
+    Impact Factor (2yr): 4.01
+    SJR Score: 0.814
+    h-index: 52
+    Total Documents: 211
+
+73. Journal of Thermoplastic Composite Materials
+    ISSN: 15307980, 08927057
+    Publisher: SAGE Publications Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 5.12
+    SJR Score: 0.756
+    h-index: 63
+    Total Documents: 275
+
+74. Polymer Bulletin
+    ISSN: 14362449, 01700839
+    Publisher: Springer Verlag
+    Country: Germany
+    Impact Factor (2yr): 4.66
+    SJR Score: 0.658
+    h-index: 82
+    Total Documents: 861
+
+75. Polymer Journal
+    ISSN: 00323896, 13490540
+    Publisher: Nature Publishing Group
+    Country: United Kingdom
+    Impact Factor (2yr): 2.74
+    SJR Score: 0.621
+    h-index: 86
+    Total Documents: 145
+
+76. Journal of Sol-Gel Science and Technology
+    ISSN: 15734846, 09280707
+    Publisher: Springer Netherlands
+    Country: Netherlands
+    Impact Factor (2yr): 3.2
+    SJR Score: 0.513
+    h-index: 106
+    Total Documents: 343
+
+77. Journal of Inorganic and Organometallic Polymers and Materials
+    ISSN: 15741443, 15741451
+    Publisher: Springer New York
+    Country: United States
+    Impact Factor (2yr): 5.32
+    SJR Score: 0.697
+    h-index: 69
+    Total Documents: 643
+
+78. Clothing and Textiles Research Journal
+    ISSN: 19402473, 0887302X
+    Publisher: SAGE Publications Inc.
+    Country: United States
+    Impact Factor (2yr): 2.65
+    SJR Score: 0.791
+    h-index: 49
+    Total Documents: 35
+
+79. Textile Research Journal
+    ISSN: 00405175, 17467748
+    Publisher: SAGE Publications Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 2.47
+    SJR Score: 0.507
+    h-index: 105
+    Total Documents: 278
+
+80. Food Hydrocolloids for Health
+    ISSN: 26670259
+    Publisher: Elsevier B.V.
+    Country: Netherlands
+    Impact Factor (2yr): 5.58
+    SJR Score: 0.883
+    h-index: 21
+    Total Documents: 18
+
+81. Plasma Processes and Polymers
+    ISSN: 16128869, 16128850
+    Publisher: Wiley-VCH Verlag
+    Country: Germany
+    Impact Factor (2yr): 2.94
+    SJR Score: 0.513
+    h-index: 94
+    Total Documents: 143
+
+82. Facial Plastic Surgery Clinics of North America
+    ISSN: 10647406, 15581926
+    Publisher: W.B. Saunders
+    Country: United States
+    Impact Factor (2yr): 1.66
+    SJR Score: 0.748
+    h-index: 47
+    Total Documents: 69
+
+83. Journal of Reinforced Plastics and Composites
+    ISSN: 07316844, 15307964
+    Publisher: SAGE Publications Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 3.31
+    SJR Score: 0.511
+    h-index: 94
+    Total Documents: 333
+
+84. Journal of Microencapsulation
+    ISSN: 02652048, 14645246
+    Publisher: Taylor and Francis Ltd.
+    Country: United Kingdom
+    Impact Factor (2yr): 3.26
+    SJR Score: 0.507
+    h-index: 91
+    Total Documents: 53
+
+85. Plastic and Reconstructive Surgery - Global Open
+    ISSN: 21697574
+    Publisher: Lippincott Williams and Wilkins Ltd.
+    Country: United States
+    Impact Factor (2yr): 1.7
+    SJR Score: 0.676
+    h-index: 57
+    Total Documents: 887
+
+86. Journal of Cellular Plastics
+    ISSN: 15307999, 0021955X
+    Publisher: SAGE Publications Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 3.12
+    SJR Score: 0.706
+    h-index: 50
+    Total Documents: 17
+
+87. International Journal of Polymer Science
+    ISSN: 16879430, 16879422
+    Publisher: John Wiley and Sons Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 4.9
+    SJR Score: 0.626
+    h-index: 65
+    Total Documents: 35
+
+88. Express Polymer Letters
+    ISSN: 1788618X
+    Publisher: BME-PT and GTE
+    Country: Hungary
+    Impact Factor (2yr): 2.46
+    SJR Score: 0.479
+    h-index: 91
+    Total Documents: 96
+
+89. Clinical Hemorheology and Microcirculation
+    ISSN: 18758622, 13860291
+    Publisher: SAGE Publications Ltd
+    Country: Netherlands
+    Impact Factor (2yr): 2.72
+    SJR Score: 0.604
+    h-index: 64
+    Total Documents: 140
+
+90. Fire and Materials
+    ISSN: 03080501, 10991018
+    Publisher: John Wiley and Sons Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 2.83
+    SJR Score: 0.553
+    h-index: 74
+    Total Documents: 79
+
+91. Colloid and Polymer Science
+    ISSN: 0303402X, 14351536
+    Publisher: Springer Verlag
+    Country: Germany
+    Impact Factor (2yr): 2.42
+    SJR Score: 0.431
+    h-index: 98
+    Total Documents: 151
+
+92. Macromolecular Research
+    ISSN: 15985032
+    Publisher: Polymer Society of Korea
+    Country: South Korea
+    Impact Factor (2yr): 3.52
+    SJR Score: 0.585
+    h-index: 60
+    Total Documents: 123
+
+93. Journal of Polymer Research
+    ISSN: 15728935, 10229760
+    Publisher: Springer Netherlands
+    Country: Netherlands
+    Impact Factor (2yr): 3.01
+    SJR Score: 0.505
+    h-index: 76
+    Total Documents: 372
+
+94. Biomicrofluidics
+    ISSN: 19321058
+    Publisher: American Institute of Physics
+    Country: United States
+    Impact Factor (2yr): 2.51
+    SJR Score: 0.471
+    h-index: 82
+    Total Documents: 90
+
+95. Polymer-Plastics Technology and Materials
+    ISSN: 2574089X, 25740881
+    Publisher: Taylor and Francis Ltd.
+    Country: United Kingdom
+    Impact Factor (2yr): 3.32
+    SJR Score: 0.48
+    h-index: 80
+    Total Documents: 155
+
+96. Fibers and Polymers
+    ISSN: 12299197
+    Publisher: Korean Fiber Society
+    Country: South Korea
+    Impact Factor (2yr): 2.65
+    SJR Score: 0.486
+    h-index: 78
+    Total Documents: 383
+
+97. Journal of Industrial Textiles
+    ISSN: 15308057, 15280837
+    Publisher: SAGE Publications Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 3.53
+    SJR Score: 0.572
+    h-index: 60
+    Total Documents: 117
+
+98. Ophthalmic Plastic and Reconstructive Surgery
+    ISSN: 15372677, 07409303
+    Publisher: Lippincott Williams and Wilkins Ltd.
+    Country: United States
+    Impact Factor (2yr): 1.12
+    SJR Score: 0.49
+    h-index: 73
+    Total Documents: 328
+
+99. International Journal of Geosynthetics and Ground Engineering
+    ISSN: 21999260, 21999279
+    Publisher: Springer Nature
+    Country: United States
+    Impact Factor (2yr): 2.62
+    SJR Score: 0.677
+    h-index: 35
+    Total Documents: 96
+
+100. Facial Plastic Surgery
+    ISSN: 10988793, 07366825
+    Publisher: Thieme Medical Publishers, Inc.
+    Country: United States
+    Impact Factor (2yr): 1.36
+    SJR Score: 0.561
+    h-index: 54
+    Total Documents: 139
+
+
+
+SUSTAINABLE REACTION ENGINEERING
+--------------------------------------------------------------------------------
+
+ 1. MMWR Recommendations and Reports
+    ISSN: 10575987, 15458601
+    Publisher: Centers for Disease Control and Prevention (CDC)
+    Country: United States
+    Impact Factor (2yr): 75.11
+    SJR Score: 41.754
+    h-index: 155
+    Total Documents: 6
+
+ 2. Nature Energy
+    ISSN: 20587546
+    Publisher: Springer Nature
+    Country: United States
+    Impact Factor (2yr): 27.54
+    SJR Score: 17.599
+    h-index: 259
+    Total Documents: 243
+
+ 3. MMWR Surveillance Summaries
+    ISSN: 15458636, 15460738
+    Publisher: Centers for Disease Control and Prevention (CDC)
+    Country: United States
+    Impact Factor (2yr): 57.05
+    SJR Score: 15.326
+    h-index: 119
+    Total Documents: 9
+
+ 4. Nature Catalysis
+    ISSN: 25201158
+    Publisher: Nature Publishing Group
+    Country: United States
+    Impact Factor (2yr): 25.3
+    SJR Score: 14.132
+    h-index: 162
+    Total Documents: 185
+
+ 5. Nature Reviews Earth and Environment
+    ISSN: 2662138X
+    Publisher: Springer International Publishing
+    Country: Switzerland
+    Impact Factor (2yr): 28.29
+    SJR Score: 13.465
+    h-index: 91
+    Total Documents: 109
+
+ 6. Energy and Environmental Science
+    ISSN: 17545692, 17545706
+    Publisher: Royal Society of Chemistry
+    Country: United Kingdom
+    Impact Factor (2yr): 29.13
+    SJR Score: 10.529
+    h-index: 466
+    Total Documents: 718
+
+ 7. Morbidity and Mortality Weekly Report
+    ISSN: 01492195, 1545861X
+    Publisher: Department of Health and Human Services
+    Country: United States
+    Impact Factor (2yr): 13.0
+    SJR Score: 9.559
+    h-index: 274
+    Total Documents: 235
+
+ 8. Advanced Energy Materials
+    ISSN: 16146832, 16146840
+    Publisher: John Wiley and Sons Inc
+    Country: Germany
+    Impact Factor (2yr): 25.86
+    SJR Score: 8.378
+    h-index: 355
+    Total Documents: 1,188
+
+ 9. eScience
+    ISSN: 20972431, 26671417
+    Publisher: KeAi Communications Co.
+    Country: China
+    Impact Factor (2yr): 33.23
+    SJR Score: 9.726
+    h-index: 63
+    Total Documents: 64
+
+10. Nature Climate Change
+    ISSN: 17586798, 1758678X
+    Publisher: Nature Research
+    Country: United Kingdom
+    Impact Factor (2yr): 11.98
+    SJR Score: 8.046
+    h-index: 296
+    Total Documents: 299
+
+11. Annual Review of Public Health
+    ISSN: 01637525, 15452093
+    Publisher: Annual Reviews Inc.
+    Country: United States
+    Impact Factor (2yr): 22.77
+    SJR Score: 8.291
+    h-index: 189
+    Total Documents: 27
+
+12. Journal of the American Chemical Society
+    ISSN: 15205126, 00027863
+    Publisher: American Chemical Society
+    Country: United States
+    Impact Factor (2yr): 15.01
+    SJR Score: 5.554
+    h-index: 734
+    Total Documents: 3,696
+
+13. The Lancet Public Health
+    ISSN: 24682667
+    Publisher: Elsevier Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 12.97
+    SJR Score: 8.408
+    h-index: 106
+    Total Documents: 156
+
+14. Angewandte Chemie - International Edition
+    ISSN: 14337851, 15213773
+    Publisher: John Wiley and Sons Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 16.71
+    SJR Score: 5.55
+    h-index: 667
+    Total Documents: 3,947
+
+15. Advances in Optics and Photonics
+    ISSN: 19438206
+    Publisher: Optica Publishing Group (formerly OSA)
+    Country: United States
+    Impact Factor (2yr): 28.48
+    SJR Score: 7.982
+    h-index: 91
+    Total Documents: 12
+
+16. Nature Sustainability
+    ISSN: 23989629
+    Publisher: Nature Publishing Group
+    Country: United Kingdom
+    Impact Factor (2yr): 17.96
+    SJR Score: 7.292
+    h-index: 146
+    Total Documents: 228
+
+17. ACS Energy Letters
+    ISSN: 23808195
+    Publisher: American Chemical Society
+    Country: United States
+    Impact Factor (2yr): 17.51
+    SJR Score: 6.799
+    h-index: 223
+    Total Documents: 661
+
+18. Living Reviews in Solar Physics
+    ISSN: 16144961, 23673648
+    Publisher: Springer International Publishing AG
+    Country: Switzerland
+    Impact Factor (2yr): 30.29
+    SJR Score: 7.431
+    h-index: 74
+    Total Documents: 1
+
+19. Clinical Microbiology Reviews
+    ISSN: 08938512, 10986618
+    Publisher: American Society for Microbiology
+    Country: United States
+    Impact Factor (2yr): 19.02
+    SJR Score: 5.594
+    h-index: 340
+    Total Documents: 55
+
+20. Fungal Diversity
+    ISSN: 15602745, 18789129
+    Publisher: Springer Nature
+    Country: Netherlands
+    Impact Factor (2yr): 28.56
+    SJR Score: 6.546
+    h-index: 136
+    Total Documents: 20
+
+21. Applied Catalysis B: Environmental
+    ISSN: 18733883, 09263373
+    Publisher: Elsevier B.V.
+    Country: Netherlands
+    Impact Factor (2yr): 22.03
+    SJR Score: 5.18
+    h-index: 353
+    Total Documents: 1,172
+
+22. Chem
+    ISSN: 24519308, 24519294
+    Publisher: Elsevier Inc.
+    Country: United States
+    Impact Factor (2yr): 12.97
+    SJR Score: 6.01
+    h-index: 167
+    Total Documents: 305
+
+23. The Lancet Planetary Health
+    ISSN: 25425196
+    Publisher: Elsevier B.V.
+    Country: Netherlands
+    Impact Factor (2yr): 11.39
+    SJR Score: 6.386
+    h-index: 90
+    Total Documents: 173
+
+24. Energy Storage Materials
+    ISSN: 24058297
+    Publisher: Elsevier B.V.
+    Country: Netherlands
+    Impact Factor (2yr): 21.11
+    SJR Score: 5.791
+    h-index: 185
+    Total Documents: 791
+
+25. Annual Review of Ecology, Evolution, and Systematics
+    ISSN: 1543592X
+    Publisher: Annual Reviews Inc.
+    Country: United States
+    Impact Factor (2yr): 10.88
+    SJR Score: 5.214
+    h-index: 254
+    Total Documents: 21
+
+26. Annual Review of Environment and Resources
+    ISSN: 15452050, 15435938
+    Publisher: Annual Reviews Inc.
+    Country: United States
+    Impact Factor (2yr): 16.97
+    SJR Score: 5.7
+    h-index: 156
+    Total Documents: 0
+
+27. Global Change Biology
+    ISSN: 13652486, 13541013
+    Publisher: Wiley-Blackwell Publishing Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 12.13
+    SJR Score: 4.6
+    h-index: 332
+    Total Documents: 626
+
+28. Renewable and Sustainable Energy Reviews
+    ISSN: 13640321, 18790690
+    Publisher: Elsevier Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 20.3
+    SJR Score: 3.901
+    h-index: 464
+    Total Documents: 840
+
+29. Environmental Science and Technology
+    ISSN: 0013936X, 15205851
+    Publisher: American Chemical Society
+    Country: United States
+    Impact Factor (2yr): 11.73
+    SJR Score: 3.69
+    h-index: 504
+    Total Documents: 2,133
+
+30. Nature Water
+    ISSN: 27316084
+    Publisher: Springer Nature
+    Country: Netherlands
+    Impact Factor (2yr): 17.37
+    SJR Score: 5.962
+    h-index: 27
+    Total Documents: 113
+
+31. Carbon Energy
+    ISSN: 26379368
+    Publisher: John Wiley &amp; Sons Inc.
+    Country: United States
+    Impact Factor (2yr): 25.28
+    SJR Score: 5.701
+    h-index: 73
+    Total Documents: 196
+
+32. Nano Energy
+    ISSN: 22112855
+    Publisher: Elsevier B.V.
+    Country: Netherlands
+    Impact Factor (2yr): 17.56
+    SJR Score: 4.566
+    h-index: 277
+    Total Documents: 1,225
+
+33. Water Research
+    ISSN: 00431354, 18792448
+    Publisher: Elsevier Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 13.64
+    SJR Score: 3.843
+    h-index: 396
+    Total Documents: 1,537
+
+34. ACS Catalysis
+    ISSN: 21555435
+    Publisher: American Chemical Society
+    Country: United States
+    Impact Factor (2yr): 12.8
+    SJR Score: 3.782
+    h-index: 320
+    Total Documents: 1,636
+
+35. Advanced Powder Materials
+    ISSN: 2772834X
+    Publisher: KeAi Communications Co.
+    Country: China
+    Impact Factor (2yr): 24.79
+    SJR Score: 5.1
+    h-index: 40
+    Total Documents: 56
+
+36. Implementation Science
+    ISSN: 17485908
+    Publisher: BioMed Central Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 12.0
+    SJR Score: 4.491
+    h-index: 157
+    Total Documents: 77
+
+37. IEEE Transactions on Sustainable Energy
+    ISSN: 19493029, 19493037
+    Publisher: Institute of Electrical and Electronics Engineers Inc.
+    Country: United States
+    Impact Factor (2yr): 12.36
+    SJR Score: 4.261
+    h-index: 179
+    Total Documents: 321
+
+38. Nature Ecology and Evolution
+    ISSN: 2397334X
+    Publisher: Nature Research
+    Country: United Kingdom
+    Impact Factor (2yr): 7.77
+    SJR Score: 4.357
+    h-index: 140
+    Total Documents: 310
+
+39. Journal of Hazardous Materials
+    ISSN: 18733336, 03043894
+    Publisher: Elsevier B.V.
+    Country: Netherlands
+    Impact Factor (2yr): 13.99
+    SJR Score: 3.078
+    h-index: 375
+    Total Documents: 3,959
+
+40. Current Climate Change Reports
+    ISSN: 21986061
+    Publisher: Springer International Publishing AG
+    Country: Switzerland
+    Impact Factor (2yr): 9.14
+    SJR Score: 4.363
+    h-index: 62
+    Total Documents: 5
+
+41. Environmental Chemistry Letters
+    ISSN: 16103653, 16103661
+    Publisher: Springer Nature
+    Country: Switzerland
+    Impact Factor (2yr): 23.46
+    SJR Score: 3.929
+    h-index: 144
+    Total Documents: 144
+
+42. Critical Reviews in Environmental Science and Technology
+    ISSN: 15476537, 10643389
+    Publisher: Taylor and Francis Ltd.
+    Country: United Kingdom
+    Impact Factor (2yr): 16.74
+    SJR Score: 3.788
+    h-index: 157
+    Total Documents: 92
+
+43. Global Environmental Change
+    ISSN: 09593780, 18729495
+    Publisher: Elsevier Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 10.68
+    SJR Score: 3.355
+    h-index: 242
+    Total Documents: 125
+
+44. Frontiers in Ecology and the Environment
+    ISSN: 15409295, 15409309
+    Publisher: Wiley-Blackwell
+    Country: United States
+    Impact Factor (2yr): 5.54
+    SJR Score: 3.513
+    h-index: 209
+    Total Documents: 94
+
+45. Applied Energy
+    ISSN: 18729118, 03062619
+    Publisher: Elsevier B.V.
+    Country: United Kingdom
+    Impact Factor (2yr): 12.81
+    SJR Score: 2.902
+    h-index: 323
+    Total Documents: 2,090
+
+46. Environment International
+    ISSN: 18736750, 01604120
+    Publisher: Elsevier Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 11.37
+    SJR Score: 3.145
+    h-index: 274
+    Total Documents: 819
+
+47. Business Strategy and the Environment
+    ISSN: 10990836, 09644733
+    Publisher: John Wiley and Sons Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 19.37
+    SJR Score: 3.609
+    h-index: 173
+    Total Documents: 474
+
+48. Wiley Interdisciplinary Reviews: Climate Change
+    ISSN: 17577799, 17577780
+    Publisher: John Wiley &amp; Sons Inc.
+    Country: United States
+    Impact Factor (2yr): 11.75
+    SJR Score: 3.803
+    h-index: 127
+    Total Documents: 57
+
+49. Chemical Engineering Journal
+    ISSN: 13858947
+    Publisher: Elsevier B.V.
+    Country: Netherlands
+    Impact Factor (2yr): 13.85
+    SJR Score: 2.696
+    h-index: 337
+    Total Documents: 10,624
+
+50. Environmental Science and Ecotechnology
+    ISSN: 26664984
+    Publisher: Elsevier B.V.
+    Country: China
+    Impact Factor (2yr): 18.87
+    SJR Score: 4.161
+    h-index: 44
+    Total Documents: 152
+
+51. The Lancet Regional Health - Europe
+    ISSN: 26667762
+    Publisher: Elsevier Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 7.31
+    SJR Score: 4.088
+    h-index: 55
+    Total Documents: 317
+
+52. Bioresource Technology
+    ISSN: 09608524, 18732976
+    Publisher: Elsevier Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 11.46
+    SJR Score: 2.395
+    h-index: 383
+    Total Documents: 1,507
+
+53. Environmental Health Perspectives
+    ISSN: 15529924, 00916765
+    Publisher: Public Health Services, US Dept of Health and Human Services
+    Country: United States
+    Impact Factor (2yr): 5.8
+    SJR Score: 2.572
+    h-index: 340
+    Total Documents: 248
+
+54. Energy Policy
+    ISSN: 03014215
+    Publisher: Elsevier B.V.
+    Country: United Kingdom
+    Impact Factor (2yr): 10.75
+    SJR Score: 2.692
+    h-index: 292
+    Total Documents: 451
+
+55. Science of the Total Environment
+    ISSN: 00489697, 18791026
+    Publisher: Elsevier B.V.
+    Country: Netherlands
+    Impact Factor (2yr): 9.75
+    SJR Score: 2.137
+    h-index: 399
+    Total Documents: 10,334
+
+56. Landscape and Urban Planning
+    ISSN: 01692046
+    Publisher: Elsevier B.V.
+    Country: Netherlands
+    Impact Factor (2yr): 10.48
+    SJR Score: 2.932
+    h-index: 229
+    Total Documents: 183
+
+57. Obesity Reviews
+    ISSN: 1467789X, 14677881
+    Publisher: Wiley-Blackwell Publishing Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 8.64
+    SJR Score: 3.005
+    h-index: 210
+    Total Documents: 188
+
+58. Journal of Materials Chemistry A
+    ISSN: 20507496, 20507488
+    Publisher: Royal Society of Chemistry
+    Country: United Kingdom
+    Impact Factor (2yr): 9.3
+    SJR Score: 2.462
+    h-index: 318
+    Total Documents: 2,780
+
+59. Energy Conversion and Management
+    ISSN: 01968904
+    Publisher: Elsevier Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 12.42
+    SJR Score: 2.659
+    h-index: 274
+    Total Documents: 1,212
+
+60. National Health Statistics Reports
+    ISSN: 23328363, 21648344
+    Publisher: U.S. National Center for Health Statistics
+    Country: United States
+    Impact Factor (2yr): 2.91
+    SJR Score: 3.555
+    h-index: 83
+    Total Documents: 21
+
+61. Journal of Environmental Economics and Management
+    ISSN: 10960449, 00950696
+    Publisher: Academic Press Inc.
+    Country: United States
+    Impact Factor (2yr): 6.12
+    SJR Score: 3.165
+    h-index: 160
+    Total Documents: 130
+
+62. Resources, Conservation and Recycling
+    ISSN: 18790658, 09213449
+    Publisher: Elsevier B.V.
+    Country: Netherlands
+    Impact Factor (2yr): 12.98
+    SJR Score: 2.872
+    h-index: 218
+    Total Documents: 505
+
+63. Chinese Journal of Catalysis
+    ISSN: 18722067
+    Publisher: Science Press
+    Country: China
+    Impact Factor (2yr): 16.97
+    SJR Score: 3.373
+    h-index: 117
+    Total Documents: 238
+
+64. Journal of Cleaner Production
+    ISSN: 09596526, 18791786
+    Publisher: Elsevier Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 11.55
+    SJR Score: 2.174
+    h-index: 354
+    Total Documents: 4,538
+
+65. Energy and Environmental Materials
+    ISSN: 25750348, 25750356
+    Publisher: John Wiley &amp; Sons Inc.
+    Country: United States
+    Impact Factor (2yr): 15.15
+    SJR Score: 3.615
+    h-index: 65
+    Total Documents: 249
+
+66. Chem Catalysis
+    ISSN: 26671093, 26671107
+    Publisher: Cell Press
+    Country: United States
+    Impact Factor (2yr): 6.71
+    SJR Score: 3.71
+    h-index: 45
+    Total Documents: 238
+
+67. Advances in Applied Energy
+    ISSN: 26667924
+    Publisher: Elsevier Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 15.97
+    SJR Score: 3.721
+    h-index: 42
+    Total Documents: 41
+
+68. Journal of Climate
+    ISSN: 15200442, 08948755
+    Publisher: American Meteorological Society
+    Country: United States
+    Impact Factor (2yr): 3.9
+    SJR Score: 2.169
+    h-index: 344
+    Total Documents: 237
+
+69. One Earth
+    ISSN: 25903330, 25903322
+    Publisher: Cell Press
+    Country: United States
+    Impact Factor (2yr): 8.52
+    SJR Score: 3.509
+    h-index: 73
+    Total Documents: 229
+
+70. Review of Environmental Economics and Policy
+    ISSN: 17506824, 17506816
+    Publisher: University of Chicago Press
+    Country: United States
+    Impact Factor (2yr): 6.23
+    SJR Score: 3.488
+    h-index: 75
+    Total Documents: 19
+
+71. Environmental Pollution
+    ISSN: 02697491, 18736424
+    Publisher: Elsevier Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 8.88
+    SJR Score: 2.205
+    h-index: 328
+    Total Documents: 2,274
+
+72. Methods in Ecology and Evolution
+    ISSN: 2041210X
+    Publisher: British Ecological Society
+    Country: United Kingdom
+    Impact Factor (2yr): 6.64
+    SJR Score: 2.945
+    h-index: 179
+    Total Documents: 196
+
+73. Trauma, Violence, and Abuse
+    ISSN: 15248380, 15528324
+    Publisher: SAGE Publications Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 10.02
+    SJR Score: 3.093
+    h-index: 121
+    Total Documents: 325
+
+74. Eco-Environment and Health
+    ISSN: 27729850
+    Publisher: Elsevier B.V.
+    Country: Netherlands
+    Impact Factor (2yr): 14.53
+    SJR Score: 3.58
+    h-index: 20
+    Total Documents: 56
+
+75. Journal of Power Sources
+    ISSN: 03787753
+    Publisher: Elsevier B.V.
+    Country: Netherlands
+    Impact Factor (2yr): 8.66
+    SJR Score: 1.784
+    h-index: 378
+    Total Documents: 1,599
+
+76. Sustainable Cities and Society
+    ISSN: 22106715, 22106707
+    Publisher: Elsevier B.V.
+    Country: Netherlands
+    Impact Factor (2yr): 13.82
+    SJR Score: 2.869
+    h-index: 156
+    Total Documents: 951
+
+77. Global Biogeochemical Cycles
+    ISSN: 08866236, 19449224
+    Publisher: Wiley-Blackwell
+    Country: United States
+    Impact Factor (2yr): 5.81
+    SJR Score: 2.509
+    h-index: 218
+    Total Documents: 90
+
+78. Journal of the Association of Environmental and Resource Economists
+    ISSN: 23335963, 23335955
+    Publisher: University of Chicago Press
+    Country: United States
+    Impact Factor (2yr): 3.05
+    SJR Score: 3.361
+    h-index: 45
+    Total Documents: 55
+
+79. Global Ecology and Biogeography
+    ISSN: 14668238, 1466822X
+    Publisher: Wiley-Blackwell Publishing Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 6.2
+    SJR Score: 2.603
+    h-index: 196
+    Total Documents: 143
+
+80. Energy
+    ISSN: 18736785, 03605442
+    Publisher: Elsevier Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 10.95
+    SJR Score: 2.211
+    h-index: 274
+    Total Documents: 4,536
+
+81. Energy Material Advances
+    ISSN: 26927640
+    Publisher: American Association for the Advancement of Science
+    Country: United States
+    Impact Factor (2yr): 13.76
+    SJR Score: 3.415
+    h-index: 29
+    Total Documents: 46
+
+82. Chemosphere
+    ISSN: 00456535, 18791298
+    Publisher: Elsevier Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 9.76
+    SJR Score: 1.896
+    h-index: 329
+    Total Documents: 3,318
+
+83. American Journal of Public Health
+    ISSN: 00900036, 15410048
+    Publisher: American Public Health Association Inc.
+    Country: United States
+    Impact Factor (2yr): 3.02
+    SJR Score: 1.93
+    h-index: 321
+    Total Documents: 380
+
+84. Journal of Ecology
+    ISSN: 00220477, 13652745
+    Publisher: Wiley-Blackwell Publishing Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 5.89
+    SJR Score: 2.422
+    h-index: 219
+    Total Documents: 209
+
+85. Conservation Biology
+    ISSN: 15231739, 08888892
+    Publisher: Wiley-Blackwell Publishing Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 5.57
+    SJR Score: 2.222
+    h-index: 257
+    Total Documents: 219
+
+86. Energy Reviews
+    ISSN: 27729702
+    Publisher: Elsevier B.V.
+    Country: Netherlands
+    Impact Factor (2yr): 19.65
+    SJR Score: 3.411
+    h-index: 18
+    Total Documents: 30
+
+87. Journal of Sustainable Tourism
+    ISSN: 09669582, 17477646
+    Publisher: Taylor and Francis Ltd.
+    Country: United Kingdom
+    Impact Factor (2yr): 13.09
+    SJR Score: 2.733
+    h-index: 150
+    Total Documents: 207
+
+88. Annual Review of Chemical and Biomolecular Engineering
+    ISSN: 19475438, 19475446
+    Publisher: Annual Reviews Inc.
+    Country: United States
+    Impact Factor (2yr): 12.74
+    SJR Score: 3.037
+    h-index: 85
+    Total Documents: 18
+
+89. Renewable Energy
+    ISSN: 09601481, 18790682
+    Publisher: Elsevier Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 10.72
+    SJR Score: 2.08
+    h-index: 270
+    Total Documents: 2,119
+
+90. Ecological Economics
+    ISSN: 09218009
+    Publisher: Elsevier B.V.
+    Country: Netherlands
+    Impact Factor (2yr): 6.75
+    SJR Score: 2.088
+    h-index: 262
+    Total Documents: 264
+
+91. Small Structures
+    ISSN: 26884062
+    Publisher: Wiley-VCH Verlag
+    Country: United States
+    Impact Factor (2yr): 12.22
+    SJR Score: 3.09
+    h-index: 59
+    Total Documents: 286
+
+92. American Journal of Preventive Medicine
+    ISSN: 07493797, 18732607
+    Publisher: Elsevier Inc.
+    Country: United States
+    Impact Factor (2yr): 4.14
+    SJR Score: 2.078
+    h-index: 260
+    Total Documents: 259
+
+93. Green Chemistry
+    ISSN: 14639262, 14639270
+    Publisher: Royal Society of Chemistry
+    Country: United Kingdom
+    Impact Factor (2yr): 9.15
+    SJR Score: 1.928
+    h-index: 288
+    Total Documents: 875
+
+94. Journal of Hydrology
+    ISSN: 00221694
+    Publisher: Elsevier B.V.
+    Country: Netherlands
+    Impact Factor (2yr): 6.93
+    SJR Score: 1.911
+    h-index: 290
+    Total Documents: 1,636
+
+95. Milbank Quarterly
+    ISSN: 0887378X, 14680009
+    Publisher: Wiley-Blackwell Publishing Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 3.97
+    SJR Score: 2.745
+    h-index: 119
+    Total Documents: 47
+
+96. Journal of Environmental Management
+    ISSN: 10958630, 03014797
+    Publisher: Academic Press
+    Country: United States
+    Impact Factor (2yr): 9.84
+    SJR Score: 1.994
+    h-index: 268
+    Total Documents: 3,829
+
+97. Environmental Science and Technology Letters
+    ISSN: 23288930
+    Publisher: American Chemical Society
+    Country: United States
+    Impact Factor (2yr): 8.99
+    SJR Score: 2.768
+    h-index: 111
+    Total Documents: 215
+
+98. npj Urban Sustainability
+    ISSN: 26618001
+    Publisher: Springer Nature
+    Country: United Kingdom
+    Impact Factor (2yr): 8.97
+    SJR Score: 3.185
+    h-index: 25
+    Total Documents: 49
+
+99. Environmental Impact Assessment Review
+    ISSN: 01959255
+    Publisher: Elsevier Inc.
+    Country: United States
+    Impact Factor (2yr): 12.55
+    SJR Score: 2.681
+    h-index: 122
+    Total Documents: 306
+
+100. Journal of Health and Social Behavior
+    ISSN: 00221465, 21506000
+    Publisher: American Sociological Association
+    Country: United States
+    Impact Factor (2yr): 4.23
+    SJR Score: 2.519
+    h-index: 151
+    Total Documents: 65
+
+
+
+MULTIDISCIPLINARY & CORE ENGINEERING
+--------------------------------------------------------------------------------
+
+ 1. Quarterly Journal of Economics
+    ISSN: 00335533, 15314650
+    Publisher: Oxford University Press
+    Country: United Kingdom
+    Impact Factor (2yr): 14.37
+    SJR Score: 35.995
+    h-index: 322
+    Total Documents: 48
+
+ 2. American Economic Review
+    ISSN: 19447981, 00028282
+    Publisher: American Economic Association
+    Country: United States
+    Impact Factor (2yr): 12.41
+    SJR Score: 25.102
+    h-index: 380
+    Total Documents: 61
+
+ 3. Nature
+    ISSN: 14764687, 00280836
+    Publisher: Nature Research
+    Country: United Kingdom
+    Impact Factor (2yr): 18.47
+    SJR Score: 18.288
+    h-index: 1442
+    Total Documents: 3,763
+
+ 4. Journal of Finance
+    ISSN: 00221082, 15406261
+    Publisher: Wiley-Blackwell Publishing Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 10.87
+    SJR Score: 22.836
+    h-index: 370
+    Total Documents: 97
+
+ 5. Foundations and Trends in Machine Learning
+    ISSN: 19358245, 19358237
+    Publisher: Now Publishers Inc
+    Country: United States
+    Impact Factor (2yr): 48.33
+    SJR Score: 22.797
+    h-index: 42
+    Total Documents: 5
+
+ 6. Econometrica
+    ISSN: 00129682, 14680262
+    Publisher: Wiley-Blackwell Publishing Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 6.73
+    SJR Score: 21.091
+    h-index: 231
+    Total Documents: 66
+
+ 7. Review of Economic Studies
+    ISSN: 00346527, 1467937X
+    Publisher: Oxford University Press
+    Country: United Kingdom
+    Impact Factor (2yr): 8.74
+    SJR Score: 19.166
+    h-index: 177
+    Total Documents: 87
+
+ 8. Journal of Financial Economics
+    ISSN: 0304405X
+    Publisher: Elsevier B.V.
+    Country: Netherlands
+    Impact Factor (2yr): 12.47
+    SJR Score: 17.669
+    h-index: 331
+    Total Documents: 111
+
+ 9. Journal of Political Economy
+    ISSN: 00223808, 1537534X
+    Publisher: University of Chicago Press
+    Country: United States
+    Impact Factor (2yr): 6.48
+    SJR Score: 17.087
+    h-index: 225
+    Total Documents: 85
+
+10. Review of Financial Studies
+    ISSN: 14657368, 08939454
+    Publisher: Oxford University Press
+    Country: United Kingdom
+    Impact Factor (2yr): 7.09
+    SJR Score: 16.546
+    h-index: 250
+    Total Documents: 88
+
+11. Science
+    ISSN: 10959203, 00368075
+    Publisher: American Association for the Advancement of Science
+    Country: United States
+    Impact Factor (2yr): 15.26
+    SJR Score: 10.416
+    h-index: 1382
+    Total Documents: 1,758
+
+12. National Vital Statistics Reports
+    ISSN: 15518922, 15518930
+    Publisher: Public Health Services, US Dept of Health and Human Services
+    Country: United States
+    Impact Factor (2yr): 21.54
+    SJR Score: 15.519
+    h-index: 120
+    Total Documents: 10
+
+13. IEEE Communications Surveys and Tutorials
+    ISSN: 1553877X
+    Publisher: Institute of Electrical and Electronics Engineers Inc.
+    Country: United States
+    Impact Factor (2yr): 54.52
+    SJR Score: 14.184
+    h-index: 287
+    Total Documents: 145
+
+14. Journal of Marketing
+    ISSN: 15477185, 00222429
+    Publisher: American Marketing Association
+    Country: United States
+    Impact Factor (2yr): 17.29
+    SJR Score: 13.394
+    h-index: 296
+    Total Documents: 63
+
+15. Academy of Management Annals
+    ISSN: 19416520, 19416067
+    Publisher: Academy of Management
+    Country: United States
+    Impact Factor (2yr): 19.2
+    SJR Score: 13.877
+    h-index: 119
+    Total Documents: 23
+
+16. Annual Review of Astronomy and Astrophysics
+    ISSN: 15454282, 00664146
+    Publisher: Annual Reviews Inc.
+    Country: United States
+    Impact Factor (2yr): 29.63
+    SJR Score: 12.736
+    h-index: 220
+    Total Documents: 15
+
+17. Journal of Economic Literature
+    ISSN: 00220515
+    Publisher: American Economic Association
+    Country: United States
+    Impact Factor (2yr): 11.09
+    SJR Score: 12.749
+    h-index: 189
+    Total Documents: 16
+
+18. Journal of Econometrics
+    ISSN: 03044076, 18726895
+    Publisher: Elsevier B.V.
+    Country: Netherlands
+    Impact Factor (2yr): 4.39
+    SJR Score: 12.168
+    h-index: 198
+    Total Documents: 265
+
+19. Annual Review of Organizational Psychology and Organizational Behavior
+    ISSN: 23270608
+    Publisher: Annual Reviews Inc.
+    Country: United States
+    Impact Factor (2yr): 33.44
+    SJR Score: 12.191
+    h-index: 86
+    Total Documents: 21
+
+20. Strategic Management Journal
+    ISSN: 10970266, 01432095
+    Publisher: John Wiley and Sons Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 10.83
+    SJR Score: 10.176
+    h-index: 351
+    Total Documents: 102
+
+21. Reviews of Geophysics
+    ISSN: 19449208, 87551209
+    Publisher: John Wiley and Sons Inc
+    Country: United States
+    Impact Factor (2yr): 38.38
+    SJR Score: 10.546
+    h-index: 207
+    Total Documents: 16
+
+22. Journal of Management
+    ISSN: 01492063, 15571211
+    Publisher: SAGE Publications Inc.
+    Country: United States
+    Impact Factor (2yr): 13.08
+    SJR Score: 8.636
+    h-index: 296
+    Total Documents: 177
+
+23. NBER Macroeconomics Annual
+    ISSN: 15372642, 08893365
+    Publisher: University of Chicago Press
+    Country: United States
+    Impact Factor (2yr): 2.95
+    SJR Score: 9.76
+    h-index: 71
+    Total Documents: 16
+
+24. Astronomy and Astrophysics Review
+    ISSN: 09354956, 14320754
+    Publisher: Springer Verlag
+    Country: Germany
+    Impact Factor (2yr): 28.38
+    SJR Score: 9.465
+    h-index: 84
+    Total Documents: 7
+
+25. Organization Science
+    ISSN: 15265455, 10477039
+    Publisher: INFORMS Institute for Operations Research and the Management Sciences
+    Country: United States
+    Impact Factor (2yr): 7.67
+    SJR Score: 8.026
+    h-index: 294
+    Total Documents: 103
+
+26. Journal of Economic Perspectives
+    ISSN: 08953309
+    Publisher: American Economic Association
+    Country: United States
+    Impact Factor (2yr): 9.42
+    SJR Score: 8.262
+    h-index: 239
+    Total Documents: 42
+
+27. Annual Review of Fluid Mechanics
+    ISSN: 15454479, 00664189
+    Publisher: Annual Reviews Inc.
+    Country: United States
+    Impact Factor (2yr): 24.57
+    SJR Score: 8.258
+    h-index: 231
+    Total Documents: 24
+
+28. Journal of Accounting Research
+    ISSN: 1475679X, 00218456
+    Publisher: Wiley-Blackwell Publishing Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 7.67
+    SJR Score: 8.396
+    h-index: 179
+    Total Documents: 52
+
+29. Journal of Monetary Economics
+    ISSN: 03043932
+    Publisher: Elsevier B.V.
+    Country: Netherlands
+    Impact Factor (2yr): 3.8
+    SJR Score: 7.872
+    h-index: 158
+    Total Documents: 113
+
+30. Review of Finance
+    ISSN: 1573692X, 15723097
+    Publisher: Oxford University Press
+    Country: United Kingdom
+    Impact Factor (2yr): 9.73
+    SJR Score: 8.22
+    h-index: 83
+    Total Documents: 61
+
+31. Journal of Applied Psychology
+    ISSN: 19391854, 00219010
+    Publisher: American Psychological Association
+    Country: United States
+    Impact Factor (2yr): 7.65
+    SJR Score: 6.803
+    h-index: 353
+    Total Documents: 96
+
+32. Annual Review of Economics
+    ISSN: 19411383, 19411391
+    Publisher: Annual Reviews Inc.
+    Country: United States
+    Impact Factor (2yr): 11.82
+    SJR Score: 8.094
+    h-index: 84
+    Total Documents: 23
+
+33. Innovation
+    ISSN: 26666758
+    Publisher: Cell Press
+    Country: United States
+    Impact Factor (2yr): 11.01
+    SJR Score: 8.218
+    h-index: 55
+    Total Documents: 151
+
+34. Journal of Accounting and Economics
+    ISSN: 01654101
+    Publisher: Elsevier B.V.
+    Country: Netherlands
+    Impact Factor (2yr): 7.46
+    SJR Score: 7.505
+    h-index: 197
+    Total Documents: 67
+
+35. IEEE Journal on Selected Areas in Communications
+    ISSN: 07338716
+    Publisher: Institute of Electrical and Electronics Engineers Inc.
+    Country: United States
+    Impact Factor (2yr): 19.92
+    SJR Score: 7.023
+    h-index: 274
+    Total Documents: 271
+
+36. Marketing Science
+    ISSN: 07322399, 1526548X
+    Publisher: INFORMS Institute for Operations Research and the Management Sciences
+    Country: United States
+    Impact Factor (2yr): 5.94
+    SJR Score: 7.543
+    h-index: 159
+    Total Documents: 72
+
+37. Journal of Marketing Research
+    ISSN: 00222437, 15477193
+    Publisher: American Marketing Association
+    Country: United States
+    Impact Factor (2yr): 6.43
+    SJR Score: 6.961
+    h-index: 212
+    Total Documents: 68
+
+38. Journal of the Academy of Marketing Science
+    ISSN: 00920703, 15527824
+    Publisher: Springer New York
+    Country: United States
+    Impact Factor (2yr): 14.89
+    SJR Score: 6.896
+    h-index: 221
+    Total Documents: 126
+
+39. Entrepreneurship Theory and Practice
+    ISSN: 10422587, 15406520
+    Publisher: SAGE Publications Ltd
+    Country: United States
+    Impact Factor (2yr): 13.35
+    SJR Score: 6.876
+    h-index: 212
+    Total Documents: 66
+
+40. Proceedings of the National Academy of Sciences of the United States of America
+    ISSN: 10916490, 00278424
+    Publisher: National Academy of Sciences
+    Country: United States
+    Impact Factor (2yr): 7.85
+    SJR Score: 3.414
+    h-index: 896
+    Total Documents: 3,766
+
+41. Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition
+    ISSN: 10636919
+    Publisher: IEEE Computer Society
+    Country: United States
+    Impact Factor (2yr): 25.27
+    SJR Score: 4.718
+    h-index: 601
+    Total Documents: 2,716
+
+42. Annual Review of Political Science
+    ISSN: 10942939, 15451577
+    Publisher: Annual Reviews Inc.
+    Country: United States
+    Impact Factor (2yr): 10.49
+    SJR Score: 6.903
+    h-index: 138
+    Total Documents: 24
+
+43. Foundations and Trends in Signal Processing
+    ISSN: 19328346, 19328354
+    Publisher: Now Publishers Inc
+    Country: United States
+    Impact Factor (2yr): 9.0
+    SJR Score: 7.305
+    h-index: 22
+    Total Documents: 3
+
+44. Journal of Business Venturing
+    ISSN: 08839026
+    Publisher: Elsevier Inc.
+    Country: United States
+    Impact Factor (2yr): 10.59
+    SJR Score: 6.234
+    h-index: 235
+    Total Documents: 52
+
+45. American Journal of Political Science
+    ISSN: 00925853, 15405907
+    Publisher: Wiley-Blackwell Publishing Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 8.73
+    SJR Score: 6.28
+    h-index: 215
+    Total Documents: 178
+
+46. International Journal of Information Management
+    ISSN: 02684012
+    Publisher: Elsevier Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 33.3
+    SJR Score: 6.26
+    h-index: 196
+    Total Documents: 85
+
+47. Annual Review of Marine Science
+    ISSN: 19410611, 19411405
+    Publisher: Annual Reviews Inc.
+    Country: United States
+    Impact Factor (2yr): 18.05
+    SJR Score: 6.571
+    h-index: 133
+    Total Documents: 25
+
+48. Journal of Human Resources
+    ISSN: 15488004, 0022166X
+    Publisher: University of Wisconsin Press
+    Country: United States
+    Impact Factor (2yr): 5.8
+    SJR Score: 6.588
+    h-index: 129
+    Total Documents: 71
+
+49. Organization Theory
+    ISSN: 26317877
+    Publisher: SAGE Publications Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 8.0
+    SJR Score: 6.872
+    h-index: 33
+    Total Documents: 16
+
+50. Trends in Ecology and Evolution
+    ISSN: 01695347, 18728383
+    Publisher: Elsevier Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 10.43
+    SJR Score: 4.876
+    h-index: 396
+    Total Documents: 145
+
+51. Journal of Service Research
+    ISSN: 10946705, 15527379
+    Publisher: SAGE Publications Inc.
+    Country: United States
+    Impact Factor (2yr): 11.35
+    SJR Score: 6.011
+    h-index: 156
+    Total Documents: 71
+
+52. Journal of Management Studies
+    ISSN: 00222380, 14676486
+    Publisher: Wiley-Blackwell Publishing Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 10.13
+    SJR Score: 5.465
+    h-index: 233
+    Total Documents: 201
+
+53. Educational Psychologist
+    ISSN: 15326985, 00461520
+    Publisher: Routledge
+    Country: United States
+    Impact Factor (2yr): 14.83
+    SJR Score: 5.794
+    h-index: 163
+    Total Documents: 18
+
+54. American Political Science Review
+    ISSN: 15375943, 00030554
+    Publisher: Cambridge University Press
+    Country: United Kingdom
+    Impact Factor (2yr): 7.18
+    SJR Score: 5.532
+    h-index: 215
+    Total Documents: 203
+
+55. Biological Psychiatry
+    ISSN: 00063223, 18732402
+    Publisher: Elsevier Inc.
+    Country: United States
+    Impact Factor (2yr): 5.68
+    SJR Score: 4.684
+    h-index: 367
+    Total Documents: 306
+
+56. Nature Food
+    ISSN: 26621355
+    Publisher: Springer Nature
+    Country: United Kingdom
+    Impact Factor (2yr): 9.05
+    SJR Score: 6.088
+    h-index: 76
+    Total Documents: 177
+
+57. Personality and Social Psychology Review
+    ISSN: 10888683, 15327957
+    Publisher: SAGE Publications Inc.
+    Country: United States
+    Impact Factor (2yr): 12.89
+    SJR Score: 5.493
+    h-index: 194
+    Total Documents: 25
+
+58. Leadership Quarterly
+    ISSN: 10489843
+    Publisher: Elsevier Inc.
+    Country: United States
+    Impact Factor (2yr): 10.97
+    SJR Score: 5.393
+    h-index: 202
+    Total Documents: 45
+
+59. Analytic Methods in Accident Research
+    ISSN: 22136657
+    Publisher: Elsevier B.V.
+    Country: United Kingdom
+    Impact Factor (2yr): 13.6
+    SJR Score: 6.076
+    h-index: 63
+    Total Documents: 28
+
+60. Trends in Cognitive Sciences
+    ISSN: 1879307X, 13646613
+    Publisher: Elsevier Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 9.96
+    SJR Score: 4.506
+    h-index: 375
+    Total Documents: 134
+
+61. Nature Machine Intelligence
+    ISSN: 25225839
+    Publisher: Springer International Publishing
+    Country: Switzerland
+    Impact Factor (2yr): 18.44
+    SJR Score: 5.876
+    h-index: 94
+    Total Documents: 177
+
+62. Annual Review of Sociology
+    ISSN: 03600572, 15452115
+    Publisher: Annual Reviews Inc.
+    Country: United States
+    Impact Factor (2yr): 9.74
+    SJR Score: 5.262
+    h-index: 216
+    Total Documents: 36
+
+63. Economic Journal
+    ISSN: 14680297, 00130133
+    Publisher: Wiley-Blackwell
+    Country: United States
+    Impact Factor (2yr): 3.85
+    SJR Score: 5.371
+    h-index: 194
+    Total Documents: 112
+
+64. Annual Review of Financial Economics
+    ISSN: 19411367, 19411375
+    Publisher: Annual Reviews Inc.
+    Country: United States
+    Impact Factor (2yr): 5.21
+    SJR Score: 6.062
+    h-index: 49
+    Total Documents: 19
+
+65. Personnel Psychology
+    ISSN: 00315826, 17446570
+    Publisher: Wiley-Blackwell
+    Country: United States
+    Impact Factor (2yr): 9.85
+    SJR Score: 5.414
+    h-index: 175
+    Total Documents: 49
+
+66. Nature Human Behaviour
+    ISSN: 23973374
+    Publisher: Nature Publishing Group
+    Country: United Kingdom
+    Impact Factor (2yr): 10.1
+    SJR Score: 5.537
+    h-index: 113
+    Total Documents: 279
+
+67. Journal of Personality and Social Psychology
+    ISSN: 00223514
+    Publisher: American Psychological Association
+    Country: United States
+    Impact Factor (2yr): 7.46
+    SJR Score: 3.865
+    h-index: 447
+    Total Documents: 137
+
+68. IEEE Transactions on Pattern Analysis and Machine Intelligence
+    ISSN: 01628828
+    Publisher: IEEE Computer Society
+    Country: United States
+    Impact Factor (2yr): 21.19
+    SJR Score: 3.91
+    h-index: 435
+    Total Documents: 812
+
+69. Organization Studies
+    ISSN: 17413044, 01708406
+    Publisher: SAGE Publications Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 6.03
+    SJR Score: 5.032
+    h-index: 187
+    Total Documents: 77
+
+70. MIS Quarterly: Management Information Systems
+    ISSN: 02767783, 21629730
+    Publisher: Management Information Systems Research Center
+    Country: United States
+    Impact Factor (2yr): 5.8
+    SJR Score: 4.486
+    h-index: 283
+    Total Documents: 64
+
+71. Academy of Management Perspectives
+    ISSN: 15589080
+    Publisher: Academy of Management
+    Country: United States
+    Impact Factor (2yr): 6.06
+    SJR Score: 5.063
+    h-index: 165
+    Total Documents: 18
+
+72. Annual Review of Entomology
+    ISSN: 00664170, 15454487
+    Publisher: Annual Reviews Inc.
+    Country: United States
+    Impact Factor (2yr): 16.98
+    SJR Score: 4.655
+    h-index: 239
+    Total Documents: 28
+
+73. Remote Sensing of Environment
+    ISSN: 00344257
+    Publisher: Elsevier Inc.
+    Country: United States
+    Impact Factor (2yr): 12.66
+    SJR Score: 3.972
+    h-index: 371
+    Total Documents: 474
+
+74. International Organization
+    ISSN: 15315088, 00208183
+    Publisher: Cambridge University Press
+    Country: United Kingdom
+    Impact Factor (2yr): 5.05
+    SJR Score: 4.977
+    h-index: 168
+    Total Documents: 28
+
+75. Information Systems Research
+    ISSN: 15265536, 10477047
+    Publisher: INFORMS Institute for Operations Research and the Management Sciences
+    Country: United States
+    Impact Factor (2yr): 7.95
+    SJR Score: 4.85
+    h-index: 192
+    Total Documents: 102
+
+76. Annals of Statistics
+    ISSN: 00905364
+    Publisher: Institute of Mathematical Statistics
+    Country: United States
+    Impact Factor (2yr): 3.87
+    SJR Score: 4.769
+    h-index: 202
+    Total Documents: 123
+
+77. IEEE Transactions on Wireless Communications
+    ISSN: 15361276, 15582248
+    Publisher: Institute of Electrical and Electronics Engineers Inc.
+    Country: United States
+    Impact Factor (2yr): 12.26
+    SJR Score: 4.454
+    h-index: 264
+    Total Documents: 1,392
+
+78. Science Advances
+    ISSN: 23752548
+    Publisher: American Association for the Advancement of Science
+    Country: United States
+    Impact Factor (2yr): 12.06
+    SJR Score: 4.324
+    h-index: 288
+    Total Documents: 2,293
+
+79. Review of Educational Research
+    ISSN: 00346543, 19351046
+    Publisher: SAGE Publications Inc.
+    Country: United States
+    Impact Factor (2yr): 13.17
+    SJR Score: 4.7
+    h-index: 198
+    Total Documents: 63
+
+80. Nature Plants
+    ISSN: 2055026X, 20550278
+    Publisher: Nature Research
+    Country: United Kingdom
+    Impact Factor (2yr): 6.52
+    SJR Score: 4.815
+    h-index: 148
+    Total Documents: 271
+
+81. Ecology Letters
+    ISSN: 1461023X, 14610248
+    Publisher: Wiley-Blackwell Publishing Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 8.4
+    SJR Score: 3.905
+    h-index: 330
+    Total Documents: 228
+
+82. Tourism Management
+    ISSN: 02615177, 18793193
+    Publisher: Elsevier Ltd
+    Country: United Kingdom
+    Impact Factor (2yr): 16.88
+    SJR Score: 4.146
+    h-index: 278
+    Total Documents: 120
+
+83. Proceedings of the IEEE International Conference on Computer Vision
+    ISSN: 15505499
+    Publisher: Institute of Electrical and Electronics Engineers Inc.
+    Country: United States
+    Impact Factor (2yr): 8.61
+    SJR Score: 3.544
+    h-index: 397
+    Total Documents: 0
+
+84. Computers and Education: Artificial Intelligence
+    ISSN: 2666920X
+    Publisher: Elsevier B.V.
+    Country: Netherlands
+    Impact Factor (2yr): 30.12
+    SJR Score: 5.217
+    h-index: 51
+    Total Documents: 140
+
+85. American Sociological Review
+    ISSN: 00031224, 19398271
+    Publisher: American Sociological Association
+    Country: United States
+    Impact Factor (2yr): 6.25
+    SJR Score: 4.203
+    h-index: 240
+    Total Documents: 39
+
+86. IEEE Wireless Communications
+    ISSN: 15361284
+    Publisher: Institute of Electrical and Electronics Engineers Inc.
+    Country: United States
+    Impact Factor (2yr): 11.42
+    SJR Score: 4.406
+    h-index: 198
+    Total Documents: 214
+
+87. Journal of Consumer Psychology
+    ISSN: 15327663, 10577408
+    Publisher: John Wiley &amp; Sons Inc.
+    Country: United States
+    Impact Factor (2yr): 5.84
+    SJR Score: 4.547
+    h-index: 147
+    Total Documents: 73
+
+88. Journal of Financial and Quantitative Analysis
+    ISSN: 00221090, 17566916
+    Publisher: Cambridge University Press
+    Country: United Kingdom
+    Impact Factor (2yr): 3.5
+    SJR Score: 4.465
+    h-index: 156
+    Total Documents: 151
+
+89. Journal of the American Statistical Association
+    ISSN: 01621459, 1537274X
+    Publisher: Taylor and Francis Ltd.
+    Country: United Kingdom
+    Impact Factor (2yr): 4.01
+    SJR Score: 4.103
+    h-index: 227
+    Total Documents: 344
+
+90. Journal of International Economics
+    ISSN: 18730353, 00221996
+    Publisher: Elsevier B.V.
+    Country: Netherlands
+    Impact Factor (2yr): 4.15
+    SJR Score: 4.321
+    h-index: 171
+    Total Documents: 120
+
+91. Educational Psychology Review
+    ISSN: 1040726X, 1573336X
+    Publisher: Springer New York
+    Country: United States
+    Impact Factor (2yr): 11.63
+    SJR Score: 4.384
+    h-index: 156
+    Total Documents: 133
+
+92. Journal of Advertising
+    ISSN: 15577805, 00913367
+    Publisher: M.E. Sharpe Inc.
+    Country: United States
+    Impact Factor (2yr): 9.86
+    SJR Score: 4.455
+    h-index: 140
+    Total Documents: 62
+
+93. Progress in Particle and Nuclear Physics
+    ISSN: 01466410
+    Publisher: Elsevier B.V.
+    Country: Netherlands
+    Impact Factor (2yr): 16.0
+    SJR Score: 4.428
+    h-index: 139
+    Total Documents: 22
+
+94. Periodontology 2000
+    ISSN: 09066713, 16000757
+    Publisher: Blackwell Munksgaard
+    Country: Denmark
+    Impact Factor (2yr): 17.02
+    SJR Score: 4.316
+    h-index: 161
+    Total Documents: 72
+
+95. Advances in Physics
+    ISSN: 14606976, 00018732
+    Publisher: Taylor and Francis Ltd.
+    Country: United Kingdom
+    Impact Factor (2yr): 3.4
+    SJR Score: 4.468
+    h-index: 127
+    Total Documents: 0
+
+96. Accounting Review
+    ISSN: 00014826, 15587967
+    Publisher: American Accounting Association
+    Country: United States
+    Impact Factor (2yr): 4.35
+    SJR Score: 4.045
+    h-index: 206
+    Total Documents: 109
+
+97. Journal of Retailing
+    ISSN: 00224359
+    Publisher: Elsevier B.V.
+    Country: United Kingdom
+    Impact Factor (2yr): 11.3
+    SJR Score: 4.204
+    h-index: 168
+    Total Documents: 45
+
+98. Journal of World Business
+    ISSN: 10909516
+    Publisher: Elsevier Inc.
+    Country: United States
+    Impact Factor (2yr): 10.36
+    SJR Score: 4.297
+    h-index: 149
+    Total Documents: 39
+
+99. IEEE Transactions on Neural Networks and Learning Systems
+    ISSN: 2162237X, 21622388
+    Publisher: IEEE Computational Intelligence Society
+    Country: United States
+    Impact Factor (2yr): 13.72
+    SJR Score: 3.686
+    h-index: 269
+    Total Documents: 1,991
+
+100. Information Fusion
+    ISSN: 18726305, 15662535
+    Publisher: Elsevier B.V.
+    Country: Netherlands
+    Impact Factor (2yr): 22.65
+    SJR Score: 4.128
+    h-index: 179
+    Total Documents: 510
+
+

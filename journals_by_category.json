@@ -1,0 +1,1864 @@
+{
+  "Biotechnology and Biomedical Engineering": [
+    {
+      "name": "Nature Biotechnology",
+      "issn": "1087-0156",
+      "h_index": 624,
+      "impact_factor": 23.56,
+      "publisher": "Springer Nature",
+      "works_count": 19149,
+      "cited_by_count": 1809501,
+      "openalex_id": "https://openalex.org/S106963461"
+    },
+    {
+      "name": "Biotechnology Advances",
+      "issn": "0734-9750",
+      "h_index": 292,
+      "impact_factor": 14.66,
+      "publisher": "Elsevier",
+      "works_count": 17255,
+      "cited_by_count": 385860,
+      "openalex_id": "https://openalex.org/S160877137"
+    },
+    {
+      "name": "Journal of Animal Science and Biotechnology/Journal of animal science and biotechnology",
+      "issn": "1674-9782",
+      "h_index": 102,
+      "impact_factor": 9.0,
+      "publisher": "Springer Nature",
+      "works_count": 1452,
+      "cited_by_count": 51783,
+      "openalex_id": "https://openalex.org/S2764950793"
+    },
+    {
+      "name": "Plant Biotechnology Journal",
+      "issn": "1467-7644",
+      "h_index": 196,
+      "impact_factor": 7.78,
+      "publisher": "Wiley",
+      "works_count": 4027,
+      "cited_by_count": 228218,
+      "openalex_id": "https://openalex.org/S36510773"
+    },
+    {
+      "name": "Biotechnology Reports",
+      "issn": "2215-017X",
+      "h_index": 88,
+      "impact_factor": 7.28,
+      "publisher": "Elsevier",
+      "works_count": 921,
+      "cited_by_count": 38767,
+      "openalex_id": "https://openalex.org/S2764596916"
+    },
+    {
+      "name": "Applied Microbiology and Biotechnology",
+      "issn": "0175-7598",
+      "h_index": 324,
+      "impact_factor": 6.65,
+      "publisher": "Springer Nature",
+      "works_count": 21571,
+      "cited_by_count": 1053940,
+      "openalex_id": "https://openalex.org/S70979998"
+    },
+    {
+      "name": "Frontiers in Bioengineering and Biotechnology",
+      "issn": "2296-4185",
+      "h_index": 156,
+      "impact_factor": 6.64,
+      "publisher": "Frontiers Media SA",
+      "works_count": 13776,
+      "cited_by_count": 231843,
+      "openalex_id": "https://openalex.org/S2595131146"
+    },
+    {
+      "name": "Microbial Biotechnology",
+      "issn": "1751-7907",
+      "h_index": 130,
+      "impact_factor": 6.27,
+      "publisher": "Wiley",
+      "works_count": 2692,
+      "cited_by_count": 87858,
+      "openalex_id": "https://openalex.org/S4210238104"
+    },
+    {
+      "name": "Artificial Cells Nanomedicine and Biotechnology",
+      "issn": "2169-1401",
+      "h_index": 107,
+      "impact_factor": 6.26,
+      "publisher": "Informa",
+      "works_count": 2268,
+      "cited_by_count": 74412,
+      "openalex_id": "https://openalex.org/S2489428960"
+    },
+    {
+      "name": "Biocatalysis and Agricultural Biotechnology",
+      "issn": "1878-8181",
+      "h_index": 98,
+      "impact_factor": 5.79,
+      "publisher": "Elsevier",
+      "works_count": 3919,
+      "cited_by_count": 77535,
+      "openalex_id": "https://openalex.org/S2764378920"
+    },
+    {
+      "name": "Computational and Structural Biotechnology Journal",
+      "issn": "2001-0370",
+      "h_index": 119,
+      "impact_factor": 5.59,
+      "publisher": "Elsevier",
+      "works_count": 3563,
+      "cited_by_count": 91748,
+      "openalex_id": "https://openalex.org/S2764539591"
+    },
+    {
+      "name": "Applied Biochemistry and Biotechnology",
+      "issn": "0273-2289",
+      "h_index": 166,
+      "impact_factor": 4.76,
+      "publisher": "Springer Nature",
+      "works_count": 11119,
+      "cited_by_count": 283429,
+      "openalex_id": "https://openalex.org/S153285774"
+    },
+    {
+      "name": "Journal of Industrial Microbiology & Biotechnology",
+      "issn": "1367-5435",
+      "h_index": 161,
+      "impact_factor": 4.6,
+      "publisher": "Oxford University Press",
+      "works_count": 4741,
+      "cited_by_count": 190186,
+      "openalex_id": "https://openalex.org/S107262989"
+    },
+    {
+      "name": "Biotechnology and Genetic Engineering Reviews",
+      "issn": "0264-8725",
+      "h_index": 63,
+      "impact_factor": 4.39,
+      "publisher": "Informa",
+      "works_count": 814,
+      "cited_by_count": 19513,
+      "openalex_id": "https://openalex.org/S59925033"
+    },
+    {
+      "name": "BMC Biotechnology",
+      "issn": "1472-6750",
+      "h_index": 115,
+      "impact_factor": 4.37,
+      "publisher": "Springer Nature",
+      "works_count": 1964,
+      "cited_by_count": 74123,
+      "openalex_id": "https://openalex.org/S53489610"
+    },
+    {
+      "name": "Molecular Biotechnology",
+      "issn": "1073-6085",
+      "h_index": 110,
+      "impact_factor": 4.36,
+      "publisher": "Springer Nature",
+      "works_count": 3847,
+      "cited_by_count": 80360,
+      "openalex_id": "https://openalex.org/S31191957"
+    },
+    {
+      "name": "Biotechnology and Bioengineering",
+      "issn": "0006-3592",
+      "h_index": 267,
+      "impact_factor": 4.28,
+      "publisher": "Wiley",
+      "works_count": 19688,
+      "cited_by_count": 801982,
+      "openalex_id": "https://openalex.org/S151564723"
+    },
+    {
+      "name": "AMB Express",
+      "issn": "2191-0855",
+      "h_index": 89,
+      "impact_factor": 4.26,
+      "publisher": "Springer Nature",
+      "works_count": 2149,
+      "cited_by_count": 56021,
+      "openalex_id": "https://openalex.org/S129630946"
+    },
+    {
+      "name": "Journal of Genetic Engineering and Biotechnology",
+      "issn": "1687-157X",
+      "h_index": 66,
+      "impact_factor": 4.1,
+      "publisher": "Springer Nature",
+      "works_count": 1192,
+      "cited_by_count": 23470,
+      "openalex_id": "https://openalex.org/S2764867799"
+    },
+    {
+      "name": "BioTech",
+      "issn": "2673-6284",
+      "h_index": 23,
+      "impact_factor": 4.1,
+      "publisher": "MDPI AG",
+      "works_count": 300,
+      "cited_by_count": 2598,
+      "openalex_id": "https://openalex.org/S4210174294"
+    },
+    {
+      "name": "Food Science and Biotechnology",
+      "issn": "1226-7708",
+      "h_index": 79,
+      "impact_factor": 4.05,
+      "publisher": "Springer Nature",
+      "works_count": 5897,
+      "cited_by_count": 80760,
+      "openalex_id": "https://openalex.org/S35861910"
+    },
+    {
+      "name": "Journal of Biotechnology",
+      "issn": "0168-1656",
+      "h_index": 207,
+      "impact_factor": 3.84,
+      "publisher": "Elsevier",
+      "works_count": 15732,
+      "cited_by_count": 381431,
+      "openalex_id": "https://openalex.org/S182099265"
+    },
+    {
+      "name": "3 Biotech",
+      "issn": "2190-572X",
+      "h_index": 108,
+      "impact_factor": 3.77,
+      "publisher": "Springer Nature",
+      "works_count": 4574,
+      "cited_by_count": 98216,
+      "openalex_id": "https://openalex.org/S4210190239"
+    },
+    {
+      "name": "Biotechnology Journal",
+      "issn": "1860-6768",
+      "h_index": 136,
+      "impact_factor": 3.72,
+      "publisher": "Wiley",
+      "works_count": 4948,
+      "cited_by_count": 111182,
+      "openalex_id": "https://openalex.org/S31411064"
+    },
+    {
+      "name": "Biotechnology and Bioprocess Engineering",
+      "issn": "1226-8372",
+      "h_index": 77,
+      "impact_factor": 3.44,
+      "publisher": "Springer Nature",
+      "works_count": 2869,
+      "cited_by_count": 50283,
+      "openalex_id": "https://openalex.org/S72791832"
+    },
+    {
+      "name": "Journal of Chemical Technology & Biotechnology",
+      "issn": "0268-2575",
+      "h_index": 160,
+      "impact_factor": 3.04,
+      "publisher": "Wiley",
+      "works_count": 10983,
+      "cited_by_count": 250668,
+      "openalex_id": "https://openalex.org/S112095004"
+    },
+    {
+      "name": "Biotechnology Progress",
+      "issn": "1520-6033",
+      "h_index": 167,
+      "impact_factor": 2.89,
+      "publisher": "Wiley",
+      "works_count": 6515,
+      "cited_by_count": 228506,
+      "openalex_id": "https://openalex.org/S186451451"
+    },
+    {
+      "name": "Journal of Microbiology and Biotechnology",
+      "issn": "1017-7825",
+      "h_index": 94,
+      "impact_factor": 2.84,
+      "publisher": "Journal of Microbiology and Biotechnology",
+      "works_count": 5715,
+      "cited_by_count": 92512,
+      "openalex_id": "https://openalex.org/S70307536"
+    },
+    {
+      "name": "Current Pharmaceutical Biotechnology",
+      "issn": "1389-2010",
+      "h_index": 112,
+      "impact_factor": 2.73,
+      "publisher": "Bentham Science",
+      "works_count": 3366,
+      "cited_by_count": 76292,
+      "openalex_id": "https://openalex.org/S6052435"
+    },
+    {
+      "name": "Biotechnology Letters",
+      "issn": "0141-5492",
+      "h_index": 149,
+      "impact_factor": 2.66,
+      "publisher": "Springer Nature",
+      "works_count": 11297,
+      "cited_by_count": 287048,
+      "openalex_id": "https://openalex.org/S113993733"
+    },
+    {
+      "name": "Marine Biotechnology",
+      "issn": "1436-2228",
+      "h_index": 105,
+      "impact_factor": 2.52,
+      "publisher": "Springer Nature",
+      "works_count": 2224,
+      "cited_by_count": 73713,
+      "openalex_id": "https://openalex.org/S55645480"
+    },
+    {
+      "name": "New Biotechnology",
+      "issn": "1871-6784",
+      "h_index": 107,
+      "impact_factor": 2.39,
+      "publisher": "Elsevier",
+      "works_count": 5678,
+      "cited_by_count": 59834,
+      "openalex_id": "https://openalex.org/S139345353"
+    },
+    {
+      "name": "Biotechnology and Applied Biochemistry",
+      "issn": "0885-4513",
+      "h_index": 97,
+      "impact_factor": 2.3,
+      "publisher": "Wiley",
+      "works_count": 3711,
+      "cited_by_count": 68544,
+      "openalex_id": "https://openalex.org/S34872747"
+    },
+    {
+      "name": "Preparative Biochemistry & Biotechnology",
+      "issn": "1082-6068",
+      "h_index": 48,
+      "impact_factor": 2.3,
+      "publisher": "Informa",
+      "works_count": 2038,
+      "cited_by_count": 22601,
+      "openalex_id": "https://openalex.org/S113958752"
+    },
+    {
+      "name": "Biotechnology & Biotechnological Equipment",
+      "issn": "1310-2818",
+      "h_index": 65,
+      "impact_factor": 2.25,
+      "publisher": "Informa",
+      "works_count": 4037,
+      "cited_by_count": 39113,
+      "openalex_id": "https://openalex.org/S121023886"
+    },
+    {
+      "name": "Chemical Engineering & Technology",
+      "issn": "0930-7516",
+      "h_index": 107,
+      "impact_factor": 2.17,
+      "publisher": "Wiley",
+      "works_count": 9110,
+      "cited_by_count": 120344,
+      "openalex_id": "https://openalex.org/S154487680"
+    },
+    {
+      "name": "The Journal of Horticultural Science and Biotechnology",
+      "issn": "1462-0316",
+      "h_index": 75,
+      "impact_factor": 2.06,
+      "publisher": "Informa",
+      "works_count": 3108,
+      "cited_by_count": 54486,
+      "openalex_id": "https://openalex.org/S55420515"
+    },
+    {
+      "name": "Bioscience Biotechnology and Biochemistry",
+      "issn": "0916-8451",
+      "h_index": 157,
+      "impact_factor": 1.72,
+      "publisher": "Oxford University Press",
+      "works_count": 14473,
+      "cited_by_count": 336840,
+      "openalex_id": "https://openalex.org/S94095188"
+    },
+    {
+      "name": "Plant Biotechnology",
+      "issn": "1342-4580",
+      "h_index": 61,
+      "impact_factor": 1.38,
+      "publisher": "Japanese Society for Plant Cell and Molecular Biology",
+      "works_count": 1984,
+      "cited_by_count": 25143,
+      "openalex_id": "https://openalex.org/S85796158"
+    },
+    {
+      "name": "Journal of Pharmaceutical and BioTech Industry",
+      "issn": "2813-9380",
+      "h_index": 2,
+      "impact_factor": 0.95,
+      "publisher": "MDPI AG",
+      "works_count": 22,
+      "cited_by_count": 21,
+      "openalex_id": "https://openalex.org/S5407034199"
+    },
+    {
+      "name": "Biotech Studies",
+      "issn": "2687-3761",
+      "h_index": 8,
+      "impact_factor": 0.65,
+      "publisher": "Tarla Bitkileri Merkez Arastirma Enstitusu",
+      "works_count": 91,
+      "cited_by_count": 239,
+      "openalex_id": "https://openalex.org/S4210222368"
+    }
+  ],
+  "Electrochemical Engineering": [
+    {
+      "name": "ECS Sensors Plus",
+      "issn": "2754-2726",
+      "h_index": 35,
+      "impact_factor": 12.25,
+      "publisher": "The Electrochemical Society",
+      "works_count": 142,
+      "cited_by_count": 4269,
+      "openalex_id": "https://openalex.org/S4220651082"
+    },
+    {
+      "name": "Frontiers in Batteries and Electrochemistry",
+      "issn": "2813-4974",
+      "h_index": 8,
+      "impact_factor": 6.0,
+      "publisher": "Frontiers Media SA",
+      "works_count": 26,
+      "cited_by_count": 183,
+      "openalex_id": "https://openalex.org/S4387285205"
+    },
+    {
+      "name": "International Journal of Electrochemical Science",
+      "issn": "1452-3981",
+      "h_index": 100,
+      "impact_factor": 5.34,
+      "publisher": "ESG",
+      "works_count": 12249,
+      "cited_by_count": 162648,
+      "openalex_id": "https://openalex.org/S48583931"
+    },
+    {
+      "name": "Journal of Applied Electrochemistry",
+      "issn": "0021-891X",
+      "h_index": 156,
+      "impact_factor": 4.61,
+      "publisher": "Springer Nature",
+      "works_count": 8141,
+      "cited_by_count": 214822,
+      "openalex_id": "https://openalex.org/S111985066"
+    },
+    {
+      "name": "Electrochemistry Communications",
+      "issn": "1388-2481",
+      "h_index": 222,
+      "impact_factor": 4.51,
+      "publisher": "Elsevier",
+      "works_count": 8202,
+      "cited_by_count": 382537,
+      "openalex_id": "https://openalex.org/S1342386"
+    },
+    {
+      "name": "Journal of The Electrochemical Society",
+      "issn": "0013-4651",
+      "h_index": 412,
+      "impact_factor": 4.0,
+      "publisher": "The Electrochemical Society",
+      "works_count": 55218,
+      "cited_by_count": 2110660,
+      "openalex_id": "https://openalex.org/S138759888"
+    },
+    {
+      "name": "Journal of Solid State Electrochemistry",
+      "issn": "1432-8488",
+      "h_index": 106,
+      "impact_factor": 3.57,
+      "publisher": "Springer Nature",
+      "works_count": 7339,
+      "cited_by_count": 143410,
+      "openalex_id": "https://openalex.org/S25422132"
+    },
+    {
+      "name": "ECS Journal of Solid State Science and Technology",
+      "issn": "2162-8769",
+      "h_index": 81,
+      "impact_factor": 3.31,
+      "publisher": "The Electrochemical Society",
+      "works_count": 5136,
+      "cited_by_count": 57759,
+      "openalex_id": "https://openalex.org/S2493531148"
+    },
+    {
+      "name": "Electrochemical Materials and Technologies",
+      "issn": "2949-0561",
+      "h_index": 9,
+      "impact_factor": 3.31,
+      "publisher": "Ural Federal University",
+      "works_count": 58,
+      "cited_by_count": 291,
+      "openalex_id": "https://openalex.org/S4387284682"
+    },
+    {
+      "name": "Journal of Electrochemical Energy Conversion and Storage",
+      "issn": "2381-6872",
+      "h_index": 30,
+      "impact_factor": 3.05,
+      "publisher": "ASME International",
+      "works_count": 565,
+      "cited_by_count": 5724,
+      "openalex_id": "https://openalex.org/S4210203503"
+    },
+    {
+      "name": "Journal of Electrochemical Science and Technology",
+      "issn": "2093-8551",
+      "h_index": 27,
+      "impact_factor": 2.83,
+      "publisher": "The Korean Electrochemical Society - English Journal",
+      "works_count": 827,
+      "cited_by_count": 6705,
+      "openalex_id": "https://openalex.org/S2764590354"
+    },
+    {
+      "name": "Journal of Electrochemical Science and Engineering",
+      "issn": "1847-9286",
+      "h_index": 25,
+      "impact_factor": 2.83,
+      "publisher": "International Association of Physical Chemists",
+      "works_count": 567,
+      "cited_by_count": 3812,
+      "openalex_id": "https://openalex.org/S2764557848"
+    },
+    {
+      "name": "ECS Advances",
+      "issn": "2754-2734",
+      "h_index": 11,
+      "impact_factor": 2.8,
+      "publisher": "The Electrochemical Society",
+      "works_count": 157,
+      "cited_by_count": 513,
+      "openalex_id": "https://openalex.org/S4210174721"
+    },
+    {
+      "name": "Discover Electrochemistry.",
+      "issn": "3005-1215",
+      "h_index": 6,
+      "impact_factor": 2.1,
+      "publisher": "Singapore",
+      "works_count": 60,
+      "cited_by_count": 126,
+      "openalex_id": "https://openalex.org/S4404669874"
+    },
+    {
+      "name": "Electrochemical Science Advances",
+      "issn": "2698-5977",
+      "h_index": 26,
+      "impact_factor": 2.01,
+      "publisher": "Wiley",
+      "works_count": 349,
+      "cited_by_count": 3227,
+      "openalex_id": "https://openalex.org/S4210224418"
+    },
+    {
+      "name": "International Journal of Electrochemistry",
+      "issn": "2090-3529",
+      "h_index": 35,
+      "impact_factor": 2.0,
+      "publisher": "Hindawi Limited",
+      "works_count": 293,
+      "cited_by_count": 5544,
+      "openalex_id": "https://openalex.org/S4210169075"
+    },
+    {
+      "name": "Electrochemistry",
+      "issn": "1344-3542",
+      "h_index": 53,
+      "impact_factor": 1.45,
+      "publisher": "The Electrochemical Society of Japan",
+      "works_count": 5142,
+      "cited_by_count": 27056,
+      "openalex_id": "https://openalex.org/S191655311"
+    },
+    {
+      "name": "Russian Journal of Electrochemistry",
+      "issn": "1023-1935",
+      "h_index": 52,
+      "impact_factor": 1.22,
+      "publisher": "Springer Nature",
+      "works_count": 4610,
+      "cited_by_count": 31556,
+      "openalex_id": "https://openalex.org/S127726946"
+    },
+    {
+      "name": "ACS electrochemistry.",
+      "issn": "2997-0571",
+      "h_index": 6,
+      "impact_factor": 1.11,
+      "publisher": "American Chemical Society",
+      "works_count": 258,
+      "cited_by_count": 286,
+      "openalex_id": "https://openalex.org/S4404674019"
+    },
+    {
+      "name": "Surface Engineering and Applied Electrochemistry",
+      "issn": "1068-3755",
+      "h_index": 31,
+      "impact_factor": 0.85,
+      "publisher": "Springer Nature",
+      "works_count": 1636,
+      "cited_by_count": 8031,
+      "openalex_id": "https://openalex.org/S164709426"
+    }
+  ],
+  "Nanotechnology for Advanced Materials": [
+    {
+      "name": "Nano-Micro Letters",
+      "issn": "2150-5551",
+      "h_index": 182,
+      "impact_factor": 40.37,
+      "publisher": "Springer Nature",
+      "works_count": 2241,
+      "cited_by_count": 158896,
+      "openalex_id": "https://openalex.org/S9070373"
+    },
+    {
+      "name": "Nano Energy",
+      "issn": "2211-2855",
+      "h_index": 308,
+      "impact_factor": 18.96,
+      "publisher": "Elsevier",
+      "works_count": 10892,
+      "cited_by_count": 839761,
+      "openalex_id": "https://openalex.org/S2497301991"
+    },
+    {
+      "name": "ACS Nano",
+      "issn": "1936-0851",
+      "h_index": 544,
+      "impact_factor": 16.82,
+      "publisher": "American Chemical Society",
+      "works_count": 27241,
+      "cited_by_count": 2505713,
+      "openalex_id": "https://openalex.org/S145476921"
+    },
+    {
+      "name": "Nano Convergence",
+      "issn": "2196-5404",
+      "h_index": 70,
+      "impact_factor": 14.15,
+      "publisher": "Springer Nature",
+      "works_count": 515,
+      "cited_by_count": 21067,
+      "openalex_id": "https://openalex.org/S2738500204"
+    },
+    {
+      "name": "Nano TransMed",
+      "issn": "2790-6760",
+      "h_index": 22,
+      "impact_factor": 12.07,
+      "publisher": "Elsevier ",
+      "works_count": 97,
+      "cited_by_count": 1219,
+      "openalex_id": "https://openalex.org/S4387997735"
+    },
+    {
+      "name": "Nano Today",
+      "issn": "1748-0132",
+      "h_index": 208,
+      "impact_factor": 11.36,
+      "publisher": "Elsevier",
+      "works_count": 3196,
+      "cited_by_count": 172005,
+      "openalex_id": "https://openalex.org/S183222223"
+    },
+    {
+      "name": "Small",
+      "issn": "1613-6810",
+      "h_index": 338,
+      "impact_factor": 11.02,
+      "publisher": "Wiley",
+      "works_count": 30111,
+      "cited_by_count": 1148015,
+      "openalex_id": "https://openalex.org/S94619837"
+    },
+    {
+      "name": "Nano Research",
+      "issn": "1998-0000",
+      "h_index": 188,
+      "impact_factor": 10.5,
+      "publisher": "Springer Nature",
+      "works_count": 8406,
+      "cited_by_count": 328945,
+      "openalex_id": "https://openalex.org/S173461644"
+    },
+    {
+      "name": "Nano Letters",
+      "issn": "1530-6984",
+      "h_index": 594,
+      "impact_factor": 9.18,
+      "publisher": "American Chemical Society",
+      "works_count": 25980,
+      "cited_by_count": 2635770,
+      "openalex_id": "https://openalex.org/S143846845"
+    },
+    {
+      "name": "Nano Materials Science",
+      "issn": "2096-6482",
+      "h_index": 55,
+      "impact_factor": 9.06,
+      "publisher": "Elsevier",
+      "works_count": 444,
+      "cited_by_count": 12761,
+      "openalex_id": "https://openalex.org/S4210230927"
+    },
+    {
+      "name": "Materials Today Nano",
+      "issn": "2588-8420",
+      "h_index": 61,
+      "impact_factor": 8.73,
+      "publisher": "Elsevier",
+      "works_count": 703,
+      "cited_by_count": 16079,
+      "openalex_id": "https://openalex.org/S2898515921"
+    },
+    {
+      "name": "Nano-Structures & Nano-Objects",
+      "issn": "2352-507X",
+      "h_index": 67,
+      "impact_factor": 7.9,
+      "publisher": "Elsevier",
+      "works_count": 1270,
+      "cited_by_count": 22833,
+      "openalex_id": "https://openalex.org/S2764574320"
+    },
+    {
+      "name": "Discover Nano",
+      "issn": "2731-9229",
+      "h_index": 27,
+      "impact_factor": 7.13,
+      "publisher": "Springer (Biomed Central Ltd.)",
+      "works_count": 579,
+      "cited_by_count": 4106,
+      "openalex_id": "https://openalex.org/S4387288106"
+    },
+    {
+      "name": "ACS Applied Nano Materials",
+      "issn": "2574-0970",
+      "h_index": 115,
+      "impact_factor": 6.88,
+      "publisher": "American Chemical Society",
+      "works_count": 13418,
+      "cited_by_count": 219258,
+      "openalex_id": "https://openalex.org/S4210191493"
+    },
+    {
+      "name": "International Journal of Smart and Nano Materials",
+      "issn": "1947-5411",
+      "h_index": 43,
+      "impact_factor": 6.78,
+      "publisher": "Informa",
+      "works_count": 389,
+      "cited_by_count": 7865,
+      "openalex_id": "https://openalex.org/S93280953"
+    },
+    {
+      "name": "Nano Trends",
+      "issn": "2666-9781",
+      "h_index": 14,
+      "impact_factor": 5.73,
+      "publisher": "Elsevier ",
+      "works_count": 153,
+      "cited_by_count": 876,
+      "openalex_id": "https://openalex.org/S4387287985"
+    },
+    {
+      "name": "Micro and Nano Systems Letters",
+      "issn": "2213-9621",
+      "h_index": 29,
+      "impact_factor": 5.54,
+      "publisher": "Springer Nature",
+      "works_count": 236,
+      "cited_by_count": 3680,
+      "openalex_id": "https://openalex.org/S2737733618"
+    },
+    {
+      "name": "Micro and Nano Engineering",
+      "issn": "2590-0072",
+      "h_index": 23,
+      "impact_factor": 5.46,
+      "publisher": "Elsevier",
+      "works_count": 318,
+      "cited_by_count": 3310,
+      "openalex_id": "https://openalex.org/S4210214524"
+    },
+    {
+      "name": "International nano letters.",
+      "issn": "2008-9295",
+      "h_index": 68,
+      "impact_factor": 5.1,
+      "publisher": "Springer Nature",
+      "works_count": 414,
+      "cited_by_count": 20117,
+      "openalex_id": "https://openalex.org/S2764562143"
+    },
+    {
+      "name": "Environmental Science Nano",
+      "issn": "2051-8153",
+      "h_index": 123,
+      "impact_factor": 5.02,
+      "publisher": "The Royal Society of Chemistry",
+      "works_count": 3412,
+      "cited_by_count": 84270,
+      "openalex_id": "https://openalex.org/S2764968653"
+    },
+    {
+      "name": "Nano Communication Networks",
+      "issn": "1878-7789",
+      "h_index": 51,
+      "impact_factor": 4.86,
+      "publisher": "Elsevier",
+      "works_count": 453,
+      "cited_by_count": 9330,
+      "openalex_id": "https://openalex.org/S95203059"
+    },
+    {
+      "name": "Nano Select",
+      "issn": "2688-4011",
+      "h_index": 39,
+      "impact_factor": 3.79,
+      "publisher": "Wiley",
+      "works_count": 727,
+      "cited_by_count": 7236,
+      "openalex_id": "https://openalex.org/S4210201393"
+    },
+    {
+      "name": "Applied Nano",
+      "issn": "2673-3501",
+      "h_index": 13,
+      "impact_factor": 3.72,
+      "publisher": "MDPI AG",
+      "works_count": 107,
+      "cited_by_count": 779,
+      "openalex_id": "https://openalex.org/S4210190323"
+    },
+    {
+      "name": "Nano Express",
+      "issn": "2632-959X",
+      "h_index": 32,
+      "impact_factor": 3.35,
+      "publisher": "IOP Publishing",
+      "works_count": 546,
+      "cited_by_count": 5256,
+      "openalex_id": "https://openalex.org/S4210215939"
+    },
+    {
+      "name": "Journal of Micro and Nano-Manufacturing",
+      "issn": "2166-0468",
+      "h_index": 25,
+      "impact_factor": 1.24,
+      "publisher": "ASME International",
+      "works_count": 401,
+      "cited_by_count": 3406,
+      "openalex_id": "https://openalex.org/S2764568738"
+    }
+  ],
+  "Process Systems Engineering": [
+    {
+      "name": "Chemical Engineering Journal",
+      "issn": "1385-8947",
+      "h_index": 374,
+      "impact_factor": 12.2,
+      "publisher": "Elsevier",
+      "works_count": 68040,
+      "cited_by_count": 2942632,
+      "openalex_id": "https://openalex.org/S149937609"
+    },
+    {
+      "name": "ACS Sustainable Chemistry & Engineering",
+      "issn": "2168-0485",
+      "h_index": 217,
+      "impact_factor": 8.4,
+      "publisher": "American Chemical Society",
+      "works_count": 18125,
+      "cited_by_count": 695346,
+      "openalex_id": "https://openalex.org/S2502047864"
+    },
+    {
+      "name": "Process Safety and Environmental Protection",
+      "issn": "0263-8762",
+      "h_index": 178,
+      "impact_factor": 7.92,
+      "publisher": "Elsevier",
+      "works_count": 19181,
+      "cited_by_count": 468112,
+      "openalex_id": "https://openalex.org/S166351637"
+    },
+    {
+      "name": "Green Chemical Engineering",
+      "issn": "2096-9147",
+      "h_index": 38,
+      "impact_factor": 7.82,
+      "publisher": "Elsevier",
+      "works_count": 359,
+      "cited_by_count": 5753,
+      "openalex_id": "https://openalex.org/S4210218186"
+    },
+    {
+      "name": "Journal of Water Process Engineering",
+      "issn": "2214-7144",
+      "h_index": 129,
+      "impact_factor": 7.16,
+      "publisher": "Elsevier",
+      "works_count": 8979,
+      "cited_by_count": 165376,
+      "openalex_id": "https://openalex.org/S2764434589"
+    },
+    {
+      "name": "Journal of environmental chemical engineering",
+      "issn": "2213-2929",
+      "h_index": 176,
+      "impact_factor": 7.08,
+      "publisher": "Elsevier",
+      "works_count": 20048,
+      "cited_by_count": 448051,
+      "openalex_id": "https://openalex.org/S2764859491"
+    },
+    {
+      "name": "Chemical Engineering Journal Advances",
+      "issn": "2666-8211",
+      "h_index": 55,
+      "impact_factor": 6.9,
+      "publisher": "Elsevier",
+      "works_count": 919,
+      "cited_by_count": 15744,
+      "openalex_id": "https://openalex.org/S4210233595"
+    },
+    {
+      "name": "ACS Biomaterials Science & Engineering",
+      "issn": "2373-9878",
+      "h_index": 121,
+      "impact_factor": 6.42,
+      "publisher": "American Chemical Society",
+      "works_count": 5166,
+      "cited_by_count": 129820,
+      "openalex_id": "https://openalex.org/S2764739176"
+    },
+    {
+      "name": "Frontiers of Chemical Science and Engineering",
+      "issn": "2095-0179",
+      "h_index": 58,
+      "impact_factor": 6.11,
+      "publisher": "Springer Nature",
+      "works_count": 1371,
+      "cited_by_count": 23540,
+      "openalex_id": "https://openalex.org/S4210176808"
+    },
+    {
+      "name": "ACS ES&T Engineering",
+      "issn": "2690-0645",
+      "h_index": 55,
+      "impact_factor": 5.93,
+      "publisher": "American Chemical Society",
+      "works_count": 1249,
+      "cited_by_count": 17000,
+      "openalex_id": "https://openalex.org/S4210211913"
+    },
+    {
+      "name": "Computers & Chemical Engineering",
+      "issn": "0098-1354",
+      "h_index": 197,
+      "impact_factor": 5.26,
+      "publisher": "Elsevier",
+      "works_count": 10998,
+      "cited_by_count": 341723,
+      "openalex_id": "https://openalex.org/S150671403"
+    },
+    {
+      "name": "Chemical Engineering Science",
+      "issn": "0009-2509",
+      "h_index": 290,
+      "impact_factor": 5.08,
+      "publisher": "Elsevier",
+      "works_count": 32538,
+      "cited_by_count": 1129920,
+      "openalex_id": "https://openalex.org/S33892871"
+    },
+    {
+      "name": "Chemical Engineering and Processing - Process Intensification",
+      "issn": "0255-2701",
+      "h_index": 146,
+      "impact_factor": 4.5,
+      "publisher": "Elsevier",
+      "works_count": 6854,
+      "cited_by_count": 186279,
+      "openalex_id": "https://openalex.org/S94212472"
+    },
+    {
+      "name": "Frontiers in Chemical Engineering",
+      "issn": "2673-2718",
+      "h_index": 29,
+      "impact_factor": 4.03,
+      "publisher": "Frontiers Media SA",
+      "works_count": 400,
+      "cited_by_count": 3979,
+      "openalex_id": "https://openalex.org/S4210240945"
+    },
+    {
+      "name": "Journal of Food Process Engineering",
+      "issn": "0145-8876",
+      "h_index": 79,
+      "impact_factor": 3.56,
+      "publisher": "Wiley",
+      "works_count": 4465,
+      "cited_by_count": 67507,
+      "openalex_id": "https://openalex.org/S151747869"
+    },
+    {
+      "name": "Journal of Chemical & Engineering Data",
+      "issn": "0021-9568",
+      "h_index": 193,
+      "impact_factor": 2.66,
+      "publisher": "American Chemical Society",
+      "works_count": 19948,
+      "cited_by_count": 488997,
+      "openalex_id": "https://openalex.org/S204459408"
+    },
+    {
+      "name": "The Canadian Journal of Chemical Engineering",
+      "issn": "0008-4034",
+      "h_index": 129,
+      "impact_factor": 2.39,
+      "publisher": "Wiley",
+      "works_count": 12073,
+      "cited_by_count": 182350,
+      "openalex_id": "https://openalex.org/S83557516"
+    },
+    {
+      "name": "Chemical Engineering & Technology",
+      "issn": "0930-7516",
+      "h_index": 107,
+      "impact_factor": 2.17,
+      "publisher": "Wiley",
+      "works_count": 9110,
+      "cited_by_count": 120344,
+      "openalex_id": "https://openalex.org/S154487680"
+    },
+    {
+      "name": "Chemical and Process Engineering New Frontiers",
+      "issn": "0208-6425",
+      "h_index": 24,
+      "impact_factor": 1.55,
+      "publisher": "De Gruyter",
+      "works_count": 1353,
+      "cited_by_count": 3750,
+      "openalex_id": "https://openalex.org/S951764588"
+    },
+    {
+      "name": "International Journal of Chemical Reactor Engineering",
+      "issn": "1542-6580",
+      "h_index": 54,
+      "impact_factor": 1.29,
+      "publisher": "De Gruyter",
+      "works_count": 2466,
+      "cited_by_count": 22622,
+      "openalex_id": "https://openalex.org/S61095757"
+    },
+    {
+      "name": "Chemical and Petroleum Engineering",
+      "issn": "0009-2355",
+      "h_index": 28,
+      "impact_factor": 0.74,
+      "publisher": "Springer Nature",
+      "works_count": 12516,
+      "cited_by_count": 10024,
+      "openalex_id": "https://openalex.org/S59886954"
+    },
+    {
+      "name": "Theoretical Foundations of Chemical Engineering",
+      "issn": "0040-5795",
+      "h_index": 34,
+      "impact_factor": 0.41,
+      "publisher": "Springer Nature",
+      "works_count": 3403,
+      "cited_by_count": 15382,
+      "openalex_id": "https://openalex.org/S56676470"
+    }
+  ],
+  "Soft Matter & Polymer Engineering": [
+    {
+      "name": "Advanced Industrial and Engineering Polymer Research",
+      "issn": "2542-5048",
+      "h_index": 46,
+      "impact_factor": 16.83,
+      "publisher": "Elsevier",
+      "works_count": 264,
+      "cited_by_count": 9329,
+      "openalex_id": "https://openalex.org/S4210184591"
+    },
+    {
+      "name": "European Polymer Journal",
+      "issn": "0014-3057",
+      "h_index": 201,
+      "impact_factor": 7.61,
+      "publisher": "Elsevier",
+      "works_count": 19245,
+      "cited_by_count": 508111,
+      "openalex_id": "https://openalex.org/S135472351"
+    },
+    {
+      "name": "Polymer Degradation and Stability",
+      "issn": "0141-3910",
+      "h_index": 215,
+      "impact_factor": 7.48,
+      "publisher": "Elsevier",
+      "works_count": 11483,
+      "cited_by_count": 470089,
+      "openalex_id": "https://openalex.org/S10124807"
+    },
+    {
+      "name": "Polymers",
+      "issn": "2073-4360",
+      "h_index": 205,
+      "impact_factor": 7.34,
+      "publisher": "MDPI AG",
+      "works_count": 30027,
+      "cited_by_count": 627757,
+      "openalex_id": "https://openalex.org/S123288148"
+    },
+    {
+      "name": "Journal of Polymers and the Environment",
+      "issn": "1566-2543",
+      "h_index": 82,
+      "impact_factor": 7.27,
+      "publisher": "Springer Nature",
+      "works_count": 2649,
+      "cited_by_count": 53246,
+      "openalex_id": "https://openalex.org/S193665811"
+    },
+    {
+      "name": "Polymer Testing",
+      "issn": "0142-9418",
+      "h_index": 143,
+      "impact_factor": 7.21,
+      "publisher": "Elsevier",
+      "works_count": 7725,
+      "cited_by_count": 206258,
+      "openalex_id": "https://openalex.org/S157859649"
+    },
+    {
+      "name": "Journal of Inorganic and Organometallic Polymers and Materials",
+      "issn": "1574-1443",
+      "h_index": 77,
+      "impact_factor": 6.33,
+      "publisher": "Springer Nature",
+      "works_count": 5096,
+      "cited_by_count": 69734,
+      "openalex_id": "https://openalex.org/S22507861"
+    },
+    {
+      "name": "Carbohydrate Polymer Technologies and Applications",
+      "issn": "2666-8939",
+      "h_index": 46,
+      "impact_factor": 5.64,
+      "publisher": "Elsevier",
+      "works_count": 1014,
+      "cited_by_count": 11354,
+      "openalex_id": "https://openalex.org/S4210218043"
+    },
+    {
+      "name": "International Journal of Polymer Science",
+      "issn": "1687-9422",
+      "h_index": 75,
+      "impact_factor": 5.53,
+      "publisher": "Hindawi Limited",
+      "works_count": 1337,
+      "cited_by_count": 34172,
+      "openalex_id": "https://openalex.org/S197091645"
+    },
+    {
+      "name": "Reactive and Functional Polymers",
+      "issn": "1381-5148",
+      "h_index": 124,
+      "impact_factor": 5.38,
+      "publisher": "Elsevier",
+      "works_count": 5661,
+      "cited_by_count": 143643,
+      "openalex_id": "https://openalex.org/S205957783"
+    },
+    {
+      "name": "SPE Polymers",
+      "issn": "2690-3857",
+      "h_index": 18,
+      "impact_factor": 5.35,
+      "publisher": "Wiley",
+      "works_count": 214,
+      "cited_by_count": 1496,
+      "openalex_id": "https://openalex.org/S4210195725"
+    },
+    {
+      "name": "ACS Applied Polymer Materials",
+      "issn": "2637-6105",
+      "h_index": 77,
+      "impact_factor": 5.3,
+      "publisher": "American Chemical Society",
+      "works_count": 6591,
+      "cited_by_count": 79854,
+      "openalex_id": "https://openalex.org/S4210221646"
+    },
+    {
+      "name": "ACS Polymers Au",
+      "issn": "2694-2453",
+      "h_index": 27,
+      "impact_factor": 4.72,
+      "publisher": "American Chemical Society",
+      "works_count": 276,
+      "cited_by_count": 2437,
+      "openalex_id": "https://openalex.org/S4210227641"
+    },
+    {
+      "name": "Polymer Composites",
+      "issn": "0272-8397",
+      "h_index": 129,
+      "impact_factor": 4.68,
+      "publisher": "Wiley",
+      "works_count": 12197,
+      "cited_by_count": 211908,
+      "openalex_id": "https://openalex.org/S156806727"
+    },
+    {
+      "name": "Polymer",
+      "issn": "0032-3861",
+      "h_index": 335,
+      "impact_factor": 4.66,
+      "publisher": "Elsevier",
+      "works_count": 40575,
+      "cited_by_count": 1564794,
+      "openalex_id": "https://openalex.org/S186054908"
+    },
+    {
+      "name": "Designed Monomers & Polymers",
+      "issn": "1385-772X",
+      "h_index": 47,
+      "impact_factor": 4.49,
+      "publisher": "Informa",
+      "works_count": 1140,
+      "cited_by_count": 16531,
+      "openalex_id": "https://openalex.org/S20456899"
+    },
+    {
+      "name": "Polymer Bulletin",
+      "issn": "0170-0839",
+      "h_index": 104,
+      "impact_factor": 4.41,
+      "publisher": "Springer Nature",
+      "works_count": 12947,
+      "cited_by_count": 174288,
+      "openalex_id": "https://openalex.org/S111277402"
+    },
+    {
+      "name": "Macromolecular Research",
+      "issn": "1598-5032",
+      "h_index": 67,
+      "impact_factor": 4.37,
+      "publisher": "Springer Nature",
+      "works_count": 3530,
+      "cited_by_count": 49014,
+      "openalex_id": "https://openalex.org/S194131194"
+    },
+    {
+      "name": "Polymer-Plastics Technology and Materials",
+      "issn": "2574-0881",
+      "h_index": 41,
+      "impact_factor": 4.3,
+      "publisher": "Informa",
+      "works_count": 1012,
+      "cited_by_count": 9610,
+      "openalex_id": "https://openalex.org/S4210195438"
+    },
+    {
+      "name": "e-Polymers",
+      "issn": "1618-7229",
+      "h_index": 45,
+      "impact_factor": 4.28,
+      "publisher": "De Gruyter",
+      "works_count": 2108,
+      "cited_by_count": 17812,
+      "openalex_id": "https://openalex.org/S150382113"
+    },
+    {
+      "name": "Advances in Polymer Technology",
+      "issn": "0730-6679",
+      "h_index": 69,
+      "impact_factor": 4.27,
+      "publisher": "Hindawi Limited",
+      "works_count": 2567,
+      "cited_by_count": 39378,
+      "openalex_id": "https://openalex.org/S48230929"
+    },
+    {
+      "name": "Journal of Polymer Research",
+      "issn": "1022-9760",
+      "h_index": 86,
+      "impact_factor": 4.11,
+      "publisher": "Springer Nature",
+      "works_count": 5993,
+      "cited_by_count": 92298,
+      "openalex_id": "https://openalex.org/S103518591"
+    },
+    {
+      "name": "Polymers for Advanced Technologies",
+      "issn": "1042-7147",
+      "h_index": 120,
+      "impact_factor": 4.04,
+      "publisher": "Wiley",
+      "works_count": 7946,
+      "cited_by_count": 142568,
+      "openalex_id": "https://openalex.org/S40708307"
+    },
+    {
+      "name": "Polymer Engineering and Science",
+      "issn": "0032-3888",
+      "h_index": 179,
+      "impact_factor": 3.7,
+      "publisher": "Wiley",
+      "works_count": 14811,
+      "cited_by_count": 347278,
+      "openalex_id": "https://openalex.org/S114499311"
+    },
+    {
+      "name": "Polymer Chemistry",
+      "issn": "1759-9954",
+      "h_index": 164,
+      "impact_factor": 3.68,
+      "publisher": "The Royal Society of Chemistry",
+      "works_count": 11880,
+      "cited_by_count": 308555,
+      "openalex_id": "https://openalex.org/S187215728"
+    },
+    {
+      "name": "Polymers from Renewable Resources",
+      "issn": "2041-2479",
+      "h_index": 20,
+      "impact_factor": 3.5,
+      "publisher": "SAGE",
+      "works_count": 203,
+      "cited_by_count": 1828,
+      "openalex_id": "https://openalex.org/S4210191292"
+    },
+    {
+      "name": "Polymer Journal",
+      "issn": "0032-3896",
+      "h_index": 116,
+      "impact_factor": 3.45,
+      "publisher": "Springer Nature",
+      "works_count": 8225,
+      "cited_by_count": 150739,
+      "openalex_id": "https://openalex.org/S91170297"
+    },
+    {
+      "name": "Fibers and Polymers",
+      "issn": "1229-9197",
+      "h_index": 83,
+      "impact_factor": 3.4,
+      "publisher": "Springer Nature",
+      "works_count": 5622,
+      "cited_by_count": 83122,
+      "openalex_id": "https://openalex.org/S60519989"
+    },
+    {
+      "name": "RSC Applied Polymers",
+      "issn": "2755-371X",
+      "h_index": 15,
+      "impact_factor": 3.38,
+      "publisher": "The Royal Society of Chemistry",
+      "works_count": 297,
+      "cited_by_count": 1003,
+      "openalex_id": "https://openalex.org/S4387288668"
+    },
+    {
+      "name": "Journal of Polymer Science",
+      "issn": "2642-4150",
+      "h_index": 51,
+      "impact_factor": 3.32,
+      "publisher": "Wiley",
+      "works_count": 2428,
+      "cited_by_count": 18358,
+      "openalex_id": "https://openalex.org/S4210188590"
+    },
+    {
+      "name": "Colloid & Polymer Science",
+      "issn": "0303-402X",
+      "h_index": 145,
+      "impact_factor": 3.27,
+      "publisher": "Springer Nature",
+      "works_count": 25896,
+      "cited_by_count": 263950,
+      "openalex_id": "https://openalex.org/S100444939"
+    },
+    {
+      "name": "Journal of Applied Polymer Science",
+      "issn": "0021-8995",
+      "h_index": 240,
+      "impact_factor": 3.06,
+      "publisher": "Wiley",
+      "works_count": 67577,
+      "cited_by_count": 1437691,
+      "openalex_id": "https://openalex.org/S200764475"
+    },
+    {
+      "name": "Plasma Processes and Polymers",
+      "issn": "1612-8850",
+      "h_index": 99,
+      "impact_factor": 2.87,
+      "publisher": "Wiley",
+      "works_count": 3705,
+      "cited_by_count": 73220,
+      "openalex_id": "https://openalex.org/S17577527"
+    },
+    {
+      "name": "Cellular Polymers",
+      "issn": "0262-4893",
+      "h_index": 33,
+      "impact_factor": 2.72,
+      "publisher": "SAGE",
+      "works_count": 1065,
+      "cited_by_count": 6176,
+      "openalex_id": "https://openalex.org/S163681099"
+    },
+    {
+      "name": "Polymer International",
+      "issn": "0959-8103",
+      "h_index": 133,
+      "impact_factor": 2.66,
+      "publisher": "Wiley",
+      "works_count": 8709,
+      "cited_by_count": 166442,
+      "openalex_id": "https://openalex.org/S162033819"
+    },
+    {
+      "name": "International Polymer Processing",
+      "issn": "0930-777X",
+      "h_index": 53,
+      "impact_factor": 2.43,
+      "publisher": "De Gruyter",
+      "works_count": 2558,
+      "cited_by_count": 23291,
+      "openalex_id": "https://openalex.org/S1200972"
+    },
+    {
+      "name": "Polymers and Polymer Composites",
+      "issn": "0967-3911",
+      "h_index": 47,
+      "impact_factor": 2.37,
+      "publisher": "SAGE",
+      "works_count": 3153,
+      "cited_by_count": 24230,
+      "openalex_id": "https://openalex.org/S133144720"
+    },
+    {
+      "name": "Macromolecular Chemistry and Physics",
+      "issn": "1022-1352",
+      "h_index": 135,
+      "impact_factor": 2.19,
+      "publisher": "Wiley",
+      "works_count": 11996,
+      "cited_by_count": 206541,
+      "openalex_id": "https://openalex.org/S124744586"
+    },
+    {
+      "name": "International Journal of Polymer Analysis and Characterization",
+      "issn": "1023-666X",
+      "h_index": 60,
+      "impact_factor": 2.1,
+      "publisher": "Informa",
+      "works_count": 1485,
+      "cited_by_count": 21236,
+      "openalex_id": "https://openalex.org/S145318752"
+    },
+    {
+      "name": "Discover Polymers.",
+      "issn": "3004-9377",
+      "h_index": 4,
+      "impact_factor": 2.03,
+      "publisher": "Singapore",
+      "works_count": 30,
+      "cited_by_count": 61,
+      "openalex_id": "https://openalex.org/S4404670392"
+    },
+    {
+      "name": "Journal of Polymer Engineering",
+      "issn": "0334-6447",
+      "h_index": 45,
+      "impact_factor": 1.93,
+      "publisher": "De Gruyter",
+      "works_count": 2393,
+      "cited_by_count": 17199,
+      "openalex_id": "https://openalex.org/S40213007"
+    },
+    {
+      "name": "Polymers in Medicine",
+      "issn": "0370-0747",
+      "h_index": 18,
+      "impact_factor": 1.85,
+      "publisher": "Wroclaw Medical University",
+      "works_count": 192,
+      "cited_by_count": 1295,
+      "openalex_id": "https://openalex.org/S2755530126"
+    }
+  ],
+  "Sustainable Reaction Engineering": [
+    {
+      "name": "Renewable and Sustainable Energy Reviews",
+      "issn": "1364-0321",
+      "h_index": 521,
+      "impact_factor": 19.28,
+      "publisher": "Elsevier",
+      "works_count": 16202,
+      "cited_by_count": 1869189,
+      "openalex_id": "https://openalex.org/S68497187"
+    },
+    {
+      "name": "SusMat",
+      "issn": "2692-4552",
+      "h_index": 59,
+      "impact_factor": 18.78,
+      "publisher": "Wiley",
+      "works_count": 330,
+      "cited_by_count": 10514,
+      "openalex_id": "https://openalex.org/S4210220548"
+    },
+    {
+      "name": "Sustainable Production and Consumption",
+      "issn": "2352-5509",
+      "h_index": 123,
+      "impact_factor": 11.98,
+      "publisher": "Elsevier",
+      "works_count": 2108,
+      "cited_by_count": 81457,
+      "openalex_id": "https://openalex.org/S2764749963"
+    },
+    {
+      "name": "Green Chemistry",
+      "issn": "1463-9262",
+      "h_index": 309,
+      "impact_factor": 9.76,
+      "publisher": "The Royal Society of Chemistry",
+      "works_count": 14658,
+      "cited_by_count": 790816,
+      "openalex_id": "https://openalex.org/S55009144"
+    },
+    {
+      "name": "Sustainable Energy Technologies and Assessments",
+      "issn": "2213-1388",
+      "h_index": 113,
+      "impact_factor": 9.07,
+      "publisher": "Elsevier",
+      "works_count": 4294,
+      "cited_by_count": 108626,
+      "openalex_id": "https://openalex.org/S2764877105"
+    },
+    {
+      "name": "Sustainable Development",
+      "issn": "0968-0802",
+      "h_index": 136,
+      "impact_factor": 8.7,
+      "publisher": "Wiley",
+      "works_count": 3115,
+      "cited_by_count": 93507,
+      "openalex_id": "https://openalex.org/S165666656"
+    },
+    {
+      "name": "ACS Sustainable Chemistry & Engineering",
+      "issn": "2168-0485",
+      "h_index": 217,
+      "impact_factor": 8.4,
+      "publisher": "American Chemical Society",
+      "works_count": 18125,
+      "cited_by_count": 695346,
+      "openalex_id": "https://openalex.org/S2502047864"
+    },
+    {
+      "name": "Groundwater for Sustainable Development",
+      "issn": "2352-801X",
+      "h_index": 83,
+      "impact_factor": 8.38,
+      "publisher": "Elsevier",
+      "works_count": 1618,
+      "cited_by_count": 36849,
+      "openalex_id": "https://openalex.org/S2898504426"
+    },
+    {
+      "name": "Sustainable Chemistry and Pharmacy",
+      "issn": "2352-5541",
+      "h_index": 72,
+      "impact_factor": 8.32,
+      "publisher": "Elsevier",
+      "works_count": 2000,
+      "cited_by_count": 34321,
+      "openalex_id": "https://openalex.org/S2898513339"
+    },
+    {
+      "name": "Sustainable materials and technologies",
+      "issn": "2214-9929",
+      "h_index": 82,
+      "impact_factor": 8.04,
+      "publisher": "Elsevier",
+      "works_count": 1720,
+      "cited_by_count": 38345,
+      "openalex_id": "https://openalex.org/S2898501196"
+    },
+    {
+      "name": "IEEE Transactions on Sustainable Energy",
+      "issn": "1949-3029",
+      "h_index": 191,
+      "impact_factor": 7.81,
+      "publisher": "Institute of Electrical and Electronics Engineers",
+      "works_count": 3200,
+      "cited_by_count": 180173,
+      "openalex_id": "https://openalex.org/S201762130"
+    },
+    {
+      "name": "Green Analytical Chemistry",
+      "issn": "2772-5774",
+      "h_index": 26,
+      "impact_factor": 6.57,
+      "publisher": "Elsevier",
+      "works_count": 324,
+      "cited_by_count": 2843,
+      "openalex_id": "https://openalex.org/S4210238349"
+    },
+    {
+      "name": "Energy Sustainable Development/Energy for sustainable development",
+      "issn": "0973-0826",
+      "h_index": 107,
+      "impact_factor": 6.52,
+      "publisher": "Elsevier",
+      "works_count": 2439,
+      "cited_by_count": 67631,
+      "openalex_id": "https://openalex.org/S186823356"
+    },
+    {
+      "name": "Sustainable Computing Informatics and Systems",
+      "issn": "2210-5379",
+      "h_index": 62,
+      "impact_factor": 6.46,
+      "publisher": "Elsevier",
+      "works_count": 1059,
+      "cited_by_count": 18921,
+      "openalex_id": "https://openalex.org/S2764953436"
+    },
+    {
+      "name": "Sustainable Environment Research",
+      "issn": "2468-2039",
+      "h_index": 62,
+      "impact_factor": 6.06,
+      "publisher": "Springer Nature",
+      "works_count": 407,
+      "cited_by_count": 14020,
+      "openalex_id": "https://openalex.org/S4210195307"
+    },
+    {
+      "name": "International Journal of Sustainable Energy",
+      "issn": "1478-6451",
+      "h_index": 49,
+      "impact_factor": 6.0,
+      "publisher": "Informa",
+      "works_count": 1040,
+      "cited_by_count": 15332,
+      "openalex_id": "https://openalex.org/S139968001"
+    },
+    {
+      "name": "Sustainable Energy Grids and Networks",
+      "issn": "2352-4677",
+      "h_index": 63,
+      "impact_factor": 5.95,
+      "publisher": "Elsevier",
+      "works_count": 1762,
+      "cited_by_count": 25340,
+      "openalex_id": "https://openalex.org/S2493549543"
+    },
+    {
+      "name": "Waste Management & Research The Journal for a Sustainable Circular Economy",
+      "issn": "0734-242X",
+      "h_index": 125,
+      "impact_factor": 5.38,
+      "publisher": "SAGE",
+      "works_count": 5370,
+      "cited_by_count": 117590,
+      "openalex_id": "https://openalex.org/S161551636"
+    },
+    {
+      "name": "IEEE Transactions on Sustainable Computing",
+      "issn": "2377-3782",
+      "h_index": 48,
+      "impact_factor": 5.1,
+      "publisher": "Institute of Electrical and Electronics Engineers",
+      "works_count": 547,
+      "cited_by_count": 9855,
+      "openalex_id": "https://openalex.org/S4210221417"
+    },
+    {
+      "name": "Frontiers in Sustainable Food Systems",
+      "issn": "2571-581X",
+      "h_index": 95,
+      "impact_factor": 4.39,
+      "publisher": "Frontiers Media SA",
+      "works_count": 4558,
+      "cited_by_count": 61698,
+      "openalex_id": "https://openalex.org/S4210212157"
+    },
+    {
+      "name": "Sustainable Energy & Fuels",
+      "issn": "2398-4902",
+      "h_index": 101,
+      "impact_factor": 4.31,
+      "publisher": "The Royal Society of Chemistry",
+      "works_count": 4351,
+      "cited_by_count": 81089,
+      "openalex_id": "https://openalex.org/S2764650158"
+    },
+    {
+      "name": "Advanced Sustainable Systems",
+      "issn": "2366-7486",
+      "h_index": 70,
+      "impact_factor": 4.09,
+      "publisher": "Wiley",
+      "works_count": 1980,
+      "cited_by_count": 26775,
+      "openalex_id": "https://openalex.org/S4210217307"
+    },
+    {
+      "name": "International Journal of Sustainable Engineering",
+      "issn": "1939-7038",
+      "h_index": 56,
+      "impact_factor": 3.95,
+      "publisher": "Informa",
+      "works_count": 883,
+      "cited_by_count": 16233,
+      "openalex_id": "https://openalex.org/S183821374"
+    },
+    {
+      "name": "Sustainable Water Resources Management",
+      "issn": "2363-5037",
+      "h_index": 52,
+      "impact_factor": 3.68,
+      "publisher": "Springer Nature",
+      "works_count": 1333,
+      "cited_by_count": 15419,
+      "openalex_id": "https://openalex.org/S2765043562"
+    },
+    {
+      "name": "Journal of Sustainable Finance & Investment",
+      "issn": "2043-0795",
+      "h_index": 59,
+      "impact_factor": 3.67,
+      "publisher": "Informa",
+      "works_count": 530,
+      "cited_by_count": 18020,
+      "openalex_id": "https://openalex.org/S4210206470"
+    },
+    {
+      "name": "Frontiers in Sustainable Cities",
+      "issn": "2624-9634",
+      "h_index": 37,
+      "impact_factor": 3.27,
+      "publisher": "Frontiers Media SA",
+      "works_count": 837,
+      "cited_by_count": 7973,
+      "openalex_id": "https://openalex.org/S4210235149"
+    },
+    {
+      "name": "International Journal of Sustainable Transportation",
+      "issn": "1556-8318",
+      "h_index": 80,
+      "impact_factor": 2.81,
+      "publisher": "Informa",
+      "works_count": 987,
+      "cited_by_count": 28711,
+      "openalex_id": "https://openalex.org/S62510030"
+    },
+    {
+      "name": "Journal of Sustainable Metallurgy",
+      "issn": "2199-3823",
+      "h_index": 53,
+      "impact_factor": 2.8,
+      "publisher": "Springer Nature",
+      "works_count": 1295,
+      "cited_by_count": 15705,
+      "openalex_id": "https://openalex.org/S2764674460"
+    },
+    {
+      "name": "Journal of Sustainable Cement-Based Materials",
+      "issn": "2165-0373",
+      "h_index": 46,
+      "impact_factor": 2.77,
+      "publisher": "Informa",
+      "works_count": 691,
+      "cited_by_count": 9526,
+      "openalex_id": "https://openalex.org/S2764549728"
+    },
+    {
+      "name": "Journal of Renewable and Sustainable Energy",
+      "issn": "1941-7012",
+      "h_index": 73,
+      "impact_factor": 2.57,
+      "publisher": "American Institute of Physics",
+      "works_count": 3359,
+      "cited_by_count": 49867,
+      "openalex_id": "https://openalex.org/S168707975"
+    },
+    {
+      "name": "Green and Sustainable Chemistry",
+      "issn": "2160-6951",
+      "h_index": 27,
+      "impact_factor": 2.44,
+      "publisher": "Scientific Research Publishing, Inc.",
+      "works_count": 248,
+      "cited_by_count": 4240,
+      "openalex_id": "https://openalex.org/S2764860325"
+    },
+    {
+      "name": "Biological Agriculture & Horticulture",
+      "issn": "0144-8765",
+      "h_index": 55,
+      "impact_factor": 2.32,
+      "publisher": "Informa",
+      "works_count": 1345,
+      "cited_by_count": 18698,
+      "openalex_id": "https://openalex.org/S14046259"
+    },
+    {
+      "name": "Lakes & Reservoirs Science Policy and Management for Sustainable Use",
+      "issn": "1320-5331",
+      "h_index": 50,
+      "impact_factor": 2.15,
+      "publisher": "Wiley",
+      "works_count": 1092,
+      "cited_by_count": 14664,
+      "openalex_id": "https://openalex.org/S105501033"
+    },
+    {
+      "name": "Irrigation and Drainage",
+      "issn": "1531-0353",
+      "h_index": 60,
+      "impact_factor": 1.89,
+      "publisher": "Wiley",
+      "works_count": 2755,
+      "cited_by_count": 29016,
+      "openalex_id": "https://openalex.org/S22216944"
+    },
+    {
+      "name": "Environment Science and Policy for Sustainable Development",
+      "issn": "0013-9157",
+      "h_index": 93,
+      "impact_factor": 1.46,
+      "publisher": "Informa",
+      "works_count": 4282,
+      "cited_by_count": 48636,
+      "openalex_id": "https://openalex.org/S75298943"
+    }
+  ]
+}

@@ -1,0 +1,1235 @@
+TOP 25 JOURNALS BY RESEARCH CATEGORY
+================================================================================
+Ranked by combined h-index and impact factor
+================================================================================
+
+
+BIOTECHNOLOGY AND BIOMEDICAL ENGINEERING
+--------------------------------------------------------------------------------
+
+ 1. AFRICAN JOURNAL OF BIOTECHNOLOGY
+    ISSN: 1684-5315
+    Publisher: Academic Journals
+    h-index: 135
+    Impact Factor: 82.25
+    Total Papers: 12,982
+    Total Citations: 225,408
+
+ 2. Nature Biotechnology
+    ISSN: 1087-0156
+    Publisher: Springer Nature
+    h-index: 624
+    Impact Factor: 23.56
+    Total Papers: 19,149
+    Total Citations: 1,809,501
+
+ 3. Biotechnology Advances
+    ISSN: 0734-9750
+    Publisher: Elsevier
+    h-index: 292
+    Impact Factor: 14.66
+    Total Papers: 17,255
+    Total Citations: 385,860
+
+ 4. Trends in biotechnology
+    ISSN: 0167-7799
+    Publisher: Elsevier
+    h-index: 309
+    Impact Factor: 7.88
+    Total Papers: 6,159
+    Total Citations: 443,641
+
+ 5. Current Opinion in Biotechnology
+    ISSN: 0958-1669
+    Publisher: Elsevier
+    h-index: 281
+    Impact Factor: 9.42
+    Total Papers: 6,020
+    Total Citations: 394,069
+
+ 6. Applied Microbiology and Biotechnology
+    ISSN: 0175-7598
+    Publisher: Springer Nature
+    h-index: 324
+    Impact Factor: 6.65
+    Total Papers: 21,571
+    Total Citations: 1,053,940
+
+ 7. Critical Reviews in Biotechnology
+    ISSN: 0738-8551
+    Publisher: Informa
+    h-index: 161
+    Impact Factor: 11.09
+    Total Papers: 1,357
+    Total Citations: 106,695
+
+ 8. Biotechnology and Bioengineering
+    ISSN: 0006-3592
+    Publisher: Wiley
+    h-index: 267
+    Impact Factor: 4.28
+    Total Papers: 19,688
+    Total Citations: 801,982
+
+ 9. Plant Biotechnology Journal
+    ISSN: 1467-7644
+    Publisher: Wiley
+    h-index: 196
+    Impact Factor: 7.78
+    Total Papers: 4,027
+    Total Citations: 228,218
+
+10. Journal of Biotechnology
+    ISSN: 0168-1656
+    Publisher: Elsevier
+    h-index: 207
+    Impact Factor: 3.84
+    Total Papers: 15,732
+    Total Citations: 381,431
+
+11. Frontiers in Bioengineering and Biotechnology
+    ISSN: 2296-4185
+    Publisher: Frontiers Media SA
+    h-index: 156
+    Impact Factor: 6.64
+    Total Papers: 13,776
+    Total Citations: 231,843
+
+12. Journal of Animal Science and Biotechnology/Journal of animal science and biotechnology
+    ISSN: 1674-9782
+    Publisher: Springer Nature
+    h-index: 102
+    Impact Factor: 9.0
+    Total Papers: 1,452
+    Total Citations: 51,783
+
+13. Applied Biochemistry and Biotechnology
+    ISSN: 0273-2289
+    Publisher: Springer Nature
+    h-index: 166
+    Impact Factor: 4.76
+    Total Papers: 11,119
+    Total Citations: 283,429
+
+14. Journal of Industrial Microbiology & Biotechnology
+    ISSN: 1367-5435
+    Publisher: Oxford University Press
+    h-index: 161
+    Impact Factor: 4.6
+    Total Papers: 4,741
+    Total Citations: 190,186
+
+15. Microbial Biotechnology
+    ISSN: 1751-7907
+    Publisher: Wiley
+    h-index: 130
+    Impact Factor: 6.27
+    Total Papers: 2,692
+    Total Citations: 87,858
+
+16. World Journal of Microbiology and Biotechnology
+    ISSN: 0959-3993
+    Publisher: Springer Nature
+    h-index: 148
+    Impact Factor: 5.05
+    Total Papers: 8,369
+    Total Citations: 227,400
+
+17. Biotechnology Progress
+    ISSN: 1520-6033
+    Publisher: Wiley
+    h-index: 167
+    Impact Factor: 2.89
+    Total Papers: 6,515
+    Total Citations: 228,506
+
+18. Computational and Structural Biotechnology Journal
+    ISSN: 2001-0370
+    Publisher: Elsevier
+    h-index: 119
+    Impact Factor: 5.59
+    Total Papers: 3,563
+    Total Citations: 91,748
+
+19. Artificial Cells Nanomedicine and Biotechnology
+    ISSN: 2169-1401
+    Publisher: Informa
+    h-index: 107
+    Impact Factor: 6.26
+    Total Papers: 2,268
+    Total Citations: 74,412
+
+20. Journal of Chemical Technology & Biotechnology
+    ISSN: 0268-2575
+    Publisher: Wiley
+    h-index: 160
+    Impact Factor: 3.04
+    Total Papers: 10,983
+    Total Citations: 250,668
+
+21. Biotechnology Reports
+    ISSN: 2215-017X
+    Publisher: Elsevier
+    h-index: 88
+    Impact Factor: 7.28
+    Total Papers: 921
+    Total Citations: 38,767
+
+22. Biotechnology Journal
+    ISSN: 1860-6768
+    Publisher: Wiley
+    h-index: 136
+    Impact Factor: 3.72
+    Total Papers: 4,948
+    Total Citations: 111,182
+
+23. Biocatalysis and Agricultural Biotechnology
+    ISSN: 1878-8181
+    Publisher: Elsevier
+    h-index: 98
+    Impact Factor: 5.79
+    Total Papers: 3,919
+    Total Citations: 77,535
+
+24. Biotechnology Letters
+    ISSN: 0141-5492
+    Publisher: Springer Nature
+    h-index: 149
+    Impact Factor: 2.66
+    Total Papers: 11,297
+    Total Citations: 287,048
+
+25. BMC Biotechnology
+    ISSN: 1472-6750
+    Publisher: Springer Nature
+    h-index: 115
+    Impact Factor: 4.37
+    Total Papers: 1,964
+    Total Citations: 74,123
+
+
+
+ELECTROCHEMICAL ENGINEERING
+--------------------------------------------------------------------------------
+
+ 1. Electrochemical Energy Reviews
+    ISSN: 2520-8136
+    Publisher: Springer Nature
+    h-index: 98
+    Impact Factor: 59.38
+    Total Papers: 233
+    Total Citations: 27,066
+
+ 2. Journal of The Electrochemical Society
+    ISSN: 0013-4651
+    Publisher: The Electrochemical Society
+    h-index: 412
+    Impact Factor: 4.0
+    Total Papers: 55,218
+    Total Citations: 2,110,660
+
+ 3. Electrochemistry Communications
+    ISSN: 1388-2481
+    Publisher: Elsevier
+    h-index: 222
+    Impact Factor: 4.51
+    Total Papers: 8,202
+    Total Citations: 382,537
+
+ 4. ECS Sensors Plus
+    ISSN: 2754-2726
+    Publisher: The Electrochemical Society
+    h-index: 35
+    Impact Factor: 12.25
+    Total Papers: 142
+    Total Citations: 4,269
+
+ 5. Current Opinion in Electrochemistry
+    ISSN: 2451-9103
+    Publisher: Elsevier
+    h-index: 94
+    Impact Factor: 8.38
+    Total Papers: 1,612
+    Total Citations: 47,987
+
+ 6. Journal of Applied Electrochemistry
+    ISSN: 0021-891X
+    Publisher: Springer Nature
+    h-index: 156
+    Impact Factor: 4.61
+    Total Papers: 8,141
+    Total Citations: 214,822
+
+ 7. International Journal of Electrochemical Science
+    ISSN: 1452-3981
+    Publisher: ESG
+    h-index: 100
+    Impact Factor: 5.34
+    Total Papers: 12,249
+    Total Citations: 162,648
+
+ 8. Journal of Solid State Electrochemistry
+    ISSN: 1432-8488
+    Publisher: Springer Nature
+    h-index: 106
+    Impact Factor: 3.57
+    Total Papers: 7,339
+    Total Citations: 143,410
+
+ 9. ECS Journal of Solid State Science and Technology
+    ISSN: 2162-8769
+    Publisher: The Electrochemical Society
+    h-index: 81
+    Impact Factor: 3.31
+    Total Papers: 5,136
+    Total Citations: 57,759
+
+10. Frontiers in Batteries and Electrochemistry
+    ISSN: 2813-4974
+    Publisher: Frontiers Media SA
+    h-index: 8
+    Impact Factor: 6.0
+    Total Papers: 26
+    Total Citations: 183
+
+11. ECS Transactions
+    ISSN: 1938-5862
+    Publisher: The Electrochemical Society
+    h-index: 69
+    Impact Factor: 1.22
+    Total Papers: 25,452
+    Total Citations: 109,191
+
+12. Journal of Electrochemical Energy Conversion and Storage
+    ISSN: 2381-6872
+    Publisher: ASME International
+    h-index: 30
+    Impact Factor: 3.05
+    Total Papers: 565
+    Total Citations: 5,724
+
+13. Electrochemistry
+    ISSN: 1344-3542
+    Publisher: The Electrochemical Society of Japan
+    h-index: 53
+    Impact Factor: 1.45
+    Total Papers: 5,142
+    Total Citations: 27,056
+
+14. Journal of Electrochemical Science and Technology
+    ISSN: 2093-8551
+    Publisher: The Korean Electrochemical Society - English Journal
+    h-index: 27
+    Impact Factor: 2.83
+    Total Papers: 827
+    Total Citations: 6,705
+
+15. Russian Journal of Electrochemistry
+    ISSN: 1023-1935
+    Publisher: Springer Nature
+    h-index: 52
+    Impact Factor: 1.22
+    Total Papers: 4,610
+    Total Citations: 31,556
+
+16. Journal of Electrochemical Science and Engineering
+    ISSN: 1847-9286
+    Publisher: International Association of Physical Chemists
+    h-index: 25
+    Impact Factor: 2.83
+    Total Papers: 567
+    Total Citations: 3,812
+
+17. International Journal of Electrochemistry
+    ISSN: 2090-3529
+    Publisher: Hindawi Limited
+    h-index: 35
+    Impact Factor: 2.0
+    Total Papers: 293
+    Total Citations: 5,544
+
+18. Electrochemical Materials and Technologies
+    ISSN: 2949-0561
+    Publisher: Ural Federal University
+    h-index: 9
+    Impact Factor: 3.31
+    Total Papers: 58
+    Total Citations: 291
+
+19. The Electrochemical Society Interface
+    ISSN: 1064-8208
+    Publisher: The Electrochemical Society
+    h-index: 55
+    Impact Factor: 0.38
+    Total Papers: 2,705
+    Total Citations: 16,054
+
+20. Electrochemical Science Advances
+    ISSN: 2698-5977
+    Publisher: Wiley
+    h-index: 26
+    Impact Factor: 2.01
+    Total Papers: 349
+    Total Citations: 3,227
+
+21. ECS Advances
+    ISSN: 2754-2734
+    Publisher: The Electrochemical Society
+    h-index: 11
+    Impact Factor: 2.8
+    Total Papers: 157
+    Total Citations: 513
+
+22. Surface Engineering and Applied Electrochemistry
+    ISSN: 1068-3755
+    Publisher: Springer Nature
+    h-index: 31
+    Impact Factor: 0.85
+    Total Papers: 1,636
+    Total Citations: 8,031
+
+23. Discover Electrochemistry.
+    ISSN: 3005-1215
+    Publisher: Singapore
+    h-index: 6
+    Impact Factor: 2.1
+    Total Papers: 60
+    Total Citations: 126
+
+24. Journal of New Materials for Electrochemical Systems
+    ISSN: 1480-2422
+    Publisher: Journal of New Materials for Electrochemical Systems
+    h-index: 22
+    Impact Factor: 1.14
+    Total Papers: 736
+    Total Citations: 3,453
+
+25. ACS electrochemistry.
+    ISSN: 2997-0571
+    Publisher: American Chemical Society
+    h-index: 6
+    Impact Factor: 1.11
+    Total Papers: 258
+    Total Citations: 286
+
+
+
+NANOTECHNOLOGY FOR ADVANCED MATERIALS
+--------------------------------------------------------------------------------
+
+ 1. Nano-Micro Letters
+    ISSN: 2150-5551
+    Publisher: Springer Nature
+    h-index: 182
+    Impact Factor: 40.37
+    Total Papers: 2,241
+    Total Citations: 158,896
+
+ 2. ACS Nano
+    ISSN: 1936-0851
+    Publisher: American Chemical Society
+    h-index: 544
+    Impact Factor: 16.82
+    Total Papers: 27,241
+    Total Citations: 2,505,713
+
+ 3. Nano Letters
+    ISSN: 1530-6984
+    Publisher: American Chemical Society
+    h-index: 594
+    Impact Factor: 9.18
+    Total Papers: 25,980
+    Total Citations: 2,635,770
+
+ 4. Nano Energy
+    ISSN: 2211-2855
+    Publisher: Elsevier
+    h-index: 308
+    Impact Factor: 18.96
+    Total Papers: 10,892
+    Total Citations: 839,761
+
+ 5. Small
+    ISSN: 1613-6810
+    Publisher: Wiley
+    h-index: 338
+    Impact Factor: 11.02
+    Total Papers: 30,111
+    Total Citations: 1,148,015
+
+ 6. Nano Today
+    ISSN: 1748-0132
+    Publisher: Elsevier
+    h-index: 208
+    Impact Factor: 11.36
+    Total Papers: 3,196
+    Total Citations: 172,005
+
+ 7. Nano Research
+    ISSN: 1998-0000
+    Publisher: Springer Nature
+    h-index: 188
+    Impact Factor: 10.5
+    Total Papers: 8,406
+    Total Citations: 328,945
+
+ 8. Nano Convergence
+    ISSN: 2196-5404
+    Publisher: Springer Nature
+    h-index: 70
+    Impact Factor: 14.15
+    Total Papers: 515
+    Total Citations: 21,067
+
+ 9. Nano Research Energy
+    ISSN: 2790-8119
+    Publisher: Tsinghua University Press
+    h-index: 47
+    Impact Factor: 14.69
+    Total Papers: 203
+    Total Citations: 7,328
+
+10. ACS Applied Nano Materials
+    ISSN: 2574-0970
+    Publisher: American Chemical Society
+    h-index: 115
+    Impact Factor: 6.88
+    Total Papers: 13,418
+    Total Citations: 219,258
+
+11. Nano TransMed
+    ISSN: 2790-6760
+    Publisher: Elsevier 
+    h-index: 22
+    Impact Factor: 12.07
+    Total Papers: 97
+    Total Citations: 1,219
+
+12. Environmental Science Nano
+    ISSN: 2051-8153
+    Publisher: The Royal Society of Chemistry
+    h-index: 123
+    Impact Factor: 5.02
+    Total Papers: 3,412
+    Total Citations: 84,270
+
+13. Materials Today Nano
+    ISSN: 2588-8420
+    Publisher: Elsevier
+    h-index: 61
+    Impact Factor: 8.73
+    Total Papers: 703
+    Total Citations: 16,079
+
+14. Nano Materials Science
+    ISSN: 2096-6482
+    Publisher: Elsevier
+    h-index: 55
+    Impact Factor: 9.06
+    Total Papers: 444
+    Total Citations: 12,761
+
+15. Nano-Structures & Nano-Objects
+    ISSN: 2352-507X
+    Publisher: Elsevier
+    h-index: 67
+    Impact Factor: 7.9
+    Total Papers: 1,270
+    Total Citations: 22,833
+
+16. Plant Nano Biology
+    ISSN: 2773-1111
+    Publisher: None
+    h-index: 25
+    Impact Factor: 9.03
+    Total Papers: 208
+    Total Citations: 2,193
+
+17. International Journal of Smart and Nano Materials
+    ISSN: 1947-5411
+    Publisher: Informa
+    h-index: 43
+    Impact Factor: 6.78
+    Total Papers: 389
+    Total Citations: 7,865
+
+18. Nano Biomedicine and Engineering
+    ISSN: 2150-5578
+    Publisher: OAhost
+    h-index: 34
+    Impact Factor: 7.2
+    Total Papers: 609
+    Total Citations: 6,559
+
+19. International nano letters.
+    ISSN: 2008-9295
+    Publisher: Springer Nature
+    h-index: 68
+    Impact Factor: 5.1
+    Total Papers: 414
+    Total Citations: 20,117
+
+20. Discover Nano
+    ISSN: 2731-9229
+    Publisher: Springer (Biomed Central Ltd.)
+    h-index: 27
+    Impact Factor: 7.13
+    Total Papers: 579
+    Total Citations: 4,106
+
+21. Nano Communication Networks
+    ISSN: 1878-7789
+    Publisher: Elsevier
+    h-index: 51
+    Impact Factor: 4.86
+    Total Papers: 453
+    Total Citations: 9,330
+
+22. Micro and Nano Systems Letters
+    ISSN: 2213-9621
+    Publisher: Springer Nature
+    h-index: 29
+    Impact Factor: 5.54
+    Total Papers: 236
+    Total Citations: 3,680
+
+23. Micro and Nano Engineering
+    ISSN: 2590-0072
+    Publisher: Elsevier
+    h-index: 23
+    Impact Factor: 5.46
+    Total Papers: 318
+    Total Citations: 3,310
+
+24. Nano Futures
+    ISSN: 2399-1984
+    Publisher: None
+    h-index: 27
+    Impact Factor: 5.02
+    Total Papers: 231
+    Total Citations: 3,069
+
+25. Nano Trends
+    ISSN: 2666-9781
+    Publisher: Elsevier 
+    h-index: 14
+    Impact Factor: 5.73
+    Total Papers: 153
+    Total Citations: 876
+
+
+
+PROCESS SYSTEMS ENGINEERING
+--------------------------------------------------------------------------------
+
+ 1. Chemical Engineering Journal
+    ISSN: 1385-8947
+    Publisher: Elsevier
+    h-index: 374
+    Impact Factor: 12.2
+    Total Papers: 68,040
+    Total Citations: 2,942,632
+
+ 2. Chemical Engineering Science
+    ISSN: 0009-2509
+    Publisher: Elsevier
+    h-index: 290
+    Impact Factor: 5.08
+    Total Papers: 32,538
+    Total Citations: 1,129,920
+
+ 3. Annual Review of Chemical and Biomolecular Engineering
+    ISSN: 1947-5438
+    Publisher: Annual Reviews
+    h-index: 94
+    Impact Factor: 16.37
+    Total Papers: 361
+    Total Citations: 30,795
+
+ 4. ACS Sustainable Chemistry & Engineering
+    ISSN: 2168-0485
+    Publisher: American Chemical Society
+    h-index: 217
+    Impact Factor: 8.4
+    Total Papers: 18,125
+    Total Citations: 695,346
+
+ 5. Process Safety and Environmental Protection
+    ISSN: 0263-8762
+    Publisher: Elsevier
+    h-index: 178
+    Impact Factor: 7.92
+    Total Papers: 19,181
+    Total Citations: 468,112
+
+ 6. Journal of environmental chemical engineering
+    ISSN: 2213-2929
+    Publisher: Elsevier
+    h-index: 176
+    Impact Factor: 7.08
+    Total Papers: 20,048
+    Total Citations: 448,051
+
+ 7. Computers & Chemical Engineering
+    ISSN: 0098-1354
+    Publisher: Elsevier
+    h-index: 197
+    Impact Factor: 5.26
+    Total Papers: 10,998
+    Total Citations: 341,723
+
+ 8. Journal of Water Process Engineering
+    ISSN: 2214-7144
+    Publisher: Elsevier
+    h-index: 129
+    Impact Factor: 7.16
+    Total Papers: 8,979
+    Total Citations: 165,376
+
+ 9. Journal of Chemical & Engineering Data
+    ISSN: 0021-9568
+    Publisher: American Chemical Society
+    h-index: 193
+    Impact Factor: 2.66
+    Total Papers: 19,948
+    Total Citations: 488,997
+
+10. ACS Biomaterials Science & Engineering
+    ISSN: 2373-9878
+    Publisher: American Chemical Society
+    h-index: 121
+    Impact Factor: 6.42
+    Total Papers: 5,166
+    Total Citations: 129,820
+
+11. Current Opinion in Chemical Engineering
+    ISSN: 2211-3398
+    Publisher: Elsevier
+    h-index: 91
+    Impact Factor: 7.93
+    Total Papers: 1,143
+    Total Citations: 39,420
+
+12. Chemical Engineering and Processing - Process Intensification
+    ISSN: 0255-2701
+    Publisher: Elsevier
+    h-index: 146
+    Impact Factor: 4.5
+    Total Papers: 6,854
+    Total Citations: 186,279
+
+13. Case Studies in Chemical and Environmental Engineering
+    ISSN: 2666-0164
+    Publisher: Elsevier
+    h-index: 61
+    Impact Factor: 9.34
+    Total Papers: 1,289
+    Total Citations: 20,415
+
+14. Chemical Engineering Journal Advances
+    ISSN: 2666-8211
+    Publisher: Elsevier
+    h-index: 55
+    Impact Factor: 6.9
+    Total Papers: 919
+    Total Citations: 15,744
+
+15. The Canadian Journal of Chemical Engineering
+    ISSN: 0008-4034
+    Publisher: Wiley
+    h-index: 129
+    Impact Factor: 2.39
+    Total Papers: 12,073
+    Total Citations: 182,350
+
+16. Green Chemical Engineering
+    ISSN: 2096-9147
+    Publisher: Elsevier
+    h-index: 38
+    Impact Factor: 7.82
+    Total Papers: 359
+    Total Citations: 5,753
+
+17. Korean Journal of Chemical Engineering
+    ISSN: 0256-1115
+    Publisher: Springer Nature
+    h-index: 90
+    Impact Factor: 4.56
+    Total Papers: 11,523
+    Total Citations: 116,553
+
+18. Frontiers of Chemical Science and Engineering
+    ISSN: 2095-0179
+    Publisher: Springer Nature
+    h-index: 58
+    Impact Factor: 6.11
+    Total Papers: 1,371
+    Total Citations: 23,540
+
+19. South African Journal of Chemical Engineering
+    ISSN: 1026-9185
+    Publisher: Elsevier
+    h-index: 51
+    Impact Factor: 6.51
+    Total Papers: 833
+    Total Citations: 12,593
+
+20. ACS ES&T Engineering
+    ISSN: 2690-0645
+    Publisher: American Chemical Society
+    h-index: 55
+    Impact Factor: 5.93
+    Total Papers: 1,249
+    Total Citations: 17,000
+
+21. Chinese Journal of Chemical Engineering
+    ISSN: 1004-9541
+    Publisher: Elsevier
+    h-index: 91
+    Impact Factor: 3.3
+    Total Papers: 5,358
+    Total Citations: 88,765
+
+22. Reviews in Chemical Engineering
+    ISSN: 0167-8299
+    Publisher: De Gruyter
+    h-index: 85
+    Impact Factor: 3.6
+    Total Papers: 856
+    Total Citations: 25,435
+
+23. Chemical Engineering & Technology
+    ISSN: 0930-7516
+    Publisher: Wiley
+    h-index: 107
+    Impact Factor: 2.17
+    Total Papers: 9,110
+    Total Citations: 120,344
+
+24. Journal of Food Process Engineering
+    ISSN: 0145-8876
+    Publisher: Wiley
+    h-index: 79
+    Impact Factor: 3.56
+    Total Papers: 4,465
+    Total Citations: 67,507
+
+25. Chemical Engineering Communications
+    ISSN: 0098-6445
+    Publisher: Informa
+    h-index: 95
+    Impact Factor: 2.31
+    Total Papers: 6,354
+    Total Citations: 89,953
+
+
+
+SOFT MATTER & POLYMER ENGINEERING
+--------------------------------------------------------------------------------
+
+ 1. Progress in Polymer Science
+    ISSN: 0079-6700
+    Publisher: Elsevier
+    h-index: 367
+    Impact Factor: 27.71
+    Total Papers: 2,060
+    Total Citations: 481,057
+
+ 2. Carbohydrate Polymers
+    ISSN: 0144-8617
+    Publisher: Elsevier
+    h-index: 329
+    Impact Factor: 13.38
+    Total Papers: 26,035
+    Total Citations: 1,454,572
+
+ 3. Polymer
+    ISSN: 0032-3861
+    Publisher: Elsevier
+    h-index: 335
+    Impact Factor: 4.66
+    Total Papers: 40,575
+    Total Citations: 1,564,794
+
+ 4. Polymer Degradation and Stability
+    ISSN: 0141-3910
+    Publisher: Elsevier
+    h-index: 215
+    Impact Factor: 7.48
+    Total Papers: 11,483
+    Total Citations: 470,089
+
+ 5. European Polymer Journal
+    ISSN: 0014-3057
+    Publisher: Elsevier
+    h-index: 201
+    Impact Factor: 7.61
+    Total Papers: 19,245
+    Total Citations: 508,111
+
+ 6. Polymers
+    ISSN: 2073-4360
+    Publisher: MDPI AG
+    h-index: 205
+    Impact Factor: 7.34
+    Total Papers: 30,027
+    Total Citations: 627,757
+
+ 7. Advanced Industrial and Engineering Polymer Research
+    ISSN: 2542-5048
+    Publisher: Elsevier
+    h-index: 46
+    Impact Factor: 16.83
+    Total Papers: 264
+    Total Citations: 9,329
+
+ 8. Journal of Applied Polymer Science
+    ISSN: 0021-8995
+    Publisher: Wiley
+    h-index: 240
+    Impact Factor: 3.06
+    Total Papers: 67,577
+    Total Citations: 1,437,691
+
+ 9. Polymer Reviews
+    ISSN: 1558-3716
+    Publisher: Informa
+    h-index: 109
+    Impact Factor: 10.85
+    Total Papers: 431
+    Total Citations: 40,319
+
+10. Polymer Testing
+    ISSN: 0142-9418
+    Publisher: Elsevier
+    h-index: 143
+    Impact Factor: 7.21
+    Total Papers: 7,725
+    Total Citations: 206,258
+
+11. Polymer Engineering and Science
+    ISSN: 0032-3888
+    Publisher: Wiley
+    h-index: 179
+    Impact Factor: 3.7
+    Total Papers: 14,811
+    Total Citations: 347,278
+
+12. Polymer Chemistry
+    ISSN: 1759-9954
+    Publisher: The Royal Society of Chemistry
+    h-index: 164
+    Impact Factor: 3.68
+    Total Papers: 11,880
+    Total Citations: 308,555
+
+13. Reactive and Functional Polymers
+    ISSN: 1381-5148
+    Publisher: Elsevier
+    h-index: 124
+    Impact Factor: 5.38
+    Total Papers: 5,661
+    Total Citations: 143,643
+
+14. Polymer Composites
+    ISSN: 0272-8397
+    Publisher: Wiley
+    h-index: 129
+    Impact Factor: 4.68
+    Total Papers: 12,197
+    Total Citations: 211,908
+
+15. Journal of Polymers and the Environment
+    ISSN: 1566-2543
+    Publisher: Springer Nature
+    h-index: 82
+    Impact Factor: 7.27
+    Total Papers: 2,649
+    Total Citations: 53,246
+
+16. Colloid & Polymer Science
+    ISSN: 0303-402X
+    Publisher: Springer Nature
+    h-index: 145
+    Impact Factor: 3.27
+    Total Papers: 25,896
+    Total Citations: 263,950
+
+17. Polymers for Advanced Technologies
+    ISSN: 1042-7147
+    Publisher: Wiley
+    h-index: 120
+    Impact Factor: 4.04
+    Total Papers: 7,946
+    Total Citations: 142,568
+
+18. Journal of Inorganic and Organometallic Polymers and Materials
+    ISSN: 1574-1443
+    Publisher: Springer Nature
+    h-index: 77
+    Impact Factor: 6.33
+    Total Papers: 5,096
+    Total Citations: 69,734
+
+19. Journal of Biomaterials Science Polymer Edition
+    ISSN: 0920-5063
+    Publisher: Informa
+    h-index: 126
+    Impact Factor: 3.24
+    Total Papers: 3,888
+    Total Citations: 113,945
+
+20. Polymer Bulletin
+    ISSN: 0170-0839
+    Publisher: Springer Nature
+    h-index: 104
+    Impact Factor: 4.41
+    Total Papers: 12,947
+    Total Citations: 174,288
+
+21. Polymer International
+    ISSN: 0959-8103
+    Publisher: Wiley
+    h-index: 133
+    Impact Factor: 2.66
+    Total Papers: 8,709
+    Total Citations: 166,442
+
+22. Polymer Journal
+    ISSN: 0032-3896
+    Publisher: Springer Nature
+    h-index: 116
+    Impact Factor: 3.45
+    Total Papers: 8,225
+    Total Citations: 150,739
+
+23. Macromolecular Chemistry and Physics
+    ISSN: 1022-1352
+    Publisher: Wiley
+    h-index: 135
+    Impact Factor: 2.19
+    Total Papers: 11,996
+    Total Citations: 206,541
+
+24. International Journal of Polymer Science
+    ISSN: 1687-9422
+    Publisher: Hindawi Limited
+    h-index: 75
+    Impact Factor: 5.53
+    Total Papers: 1,337
+    Total Citations: 34,172
+
+25. ACS Applied Polymer Materials
+    ISSN: 2637-6105
+    Publisher: American Chemical Society
+    h-index: 77
+    Impact Factor: 5.3
+    Total Papers: 6,591
+    Total Citations: 79,854
+
+
+
+SUSTAINABLE REACTION ENGINEERING
+--------------------------------------------------------------------------------
+
+ 1. Renewable and Sustainable Energy Reviews
+    ISSN: 1364-0321
+    Publisher: Elsevier
+    h-index: 521
+    Impact Factor: 19.28
+    Total Papers: 16,202
+    Total Citations: 1,869,189
+
+ 2. Green Chemistry
+    ISSN: 1463-9262
+    Publisher: The Royal Society of Chemistry
+    h-index: 309
+    Impact Factor: 9.76
+    Total Papers: 14,658
+    Total Citations: 790,816
+
+ 3. Sustainable Cities and Society
+    ISSN: 2210-6707
+    Publisher: Elsevier
+    h-index: 192
+    Impact Factor: 14.84
+    Total Papers: 6,825
+    Total Citations: 305,978
+
+ 4. SusMat
+    ISSN: 2692-4552
+    Publisher: Wiley
+    h-index: 59
+    Impact Factor: 18.78
+    Total Papers: 330
+    Total Citations: 10,514
+
+ 5. ACS Sustainable Chemistry & Engineering
+    ISSN: 2168-0485
+    Publisher: American Chemical Society
+    h-index: 217
+    Impact Factor: 8.4
+    Total Papers: 18,125
+    Total Citations: 695,346
+
+ 6. Agronomy for Sustainable Development
+    ISSN: 1773-0155
+    Publisher: Springer Nature
+    h-index: 177
+    Impact Factor: 9.76
+    Total Papers: 1,372
+    Total Citations: 115,112
+
+ 7. Journal of Sustainable Tourism
+    ISSN: 0966-9582
+    Publisher: Informa
+    h-index: 188
+    Impact Factor: 8.92
+    Total Papers: 2,441
+    Total Citations: 160,150
+
+ 8. Sustainable Production and Consumption
+    ISSN: 2352-5509
+    Publisher: Elsevier
+    h-index: 123
+    Impact Factor: 11.98
+    Total Papers: 2,108
+    Total Citations: 81,457
+
+ 9. IEEE Transactions on Sustainable Energy
+    ISSN: 1949-3029
+    Publisher: Institute of Electrical and Electronics Engineers
+    h-index: 191
+    Impact Factor: 7.81
+    Total Papers: 3,200
+    Total Citations: 180,173
+
+10. Current Opinion in Green and Sustainable Chemistry
+    ISSN: 2452-2236
+    Publisher: Elsevier
+    h-index: 91
+    Impact Factor: 12.18
+    Total Papers: 1,061
+    Total Citations: 35,992
+
+11. Sustainable Development
+    ISSN: 0968-0802
+    Publisher: Wiley
+    h-index: 136
+    Impact Factor: 8.7
+    Total Papers: 3,115
+    Total Citations: 93,507
+
+12. Sustainable Energy Technologies and Assessments
+    ISSN: 2213-1388
+    Publisher: Elsevier
+    h-index: 113
+    Impact Factor: 9.07
+    Total Papers: 4,294
+    Total Citations: 108,626
+
+13. International Journal of Sustainable Development & World Ecology
+    ISSN: 1350-4509
+    Publisher: Informa
+    h-index: 82
+    Impact Factor: 10.68
+    Total Papers: 1,641
+    Total Citations: 43,265
+
+14. Groundwater for Sustainable Development
+    ISSN: 2352-801X
+    Publisher: Elsevier
+    h-index: 83
+    Impact Factor: 8.38
+    Total Papers: 1,618
+    Total Citations: 36,849
+
+15. Sustainable materials and technologies
+    ISSN: 2214-9929
+    Publisher: Elsevier
+    h-index: 82
+    Impact Factor: 8.04
+    Total Papers: 1,720
+    Total Citations: 38,345
+
+16. Energy Sustainable Development/Energy for sustainable development
+    ISSN: 0973-0826
+    Publisher: Elsevier
+    h-index: 107
+    Impact Factor: 6.52
+    Total Papers: 2,439
+    Total Citations: 67,631
+
+17. Waste Management & Research The Journal for a Sustainable Circular Economy
+    ISSN: 0734-242X
+    Publisher: SAGE
+    h-index: 125
+    Impact Factor: 5.38
+    Total Papers: 5,370
+    Total Citations: 117,590
+
+18. Sustainable Chemistry and Pharmacy
+    ISSN: 2352-5541
+    Publisher: Elsevier
+    h-index: 72
+    Impact Factor: 8.32
+    Total Papers: 2,000
+    Total Citations: 34,321
+
+19. Green Chemistry Letters and Reviews
+    ISSN: 1751-7192
+    Publisher: Informa
+    h-index: 63
+    Impact Factor: 7.39
+    Total Papers: 907
+    Total Citations: 22,340
+
+20. Sustainable Energy & Fuels
+    ISSN: 2398-4902
+    Publisher: The Royal Society of Chemistry
+    h-index: 101
+    Impact Factor: 4.31
+    Total Papers: 4,351
+    Total Citations: 81,089
+
+21. Sustainable Computing Informatics and Systems
+    ISSN: 2210-5379
+    Publisher: Elsevier
+    h-index: 62
+    Impact Factor: 6.46
+    Total Papers: 1,059
+    Total Citations: 18,921
+
+22. Frontiers in Sustainable Food Systems
+    ISSN: 2571-581X
+    Publisher: Frontiers Media SA
+    h-index: 95
+    Impact Factor: 4.39
+    Total Papers: 4,558
+    Total Citations: 61,698
+
+23. Sustainable Environment Research
+    ISSN: 2468-2039
+    Publisher: Springer Nature
+    h-index: 62
+    Impact Factor: 6.06
+    Total Papers: 407
+    Total Citations: 14,020
+
+24. Current Research in Green and Sustainable Chemistry
+    ISSN: 2666-0865
+    Publisher: Elsevier
+    h-index: 56
+    Impact Factor: 6.4
+    Total Papers: 485
+    Total Citations: 12,153
+
+25. Sustainable Energy Grids and Networks
+    ISSN: 2352-4677
+    Publisher: Elsevier
+    h-index: 63
+    Impact Factor: 5.95
+    Total Papers: 1,762
+    Total Citations: 25,340
+
+
