@@ -23,33 +23,46 @@ def _build_scimago_index(f='scimagojr 2024.csv') -> dict:
 _SCIMAGO_INDEX = _build_scimago_index()
 
 
-def _build_clarivate_index(f='curated_journals_by_category.json') -> dict:
-    """Build a dict mapping normalised journal name → clarivate_if and openalex_id."""
+def _build_jcr_indexes(f='jcr_if.csv') -> tuple[dict, dict]:
+    """Return (issn_index, name_index) from jcr_if.csv.
+    issn_index: bare ISSN (no hyphens) → jif_2024 (both print and eISSN indexed)
+    name_index: uppercase journal name   → jif_2024
+    """
     try:
-        with open(f, encoding='utf-8') as fh:
-            db = json.load(fh)
+        df = pd.read_csv(f, dtype={'issn': str, 'eissn': str})
     except FileNotFoundError:
-        return {}
-    index = {}
-    for journals in db.values():
-        for j in journals:
-            key = j['name'].lower().strip()
-            index[key] = {
-                'clarivate_if': j.get('clarivate_if'),
-                'openalex_id': j.get('openalex_id', ''),
-            }
-    return index
+        return {}, {}
+    issn_idx, name_idx = {}, {}
+    for _, row in df.iterrows():
+        jif = row.get('jif_2024')
+        if pd.isna(jif):
+            continue
+        jif = float(jif)
+        for col in ('issn', 'eissn'):
+            v = str(row.get(col, '')).strip()
+            if v and v.lower() != 'nan':
+                issn_idx[v] = jif
+        name = str(row.get('journal_name', '')).strip()
+        if name:
+            name_idx[name.upper()] = jif
+    return issn_idx, name_idx
 
-_CLARIVATE_INDEX = _build_clarivate_index()
+_JCR_ISSN_INDEX, _JCR_NAME_INDEX = _build_jcr_indexes()
 
 
-def _clarivate_lookup(openalex_id: str, journal_name: str) -> float | None:
-    """Return clarivate_if for the journal, or None if not in the curated DB."""
-    if openalex_id:
-        for entry in _CLARIVATE_INDEX.values():
-            if entry['openalex_id'] == openalex_id:
-                return entry['clarivate_if']
-    return _CLARIVATE_INDEX.get(journal_name.lower().strip(), {}).get('clarivate_if')
+def _clarivate_lookup(issn: str, journal_name: str) -> float | None:
+    """Return JIF 2024 for the journal. Tries ISSN first, then name."""
+    bare = issn.replace('-', '') if issn else ''
+    if bare:
+        jif = _JCR_ISSN_INDEX.get(bare)
+        if jif is not None:
+            return jif
+    return _JCR_NAME_INDEX.get(journal_name.upper().strip())
+
+
+def jcr_if_lookup(issn: str, journal_name: str = '') -> float | None:
+    """Public API: return JIF 2024 from the JCR index, or None if not found."""
+    return _clarivate_lookup(issn, journal_name)
 
 
 def _scimago_lookup(issn: str) -> dict | None:
@@ -280,7 +293,7 @@ def get_journal_metrics(doi: str) -> dict:
             'issn': issn,
             'category': category,
             'openalex_id': oa_id,
-            'clarivate_if': _clarivate_lookup(oa_id, journal_name),
+            'clarivate_if': _clarivate_lookup(issn, journal_name),
             'publisher': openalex_data.get('host_organization_name', 'Unknown'),
             'country': openalex_data.get('country_code', 'Unknown'),
             

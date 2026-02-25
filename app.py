@@ -2,7 +2,7 @@ import json
 import os
 import streamlit as st
 import pandas as pd
-from script import get_journal_metrics, get_paper_metrics
+from script import get_journal_metrics, get_paper_metrics, jcr_if_lookup
 
 def reset_state():
     st.session_state.clear()
@@ -19,7 +19,7 @@ def category_journals_to_df(category_journals):
         data.append({
             'Rank': rank,
             'Journal': j['name'],
-            'Clarivate IF': j.get('clarivate_if'),
+            'JIF 2024': jcr_if_lookup(j.get('issn', ''), j['name']),
             'OpenAlex IF': j['impact_factor'],
             'H-Index': j['h_index'],
             'Pubs / Year': j['works_count'],
@@ -76,7 +76,7 @@ with cols[1].container(border=True, key="blue_right"):
     st.markdown(f"**Journal: {journal['journal_name']}**")
     flex = st.container(horizontal=True, horizontal_alignment="left")
     if journal_clarivate_if is not None:
-        flex.badge(f"Clarivate IF: {journal_clarivate_if}")
+        flex.badge(f"JIF 2024: {journal_clarivate_if}")
     flex.badge(f"OpenAlex IF: {journal['impact_factor']}")
     flex.badge(f"H-Index: {journal['h_index']}")
     flex.badge(f"Quartile: {journal['scimago_quartile']}")
@@ -87,11 +87,13 @@ with cols[1].container(border=True, key="blue_right"):
     if not category_journals:
         st.warning(f"No journal data found for category: {category}")
     else:
-        # Use Clarivate IF for IREI when available, else fall back to OpenAlex IF
-        if df['Clarivate IF'].notna().any():
-            avg_if = df['Clarivate IF'].mean()
-            journal_if = journal_clarivate_if if journal_clarivate_if is not None else journal['impact_factor']
-            if_label = "Clarivate IF"
+        # Use JIF 2024 for IREI when both the current journal and category journals
+        # have JIF values — ensures apples-to-apples comparison.
+        # Falls back to OpenAlex IF when the current journal has no JIF.
+        if journal_clarivate_if is not None and df['JIF 2024'].notna().any():
+            avg_if = df['JIF 2024'].mean()  # pandas skips NaN, so mean over journals with JIF
+            journal_if = journal_clarivate_if
+            if_label = "JIF 2024"
         else:
             avg_if = df['OpenAlex IF'].mean()
             journal_if = journal['impact_factor']
