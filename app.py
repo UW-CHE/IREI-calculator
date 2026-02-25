@@ -54,6 +54,7 @@ with cols[0].container(border=True, key="blue_left"):
     flex.badge(f"# Authors: {paper['author_count']}")
     st.radio(
         label='Select Author', 
+        index=0,
         options=[item['name'] for item in paper['authors']],
         key='author'
     )
@@ -114,7 +115,7 @@ with cols[1].container(border=True, key="blue_right"):
     with st.expander(label="Show all journal metrics", expanded=False):
         st.write(journal)
 
-with st.expander("Journal Ranking in Category", expanded=True):
+with st.expander("Journal Ranking in Category", expanded=False):
     st.dataframe(
         df,
         use_container_width=True,
