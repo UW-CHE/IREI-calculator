@@ -1,160 +1,107 @@
+import json
 import streamlit as st
 import pandas as pd
 from script import get_journal_metrics, get_paper_metrics
 
+def reset_state():
+    st.session_state.clear()
 
-doi = st.text_input('Enter DOI', value='https://doi.org/10.1038/171737a0')
-output = get_journal_metrics(doi)
+
+def calc_authorship():
+    author = state['author']
+    pos = [item['position'] for item in paper['authors'] if item['name'] == author]
+    return pos[0]
+
+def category_journals_to_df(category_journals):
+    data = []
+    for rank, j in enumerate(category_journals, 1):
+        data.append({
+            'Rank': rank,
+            'Journal': j['name'],
+            'Impact Factor': j['impact_factor'],
+            'H-Index': j['h_index'],
+            'Pubs / Year': j['works_count'],
+            'Publisher': j.get('publisher', ''),
+        })
+    df = pd.DataFrame(data)
+    return df
+
+
+# Style
+css = """
+div[class*="st-key-blue_"] {
+    background: rgba(100, 100, 200, 0.1);
+}
+"""
+st.html(f"<style>{css}</style>")
+state = st.session_state
+
+st.set_page_config(layout="wide")
+doi = st.text_input('Enter DOI', value='https://doi.org/10.1038/171737a0', on_change=reset_state)
+journal = get_journal_metrics(doi)
 paper = get_paper_metrics(doi)
 
-item = 'title'
-label = item.replace('_', ' ').title()
-with st.container(border=True):
-    st.markdown(f"### {paper[item]}")
-
+cols = st.columns(2)
+with cols[0].container(border=True, key="blue_left"):
+    st.markdown(f"**Title: {paper['title']}**")
     flex = st.container(horizontal=True, horizontal_alignment="left")
     flex.badge(f"Published: {paper['publication_year']}")
     flex.badge(f"Cited by: {paper['cited_by_count']}")
     flex.badge(f"Percentile: {paper['citation_normalized_percentile']}")
     flex.badge(f"# Authors: {paper['author_count']}")
-    flex.badge(f"1st Author: {paper['first_author']}")
-# for item in paper['topics']:
-#     st.markdown(f"{item['domain']}  \n  -- {item['field']}  \n  ---- {item['subfield']}  \n  ------ {item['name']}")
+    st.radio(
+        label='Select Author', 
+        options=[item['name'] for item in paper['authors']],
+        key='author'
+    )
+    with st.expander(label='Show all paper metrics'):
+        st.write(paper) 
 
-item = 'journal_name'
-label = item.replace('_', ' ').title()
-st.metric(label, output[item], border=True)
+@st.cache_data
+def load_journal_db():
+    return json.load(open('curated_journals_by_category.json'))
 
-item = 'category'
-label = item.replace('_', ' ').title()
-st.metric(label, output[item], border=True)
+journal_db = load_journal_db()
+category = journal['category']
+category_journals = journal_db.get(category, [])
+df = category_journals_to_df(category_journals)
 
-item = 'publisher'
-label = item.replace('_', ' ').title()
-st.metric(label, output[item], border=True)
+with cols[1].container(border=True, key="blue_right"):
+    st.markdown(f"**Journal: {journal['journal_name']}**")
+    flex = st.container(horizontal=True, horizontal_alignment="left")
+    flex.badge(f"Impact Factor: {journal['impact_factor']}")
+    flex.badge(f"H-Index: {journal['h_index']}")
+    flex.badge(f"Quartile: {journal['scimago_quartile']}")
+    flex.badge(f"Pubs Last Year: {journal['counts_by_year'][1]['works_count']}")
+    flex.badge(f"Publisher: {journal['publisher']}")
+    flex.badge(f"Category: {journal['category']}")
 
-cols = st.columns(3)
-item = 'impact_factor'
-label = item.replace('_', ' ').title()
-cols[0].metric(label, output[item], border=True, height="stretch")
+    if not category_journals:
+        st.warning(f"No journal data found for category: {category}")
+    else:
+        # Summary badges
+        flex2 = st.container(horizontal=True)
+        flex2.badge(f"Average H-Index in Category: {df['H-Index'].mean()}")
+        flex2.badge(f"Average Impact Factor in Category: {df['Impact Factor'].mean()}")
+                
+        authorship = calc_authorship()
+        if authorship == 'first':
+            A = 1.0
+        elif authorship == 'middle':
+            A = 0.2
+        elif authorship == 'last':
+            A = 0.5
+        IREI = \
+            (journal['impact_factor']/df['Impact Factor'].mean() +
+            journal['h_index']/df['H-Index'].mean())*A
+        st.metric(label="IREI", value=f"{round(IREI, 3)}", border=True)
 
-item = 'h_index'
-label = item.replace('_', ' ').title()
-cols[1].metric(label, output[item], border=True, height="stretch")
+    with st.expander(label="Show all journal metrics", expanded=False):
+        st.write(journal)
 
-data = [output['counts_by_year'][i]['works_count'] for i in range(4, -1, -1)]
-cols[2].metric("Pubs in 2025", 
-    output['counts_by_year'][0]['works_count'], 
-    chart_data=data, 
-    chart_type='area',
-    border=True,
-    delta_color='green',
-)
-
-with st.expander("Show Top Journals in Category"):
-    import json
-    journals = json.load(open('journals_by_category.json'))
-    data = []
-    for j in journals[output['category']]:
-        # st.write(j)
-        data.append({
-            'Journal': j['name'], 
-            'Impact Factor': j['impact_factor'], 
-            'H-Index': j['h_index'], 
-            'Pubs per Year': j['works_count'],
-        })
-    df = pd.DataFrame(data)
-    st.write(df)
-
-
-# @st.cache_data
-def load_dataframe(file):
-    df = pd.read_csv(file, delimiter=';')
-    for item in ['Type', 'Sourceid', 'Open Access', 'Open Access Diamond', 'Overton']:
-        df.pop(item)
-    return df
-df = load_dataframe('scimagojr 2024.csv')
-
-
-# @st.cache_data
-def load_database(file):
-    return json.load(open(file, 'r'))
-db = load_database('scimago_db.json')
-
-with st.expander("Play with Scimago database"):
-    area = st.selectbox('Choose Area', sorted(list(db.keys())))
-    category = st.selectbox('Choose Category', sorted(list(db[area])))
-    quartile = st.selectbox('Choose Quartile', sorted(list(db[area][category])))
-    data = df.iloc[db[area][category][quartile]]
-    st.write(data)
-
-with st.expander("Filter Scimago database by Area and Category"):
-    areas = [
-        'Engineering',
-        'Chemical Engineering',
-        'Materials Science',
-        'Chemistry',
-        'Energy',
-        'Environmental Science',
-        'Mathematics',
-        'Biochemistry, Genetics and Molecular Biology',
-        'Agricultural and Biological Sciences',
-        'Pharmacology, Toxicology and Pharmaceutics',
-        'Immunology and Microbiology',
-        'Computer Science',
-        'Earth and Planetary Sciences',
-        'Physics and Astronomy',
-        'Medicine',
-        'Dentistry',
-        'Neuroscience',
-        'Multidisciplinary',
-        'Economics, Econometrics and Finance',
-        'Business, Management and Accounting',
-        'Psychology',
-        'Decision Sciences',
-        'Health Professions',
-        'Nursing',
-        'Veterinary',
-        'Social Sciences',
-        'Arts and Humanities',
-    ]
-
-    state = {}
-    cols = st.columns(3)
-    selected_areas = []
-    with cols[0]:
-        for i in range(len(areas)):
-            if st.checkbox(areas[i]):
-                selected_areas.append(areas[i])
-
-    selected_categories = []
-    with cols[1]:
-        available_categories = [list(db[area].keys()) for area in selected_areas]
-        overlapping_categories = set(available_categories[0])
-        if len(available_categories) > 1:
-            for cat in available_categories[1:]:
-                overlapping_categories.intersection_update(set(cat))
-        for cat in overlapping_categories:
-            try:
-                if st.checkbox(cat):
-                    selected_categories.append(cat)
-            except:
-                pass
-
-    selected_quartiles = []
-    with cols[2]:
-        for q in ['Q1', 'Q2', 'Q3', 'Q4', 'None']:
-            if st.checkbox(q):
-                selected_quartiles.append(q)
-
-    new_df = pd.DataFrame()
-    for area in selected_areas:
-        for category in selected_categories:
-            for q in selected_quartiles:
-                try:
-                    data = df.iloc[db[area][category][q]]
-                    new_df = pd.concat((new_df, data))
-                except KeyError:
-                    pass
-    new_df = new_df.drop_duplicates()
-    st.write(new_df)
+with st.expander("Journal Ranking in Category", expanded=True):
+    st.dataframe(
+        df,
+        use_container_width=True,
+        hide_index=True,
+    )

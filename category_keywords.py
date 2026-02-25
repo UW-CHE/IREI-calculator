@@ -13,8 +13,8 @@ CATEGORY_KEYWORDS = {
         'biophysics', 'bioprocess'
     ],
     'Electrochemical Engineering': [
-        'electrochemistry', 'electrochemical', 'battery', 'batteries', 'fuel cell',
-        'corrosion', 'electrocatalysis', 'electrode', 'electrolysis',
+        'electrochemistry', 'electrochemical', 'electrochimica', 'battery', 'batteries',
+        'fuel cell', 'corrosion', 'electrocatalysis', 'electrode', 'electrolysis',
         'electrodeposition', 'voltammetry', 'redox', 'ionic', 'supercapacitor',
         'electroanal', 'electroanalytical', 'power sources', 'vanadium', 'lithium',
         'flow battery', 'energy storage', 'energy technology', 'energy materials',
@@ -48,6 +48,19 @@ CATEGORY_KEYWORDS = {
         'waste', 'recycling', 'circular economy', 'clean energy', 'solar',
         'hydrogen', 'sustainability', 'photovoltaic', 'renewable energy', 'co2',
         'emission', 'climate'
+    ],
+    # Multidisciplinary journals are identified primarily by exact phrases in
+    # their titles.  Multi-word phrases prevent false matches on partial words.
+    # 'nature' is a standalone word because "Nature" (journal) has no other
+    # distinguishing term; specific sub-brands like "Nature Biotechnology"
+    # still win because their field keyword scores are twice as high.
+    'Multidisciplinary & Core Engineering': [
+        'multidisciplinary', 'interdisciplinary', 'nature',
+        'scientific reports', 'nature communications', 'science advances',
+        'pnas nexus', 'rsc advances', 'acs omega', 'acs central science',
+        'communications chemistry', 'cell reports physical', 'iscience',
+        'national science review', 'one earth', 'ccs chemistry',
+        'aggregate', 'plos one', 'heliyon', 'royal society open science',
     ]
 }
 

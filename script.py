@@ -5,6 +5,37 @@ import pandas as pd
 import re
 
 
+def _build_scimago_index(f='scimagojr 2024.csv') -> dict:
+    """Build a dict mapping bare ISSNs (no hyphens) to Scimago row data."""
+    try:
+        df = pd.read_csv(f, delimiter=';')
+    except FileNotFoundError:
+        return {}
+    index = {}
+    for _, row in df.iterrows():
+        raw_issns = str(row.get('Issn', ''))
+        for issn in raw_issns.split(','):
+            issn = issn.strip().replace('-', '')
+            if issn:
+                index[issn] = row
+    return index
+
+_SCIMAGO_INDEX = _build_scimago_index()
+
+
+def _scimago_lookup(issn: str) -> dict | None:
+    """Return Scimago row for the given ISSN (with or without hyphens), or None."""
+    bare = issn.replace('-', '')
+    row = _SCIMAGO_INDEX.get(bare)
+    if row is None:
+        return None
+    return {
+        'scimago_quartile': row.get('SJR Best Quartile'),
+        'scimago_sjr': row.get('SJR'),
+        'scimago_h_index': row.get('H index'),
+    }
+
+
 def scimago_csv_to_db(f='scimagojr 2024.csv'):
     df = pd.read_csv(f, delimiter=';')
     db = {}
@@ -30,69 +61,82 @@ def scimago_csv_to_db(f='scimagojr 2024.csv'):
 
 
 def categorize_journal(
-    journal_name: str, 
-    journal_topics: list, 
-    article_topics: list = None, 
+    journal_name: str,
+    journal_topics: list,
+    article_topics: list = None,
     article_keywords: list = None,
 ) -> str:
     """
-    Categorize a journal into research areas based on journal name, article topics, and keywords.
-    
-    Args:
-        journal_name: Name of the journal
-        journal_topics: List of topic dictionaries from OpenAlex (journal-level)
-        article_topics: List of topic dictionaries from the article (optional)
-        article_keywords: List of keyword dictionaries from the article (optional)
-        
-    Returns:
-        Category name string
+    Categorize a journal into research areas using a three-stage cascade.
+
+    Stage 1 – Journal name (decisive).
+        Each matching keyword adds 20 points.  If any category scores ≥ 20
+        the winner is returned immediately; article content is never consulted.
+        This ensures multidisciplinary journals like Scientific Reports and
+        specialized ones like Nature Biotechnology are not overridden by the
+        topic of the specific article being looked up.
+
+    Stage 2 – Journal-level topics (secondary identity signal).
+        Used only when the journal name gave no clear match.  If the leading
+        category reaches ≥ 3 topic hits the winner is returned, still without
+        consulting article content.
+
+    Stage 3 – Article topics / keywords (last resort).
+        Only reached when the journal's own identity signals are ambiguous
+        (e.g. very new journals with no distinctive name or few topics).
     """
-    # Score each category with weighted components
-    category_scores = {}
-    
+    journal_name_lower = journal_name.lower()
+
+    # ── Stage 1: journal name ────────────────────────────────────────────────
+    name_scores: dict[str, float] = {}
     for category, keywords in CATEGORY_KEYWORDS.items():
-        score = 0
-        journal_name_lower = journal_name.lower()
-        
-        # Weight 1: Journal name (highest priority - 10x weight)
-        for keyword in keywords:
-            if keyword in journal_name_lower:
-                score += 10
-        
-        # Weight 2: Article topics (2x weight)
-        if article_topics:
-            for topic in article_topics[:5]:  # Top 5 article topics
-                topic_name = topic.get('display_name', '').lower()
-                for keyword in keywords:
-                    if keyword in topic_name:
-                        score += 2
-                        break
-        
-        # Weight 3: Article keywords (1.5x weight)
-        if article_keywords:
-            for kw in article_keywords[:15]:  # Top 15 keywords
-                kw_name = kw.get('display_name', '').lower()
-                for keyword in keywords:
-                    if keyword in kw_name:
-                        score += 1.5
-                        break
-        
-        # Weight 4: Journal topics (1x weight, lower priority)
+        name_scores[category] = sum(
+            20 for kw in keywords if kw in journal_name_lower
+        )
+
+    max_name = max(name_scores.values())
+    if max_name >= 20:
+        return max(name_scores, key=name_scores.get)
+
+    # ── Stage 2: journal-level topics ───────────────────────────────────────
+    topic_scores: dict[str, float] = {cat: 0.0 for cat in CATEGORY_KEYWORDS}
+    for category, keywords in CATEGORY_KEYWORDS.items():
         for topic in journal_topics[:10]:
             topic_name = topic.get('display_name', '').lower()
-            for keyword in keywords:
-                if keyword in topic_name:
-                    score += 1
+            for kw in keywords:
+                if kw in topic_name:
+                    topic_scores[category] += 1
                     break
-        
-        category_scores[category] = score
-    
-    # Return category with highest score, or default if no matches
-    max_score = max(category_scores.values())
-    if max_score > 0:
-        return max(category_scores, key=category_scores.get)
-    else:
-        return DEFAULT_CATEGORY
+
+    max_topic = max(topic_scores.values())
+    if max_topic >= 3:
+        combined = {cat: name_scores[cat] + topic_scores[cat] for cat in name_scores}
+        return max(combined, key=combined.get)
+
+    # ── Stage 3: article content (ambiguous journal identity) ────────────────
+    article_scores: dict[str, float] = {
+        cat: name_scores[cat] + topic_scores[cat] for cat in name_scores
+    }
+    for category, keywords in CATEGORY_KEYWORDS.items():
+        if article_topics:
+            for topic in article_topics[:5]:
+                topic_name = topic.get('display_name', '').lower()
+                for kw in keywords:
+                    if kw in topic_name:
+                        article_scores[category] += 0.5
+                        break
+        if article_keywords:
+            for kw_entry in article_keywords[:15]:
+                kw_name = kw_entry.get('display_name', '').lower()
+                for kw in keywords:
+                    if kw in kw_name:
+                        article_scores[category] += 0.3
+                        break
+
+    max_article = max(article_scores.values())
+    if max_article > 0:
+        return max(article_scores, key=article_scores.get)
+    return DEFAULT_CATEGORY
 
 
 def get_journal_metrics(doi: str) -> dict:
@@ -229,9 +273,12 @@ def get_journal_metrics(doi: str) -> dict:
             'is_oa': openalex_data.get('is_oa', False),
             
             # Year-by-year data
-            'counts_by_year': counts_by_year[:5]  # Last 5 years
+            'counts_by_year': counts_by_year[:5],  # Last 5 years
+
+            # Scimago rankings
+            **(_scimago_lookup(issn) or {'scimago_quartile': None, 'scimago_sjr': None, 'scimago_h_index': None})
         }
-        
+
         return metrics
         
     except Exception as e:
@@ -387,7 +434,6 @@ def get_paper_metrics(doi: str) -> dict:
             
             # Abstract and keywords
             'abstract': data.get('abstract'),
-            'abstract_inverted_index': data.get('abstract_inverted_index'),
             'keywords': keywords,
             
             # Research classification
@@ -400,7 +446,7 @@ def get_paper_metrics(doi: str) -> dict:
             'cited_by_count': data.get('cited_by_count', 0),
             'references_count': data.get('referenced_works_count', 0),
             'counts_by_year': data.get('counts_by_year', []),
-            'citation_normalized_percentile': data.get('cited_by_percentile_year', {}).get('min'),
+            'citation_normalized_percentile': (data.get('cited_by_percentile_year') or {}).get('min'),
             
             # Open Access
             'is_open_access': oa_info.get('is_oa', False),
