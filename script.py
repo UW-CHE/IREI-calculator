@@ -23,6 +23,35 @@ def _build_scimago_index(f='scimagojr 2024.csv') -> dict:
 _SCIMAGO_INDEX = _build_scimago_index()
 
 
+def _build_clarivate_index(f='curated_journals_by_category.json') -> dict:
+    """Build a dict mapping normalised journal name → clarivate_if and openalex_id."""
+    try:
+        with open(f, encoding='utf-8') as fh:
+            db = json.load(fh)
+    except FileNotFoundError:
+        return {}
+    index = {}
+    for journals in db.values():
+        for j in journals:
+            key = j['name'].lower().strip()
+            index[key] = {
+                'clarivate_if': j.get('clarivate_if'),
+                'openalex_id': j.get('openalex_id', ''),
+            }
+    return index
+
+_CLARIVATE_INDEX = _build_clarivate_index()
+
+
+def _clarivate_lookup(openalex_id: str, journal_name: str) -> float | None:
+    """Return clarivate_if for the journal, or None if not in the curated DB."""
+    if openalex_id:
+        for entry in _CLARIVATE_INDEX.values():
+            if entry['openalex_id'] == openalex_id:
+                return entry['clarivate_if']
+    return _CLARIVATE_INDEX.get(journal_name.lower().strip(), {}).get('clarivate_if')
+
+
 def _scimago_lookup(issn: str) -> dict | None:
     """Return Scimago row for the given ISSN (with or without hyphens), or None."""
     bare = issn.replace('-', '')
@@ -245,11 +274,13 @@ def get_journal_metrics(doi: str) -> dict:
             
             impact_factor = round(citations_to_2y_papers / papers_2y, 2) if papers_2y > 0 else 0
         
+        oa_id = openalex_data.get('id', '')
         metrics = {
             'journal_name': journal_name,
             'issn': issn,
             'category': category,
-            'openalex_id': openalex_data.get('id', ''),
+            'openalex_id': oa_id,
+            'clarivate_if': _clarivate_lookup(oa_id, journal_name),
             'publisher': openalex_data.get('host_organization_name', 'Unknown'),
             'country': openalex_data.get('country_code', 'Unknown'),
             

@@ -18,13 +18,15 @@ def category_journals_to_df(category_journals):
         data.append({
             'Rank': rank,
             'Journal': j['name'],
-            'Impact Factor': j['impact_factor'],
+            'Clarivate IF': j.get('clarivate_if'),
+            'OpenAlex IF': j['impact_factor'],
             'H-Index': j['h_index'],
             'Pubs / Year': j['works_count'],
             'Publisher': j.get('publisher', ''),
         })
     df = pd.DataFrame(data)
     return df
+
 
 
 # Style
@@ -66,10 +68,14 @@ category = journal['category']
 category_journals = journal_db.get(category, [])
 df = category_journals_to_df(category_journals)
 
+journal_clarivate_if = journal.get('clarivate_if')
+
 with cols[1].container(border=True, key="blue_right"):
     st.markdown(f"**Journal: {journal['journal_name']}**")
     flex = st.container(horizontal=True, horizontal_alignment="left")
-    flex.badge(f"Impact Factor: {journal['impact_factor']}")
+    if journal_clarivate_if is not None:
+        flex.badge(f"Clarivate IF: {journal_clarivate_if}")
+    flex.badge(f"OpenAlex IF: {journal['impact_factor']}")
     flex.badge(f"H-Index: {journal['h_index']}")
     flex.badge(f"Quartile: {journal['scimago_quartile']}")
     flex.badge(f"Pubs Last Year: {journal['counts_by_year'][1]['works_count']}")
@@ -79,11 +85,21 @@ with cols[1].container(border=True, key="blue_right"):
     if not category_journals:
         st.warning(f"No journal data found for category: {category}")
     else:
+        # Use Clarivate IF for IREI when available, else fall back to OpenAlex IF
+        if df['Clarivate IF'].notna().any():
+            avg_if = df['Clarivate IF'].mean()
+            journal_if = journal_clarivate_if if journal_clarivate_if is not None else journal['impact_factor']
+            if_label = "Clarivate IF"
+        else:
+            avg_if = df['OpenAlex IF'].mean()
+            journal_if = journal['impact_factor']
+            if_label = "OpenAlex IF"
+
         # Summary badges
         flex2 = st.container(horizontal=True)
-        flex2.badge(f"Average H-Index in Category: {df['H-Index'].mean()}")
-        flex2.badge(f"Average Impact Factor in Category: {df['Impact Factor'].mean()}")
-                
+        flex2.badge(f"Avg H-Index in Category: {df['H-Index'].mean():.1f}")
+        flex2.badge(f"Avg {if_label} in Category: {avg_if:.2f}")
+
         authorship = calc_authorship()
         if authorship == 'first':
             A = 1.0
@@ -91,9 +107,7 @@ with cols[1].container(border=True, key="blue_right"):
             A = 0.2
         elif authorship == 'last':
             A = 0.5
-        IREI = \
-            (journal['impact_factor']/df['Impact Factor'].mean() +
-            journal['h_index']/df['H-Index'].mean())*A
+        IREI = (journal_if / avg_if + journal['h_index'] / df['H-Index'].mean()) * A
         st.metric(label="IREI", value=f"{round(IREI, 3)}", border=True)
 
     with st.expander(label="Show all journal metrics", expanded=False):
