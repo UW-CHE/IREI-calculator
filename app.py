@@ -1,4 +1,5 @@
 import json
+import os
 import streamlit as st
 import pandas as pd
 from script import get_journal_metrics, get_paper_metrics
@@ -60,10 +61,10 @@ with cols[0].container(border=True, key="blue_left"):
         st.write(paper) 
 
 @st.cache_data
-def load_journal_db():
+def load_journal_db(mtime):
     return json.load(open('curated_journals_by_category.json'))
 
-journal_db = load_journal_db()
+journal_db = load_journal_db(os.path.getmtime('curated_journals_by_category.json'))
 category = journal['category']
 category_journals = journal_db.get(category, [])
 df = category_journals_to_df(category_journals)
