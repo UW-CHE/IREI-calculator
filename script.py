@@ -102,6 +102,53 @@ def scimago_csv_to_db(f='scimagojr 2024.csv'):
     json.dump(db, open('scimago_db.json', 'w'))
 
 
+def get_paper_category(
+    title: str,
+    topics: list,
+    keywords: list,
+    abstract: str = None,
+) -> str:
+    """
+    Categorize a paper into one of the 7 research areas using its content.
+
+    Signals and weights:
+    - OpenAlex topics × topic relevance score × 4  (most reliable: pre-classified by ML)
+    - Title keyword hit                             +3.0  (focused, domain-specific)
+    - Paper keyword hit                             +1.0
+    - Abstract keyword hit (first 500 chars)        +0.3  (noisy, low weight)
+
+    Returns the category with the highest cumulative score, or DEFAULT_CATEGORY
+    if no signal exceeds zero.
+    """
+    scores: dict[str, float] = {cat: 0.0 for cat in CATEGORY_KEYWORDS}
+
+    title_lower = (title or '').lower()
+    kw_text = ' '.join((kw or '').lower() for kw in keywords)
+    abstract_snippet = (abstract or '')[:500].lower()
+
+    for category, cat_keywords in CATEGORY_KEYWORDS.items():
+        for kw in cat_keywords:
+            if kw in title_lower:
+                scores[category] += 3.0
+            if kw in kw_text:
+                scores[category] += 1.0
+            if abstract_snippet and kw in abstract_snippet:
+                scores[category] += 0.3
+
+        for topic in topics[:10]:
+            topic_name = (topic.get('name') or '').lower()
+            topic_score = topic.get('score', 0.5)
+            for kw in cat_keywords:
+                if kw in topic_name:
+                    scores[category] += topic_score * 4.0
+                    break  # one hit per topic per category
+
+    max_score = max(scores.values())
+    if max_score > 0:
+        return max(scores, key=scores.get)
+    return DEFAULT_CATEGORY
+
+
 def categorize_journal(
     journal_name: str,
     journal_topics: list,
@@ -450,6 +497,13 @@ def get_paper_metrics(doi: str) -> dict:
         # Extract related works (most similar papers) - already a list of strings
         related_works = data.get('related_works', [])
         
+        category = get_paper_category(
+            title=data.get('title', ''),
+            topics=topics,
+            keywords=keywords,
+            abstract=data.get('abstract'),
+        )
+
         paper_info = {
             # Basic bibliographic info
             'title': data.get('title', 'Unknown'),
@@ -481,6 +535,7 @@ def get_paper_metrics(doi: str) -> dict:
             'keywords': keywords,
             
             # Research classification
+            'category': category,
             'topics': topics,
             'concepts': concepts,
             'mesh_terms': mesh_terms,
